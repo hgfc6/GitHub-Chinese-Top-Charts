@@ -1,60 +1,69 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|6484|2022-10-11|
-|2|[ming1016/study](https://github.com/ming1016/study)|学习记录|3800|2022-11-14|
-|3|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|FFmpeg实现音频拼接、混音、均衡器音效；视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议|3661|2022-12-06|
-|4|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|3220|2022-11-11|
-|5|[kangjianwei/Data-Structure](https://github.com/kangjianwei/Data-Structure)|《数据结构》-严蔚敏.吴伟民-教材源码与习题解析|2825|2022-07-20|
-|6|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1683|2022-11-30|
-|7|[iOS-Swift-Developers/Swift](https://github.com/iOS-Swift-Developers/Swift)|🥇Swift基础知识大全,🚀Swift学习从简单到复杂,不断地完善与更新, 欢迎Star❤️,欢迎Fork, iOS开发者交流:①群:446310206 ②群:426087546|1621|2022-06-09|
-|8|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1530|2022-11-26|
-|9|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|1301|2022-08-02|
-|10|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|837|2022-11-29|
-|11|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|742|2022-11-29|
-|12|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|736|2022-11-07|
-|13|[yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm)|Qemu  KVM(Kernel Virtual Machine)学习笔记|650|2022-07-30|
-|14|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|547|2022-07-13|
-|15|[peng-zhihui/MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware)|自制火星车的开源资料。|419|2022-07-25|
-|16|[Greedysky/TTKWidgetTools](https://github.com/Greedysky/TTKWidgetTools)|QWidget 自定义控件集合  持续更新中......|382|2022-07-15|
-|17|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|316|2022-06-25|
-|18|[y123456yz/reading-and-annotate-quic](https://github.com/y123456yz/reading-and-annotate-quic)|quic、prot_quic、goquic、libquic源码中文注释分析，增加C++ quic-client和quic-server example 程序，便于快速掌握学习谷歌quic库源码和学习quic协议,作为新的网络加速协议，可以根据实际需要应用于自己的工程项目中。把google quic源码和goquic合并到一个工程编译安装|296|2022-11-02|
-|19|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|286|2022-06-12|
-|20|[r0ysue/AndroidFridaBeginnersBook](https://github.com/r0ysue/AndroidFridaBeginnersBook)|《安卓Frida逆向与抓包实战》随书附件|276|2022-08-06|
-|21|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|267|2022-10-31|
-|22|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LilyGo LoRa Series examples|267|2022-08-05|
-|23|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|266|2022-10-10|
-|24|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|210|2022-11-25|
-|25|[yifengyou/sparrow](https://github.com/yifengyou/sparrow)|郑钢《自制编程语言》随书源码及读书笔记|197|2022-09-09|
-|26|[leleliu008/C-examples](https://github.com/leleliu008/C-examples)|C语言学习项目|174|2022-09-01|
-|27|[feiskyer/ebpf-apps](https://github.com/feiskyer/ebpf-apps)|极客时间专栏《eBPF 核心技术与实战》案例|160|2022-08-28|
-|28|[horychen/ACMSIMC_TUT](https://github.com/horychen/ACMSIMC_TUT)|AC Machine Simulation in C (Tutorial Version)|160|2022-08-18|
-|29|[bouffalolab/bl_mcu_sdk](https://github.com/bouffalolab/bl_mcu_sdk)|bl_mcu_sdk is MCU software development kit provided by Bouffalo Lab Team for BL602/BL604, BL702/BL704/BL706, BL616/BL618, BL808 and other series of  RISC-V based chips in the future.|159|2022-12-08|
-|30|[DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample](https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample)|This sample project demonstrates how to use FFmpeg for video frame parsing and to use MediaCodec for hardware decoding on DJI Products.|158|2022-11-01|
-|31|[tidyjiang8/zephyr-doc](https://github.com/tidyjiang8/zephyr-doc)|《Zephyr OS 文档 - 中文版》|146|2022-11-24|
-|32|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|:fire: xUnwind is a collection of Android native stack unwinding solutions.|131|2022-08-30|
-|33|[pengxurui/AndroidFamilyDemo](https://github.com/pengxurui/AndroidFamilyDemo)|AndroidFamily 专栏配套示例程序|110|2022-11-01|
-|34|[wolongalick/AVClip](https://github.com/wolongalick/AVClip)|这是一个用于学习音视频剪辑的项目|107|2022-09-07|
-|35|[Stephan14/Pointers_On_C](https://github.com/Stephan14/Pointers_On_C)|<<C和指针>>读书笔记|101|2022-06-26|
-|36|[vrolife/modern_laptop](https://github.com/vrolife/modern_laptop)|Redmi Book Pro 14/15 2022 锐龙版/Ryzen Linux 键盘驱动/keyboard driver|88|2022-12-04|
-|37|[XMU-Helper/home](https://github.com/XMU-Helper/home)|厦门大学攻略大全 Import files, learning materials and useful links of XMU to help XMUers live and learn better.|79|2022-10-03|
-|38|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|c4droid代码合集|74|2022-11-27|
-|39|[gongluck/CVIP](https://github.com/gongluck/CVIP)|C/C++/Golang/Linux...知识整理|62|2022-12-08|
-|40|[strongercjd/STM32F207VCT6](https://github.com/strongercjd/STM32F207VCT6)|STM32F207VCT6 learning resource |61|2022-09-25|
-|41|[hzcx998/BookOS](https://github.com/hzcx998/BookOS)|BookOS is a tiny OS based on xbook2 kernel, you can use it to study!|60|2022-07-21|
-|42|[dulong-lab/video-virtual-memory-materials](https://github.com/dulong-lab/video-virtual-memory-materials)|《关于编写 x64 Windows 10 驱动以了解虚拟内存这件事》系列视频附带的代码和材料|59|2022-10-05|
-|43|[shangzongyu/source-code](https://github.com/shangzongyu/source-code)|收集一些书的源码，方便自己查找|54|2022-09-28|
-|44|[zpublic/cozy](https://github.com/zpublic/cozy)|这是一个用于学习C＃的开源项目|47|2022-08-31|
-|45|[benggee/lamphttp](https://github.com/benggee/lamphttp)|使用纯c语言实现的一个http server， 里面包含了众多linux下的编程技巧，比如线程池，自己实现了一个channel，使用到了epoll技术等等|46|2022-07-30|
-|46|[HITSZ-CDP/cdp-tests](https://github.com/HITSZ-CDP/cdp-tests)|《计算机设计与实践》测试框架|13|2022-06-28|
-|47|[akerdi/buildyourownsqlite](https://github.com/akerdi/buildyourownsqlite)|制作一个自己的sqlite教程|11|2022-06-22|
-|48|[ZCXu1/HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments)|华中科技大学网络空间安全学院课程设计及课程实验合集|6|2022-07-01|
-|49|[KcMeterCEC/explore](https://github.com/KcMeterCEC/explore)|学习笔记及积累|6|2022-07-26|
-|50|[apachiww/Notes](https://github.com/apachiww/Notes)|日常学习笔记，什么都会有w|5|2022-07-29|
+|1|[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)|Port of Facebook's LLaMA model in C/C++|45124|2023-11-29|
+|2|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7328|2023-11-13|
+|3|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议|4477|2023-11-23|
+|4|[ming1016/study](https://github.com/ming1016/study)|学习记录|3845|2023-07-19|
+|5|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2109|2023-08-19|
+|6|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2085|2023-11-19|
+|7|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|1862|2023-08-04|
+|8|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1781|2023-10-13|
+|9|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|Learn eBPF by examples   eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景|1298|2023-11-27|
+|10|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1222|2023-11-29|
+|11|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1113|2023-11-21|
+|12|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1043|2023-09-21|
+|13|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|914|2023-11-03|
+|14|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|879|2023-10-10|
+|15|[zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng)|chinadns 重构增强版，支持黑白名单，ipset/nftset|842|2023-11-25|
+|16|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|815|2023-11-02|
+|17|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|628|2023-06-18|
+|18|[yifengyou/linux-0.12](https://github.com/yifengyou/linux-0.12)|赵炯老师《linux-0.12 内核完全剖析》读书笔记及linux-0.12注释源码|528|2023-07-04|
+|19|[Greedysky/TTKWidgetTools](https://github.com/Greedysky/TTKWidgetTools)|QWidget 自定义控件集合  持续更新中......|514|2023-11-29|
+|20|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2023年春季OS课程Slides|513|2023-11-22|
+|21|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|469|2023-11-27|
+|22|[ultraji/linux-0.12](https://github.com/ultraji/linux-0.12)|《Linux内核完全剖析》linux0.12源码及实验环境|419|2023-10-29|
+|23|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|401|2023-11-23|
+|24|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|381|2023-11-14|
+|25|[cantjie/XJTU-Share](https://github.com/cantjie/XJTU-Share)|西安交通大学课程资料共享计划|378|2023-06-03|
+|26|[bouffalolab/bouffalo_sdk](https://github.com/bouffalolab/bouffalo_sdk)|BouffaloSDK is the IOT and MCU software development kit provided by the Bouffalo Lab Team, supports all the series of Bouffalo chips. Also it is the combination of bl_mcu_sdk and bl_iot_sdk |313|2023-11-27|
+|27|[adiwzx/freenode](https://github.com/adiwzx/freenode)|V2Ray   Clash 免费节点分享|284|2023-10-22|
+|28|[feiskyer/ebpf-apps](https://github.com/feiskyer/ebpf-apps)|极客时间专栏《eBPF 核心技术与实战》案例|264|2023-10-29|
+|29|[leleliu008/C-examples](https://github.com/leleliu008/C-examples)|C语言学习项目|240|2023-06-08|
+|30|[evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask)|添加计划任务方法集合|215|2023-08-06|
+|31|[ZCXu1/HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments)|华中科技大学网络空间安全学院课程设计及课程实验合集(Collection of Course Projects and Experiments in the School of Cyber Science and Engineering at HUST)|208|2023-09-14|
+|32|[vrolife/modern_laptop](https://github.com/vrolife/modern_laptop)|Redmi Book Pro 14/15 2022 锐龙版/Ryzen Linux 键盘驱动/keyboard driver|206|2023-11-25|
+|33|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|186|2023-11-05|
+|34|[ChangWinde/SouthEastUniversity](https://github.com/ChangWinde/SouthEastUniversity)|东南大学软件学院课程资料|181|2023-07-02|
+|35|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|176|2023-10-05|
+|36|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|156|2023-09-13|
+|37|[sunxvming/navmesh](https://github.com/sunxvming/navmesh)|导航网格寻路C++实现版(入门版)|144|2023-11-15|
+|38|[zjutjh/zjut-icicles](https://github.com/zjutjh/zjut-icicles)|浙江工业大学课程攻略共享计划|137|2023-10-17|
+|39|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|C4droid代码实例 C/C++代码实例/教程|117|2023-09-07|
+|40|[yocn/AndroidMediaCodec](https://github.com/yocn/AndroidMediaCodec)|Android 音视频处理集合，关联了ffmpeg\libyuv等等库|113|2023-11-08|
+|41|[chunhuajiang/esp-idf-zh](https://github.com/chunhuajiang/esp-idf-zh)|ESP-IDF 中文文档 |105|2023-11-03|
+|42|[wolongalick/AVClip](https://github.com/wolongalick/AVClip)|这是一个用于学习音视频剪辑的项目|101|2023-10-05|
+|43|[KarryRen/SCU-CS-Class-Materials](https://github.com/KarryRen/SCU-CS-Class-Materials)|四川大学计算机学院本科课程资料（更新中）|99|2023-07-31|
+|44|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程，文章遵守 CC BY NC SA 4.0 协议。|96|2023-11-19|
+|45|[gongluck/CVIP](https://github.com/gongluck/CVIP)|C/C++/Golang/Linux...知识整理|82|2023-11-27|
+|46|[volatile-static/Keyboard](https://github.com/volatile-static/Keyboard)|客制化机械键盘——从0开始全套资料|81|2023-08-10|
+|47|[heidsoft/devops](https://github.com/heidsoft/devops)|devops 经验总结实践与产品化|80|2023-08-21|
+|48|[Rogue24/JPBasicPrincipleKit](https://github.com/Rogue24/JPBasicPrincipleKit)|M了个J老师的iOS底层原理课的个人笔记、心得|71|2023-06-05|
+|49|[shangzongyu/source-code](https://github.com/shangzongyu/source-code)|收集一些书的源码，方便自己查找|60|2023-10-09|
+|50|[jiegeng321/Creative-Mini-Car-Modification](https://github.com/jiegeng321/Creative-Mini-Car-Modification)|持续更新，欢迎star，保姆级改装教程：|53|2023-11-19|
+|51|[WHUCodingAndOpen/OpenCourseResources](https://github.com/WHUCodingAndOpen/OpenCourseResources)|WHU开源资料|50|2023-11-29|
+|52|[SwimmingTiger/oraykvm](https://github.com/SwimmingTiger/oraykvm)|向日葵控控A2(OrayKVM)U盘救砖/USB恢复模式说明/免U盘刷机教程|49|2023-08-14|
+|53|[jaywcjlove/c-tutorial](https://github.com/jaywcjlove/c-tutorial)|C语言教程|46|2023-11-29|
+|54|[sunxvming/navmesh-advance](https://github.com/sunxvming/navmesh-advance)|导航网格寻路C++实现版(进阶版)|42|2023-11-15|
+|55|[r0ysue/FridaAndrioidNativeBeginnersBook](https://github.com/r0ysue/FridaAndrioidNativeBeginnersBook)|《安卓Frida SO逆向分析实战》|41|2023-10-22|
+|56|[zezzid/ZJU_Course](https://github.com/zezzid/ZJU_Course)|ZJU本科课程资料（ISEE为主）|40|2023-07-03|
+|57|[smd1121/zju-course](https://github.com/smd1121/zju-course)|ZJU 信安19 课程资料|40|2023-11-14|
+|58|[Vizdl/linux-lib](https://github.com/Vizdl/linux-lib)|linux学习|39|2023-06-02|
+|59|[yifengyou/linux-3](https://github.com/yifengyou/linux-3)|《深入理解Linux网络（张彦飞）》；   《内核解密》；|38|2023-06-26|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

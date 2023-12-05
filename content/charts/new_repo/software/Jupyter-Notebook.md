@@ -1,35 +1,46 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[EssayKillerBrain/EssayTopicPredict](https://github.com/EssayKillerBrain/EssayTopicPredict)|高考作文题目预测模型 v1.0|358|2022-06-09|2022-05-08|
-|2|[boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL)|https://hrl.boyuai.com/|310|2022-05-09|2021-08-08|
-|3|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|224|2022-05-04|2021-09-29|
-|4|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|178|2022-04-17|2021-08-18|
-|5|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|150|2022-05-06|2021-10-21|
-|6|[chenghuige/pikachu2](https://github.com/chenghuige/pikachu2)|微信大数据2021 1st，qq浏览器2021 3rd，mind新闻推荐2020 1st，NAIC2020 AI+遥感影像 2nd|129|2022-03-16|2021-11-04|
-|7|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|119|2022-02-12|2021-08-29|
-|8|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|115|2022-05-06|2021-10-15|
-|9|[hutaosufe/Chinese-Multi-factor-Model](https://github.com/hutaosufe/Chinese-Multi-factor-Model)|中国版多因子模型的构建、检验与对比（原创；适合初学者；适合准备从stata转Python的科研人员）|108|2022-04-11|2021-12-29|
-|10|[hhiim/Lacan](https://github.com/hhiim/Lacan)|利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……|97|2022-02-07|2022-02-04|
-|11|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|80|2022-03-06|2021-10-11|
-|12|[chokkan/python](https://github.com/chokkan/python)|Python早見帳|76|2022-05-13|2021-10-04|
-|13|[hansu1017/WSDM-CUP-2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM-CUP-2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|64|2022-02-26|2022-01-28|
-|14|[DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline](https://github.com/DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline)|GAIIC2022商品标题实体识别Baseline，使用GlobalPointer实现，线上0.80349|44|2022-04-09|2022-03-23|
-|15|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|44|2022-03-07|2021-10-04|
-|16|[andy6804tw/2021-13th-ironman](https://github.com/andy6804tw/2021-13th-ironman)|第13屆iT邦幫忙鐵人賽|40|2022-05-30|2021-09-13|
-|17|[yanqiangmiffy/Product-Entity-Recognition](https://github.com/yanqiangmiffy/Product-Entity-Recognition)|商品标题实体识别|26|2022-04-01|2022-03-22|
-|18|[codecat0/CV](https://github.com/codecat0/CV)|本仓库将使用Pytorch框架实现经典的图像分类网络、目标检测网络、图像分割网络，图像生成网络等，并会持续更新！！！|21|2022-05-09|2021-11-10|
-|19|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|18|2022-08-01|2021-08-16|
-|20|[yjb6/CS231n-2022](https://github.com/yjb6/CS231n-2022)|CS231n作业代码实现|15|2022-07-25|2022-05-05|
-|21|[CNFeffery/PythonPracticalSkills](https://github.com/CNFeffery/PythonPracticalSkills)|存放「Python实用秘技」系列文章对应附件|15|2022-07-24|2021-12-09|
-|22|[acgmusic/SouBaiduPan-master](https://github.com/acgmusic/SouBaiduPan-master)|搜索百度网盘资源，自动抓取密码，批量打开|13|2022-07-08|2022-05-11|
-|23|[xwj770427414/Mathematical-modeling](https://github.com/xwj770427414/Mathematical-modeling)|【国赛/美赛】数学建模相关算法 Python与MATLAB实现，练习项目存档。|12|2022-07-28|2022-01-13|
-|24|[xinwuyun/serverless-ai-demo](https://github.com/xinwuyun/serverless-ai-demo)|基于AnimeGAN2+serverless+NAS存储的漫画风图片生成工具|10|2022-05-11|2022-04-18|
-|25|[Cpuritan/Financial-fake-Predict](https://github.com/Cpuritan/Financial-fake-Predict)|近年来不时出现上市公司财务数据造假及暴雷的情况。面对上市公司多年的财务数据报告，筛选数据指标进行跟踪分析和研究，识别真伪，避免投资踩雷🤣。谁造假谁是是是🐱‍🐉😒|3|2022-06-30|2021-11-01|
+|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|28472|2023-10-04|2023-04-07|
+|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17491|2023-10-27|2023-03-13|
+|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|9649|2023-11-28|2023-02-11|
+|4|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4488|2023-11-19|2023-04-09|
+|5|[LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)|骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|3475|2023-09-03|2023-03-21|
+|6|[PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)|We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to ...|2204|2023-11-01|2023-03-24|
+|7|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)|Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|2102|2023-11-09|2023-03-10|
+|8|[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)|HuggingLLM, Hugging Future.|1907|2023-11-27|2023-04-11|
+|9|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|1446|2023-11-23|2023-06-12|
+|10|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1218|2023-11-26|2023-06-11|
+|11|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。|1147|2023-11-28|2023-05-31|
+|12|[hikariming/alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset)|人工精调的中文对话数据集和一段chatglm的微调代码|998|2023-06-05|2023-03-17|
+|13|[AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)|Democratizing Internet-scale financial data.|884|2023-11-26|2023-02-07|
+|14|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|637|2023-11-04|2023-08-30|
+|15|[s4afa451dgf415f/colab_stable_diffusion](https://github.com/s4afa451dgf415f/colab_stable_diffusion)|stable_diffusion_webui的colab部署版本(including English version)，下载了所流行插件依赖和并进行初始化配置。拥有mod管理、手机自适应、图片信息本地读取等脚本。|606|2023-11-29|2023-04-03|
+|16|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|505|2023-11-27|2023-07-17|
+|17|[yuanjie-ai/ChatLLM](https://github.com/yuanjie-ai/ChatLLM)|轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等|342|2023-10-16|2023-04-11|
+|18|[LC1332/Luotuo-Text-Embedding](https://github.com/LC1332/Luotuo-Text-Embedding)|Luotuo Embedding(骆驼嵌入) is a text embedding model, which developed by 李鲁鲁, 冷子昂, 陈启源, 蒟蒻等.|234|2023-08-25|2023-04-06|
+|19|[wu-hao-ze/All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University](https://github.com/wu-hao-ze/All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University)|同济大学软件学院软件工程专业课所有作业和项目，包括以下内容：数据结构课程设计，计算机组成原理，离散数学，Python，操作系统，操作系统课程设计，计算机系统结构，系统分析与设计，数据库原理与应用，数据库原理与应用课程设计，算法分析设计，人工智能导论，计算机网络，计算机网络实验，软件工程，软件工程课程设计，软件设计模式，智能计算系统，编译原理，嵌入式系统导论，物联网应用基础，用户交互技术，软件测试， ...|205|2023-07-10|2023-05-13|
+|20|[TommyZihao/Label2Everything](https://github.com/TommyZihao/Label2Everything)|常见计算机视觉标注格式相互转换|195|2023-07-18|2023-04-15|
+|21|[RonaldJEN/FinanceChatGLM](https://github.com/RonaldJEN/FinanceChatGLM)|SMP 2023 ChatGLM金融大模型挑战赛 60 分baseline思路介绍|175|2023-08-10|2023-08-09|
+|22|[datawhalechina/whale-quant](https://github.com/datawhalechina/whale-quant)|本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。|143|2023-10-10|2023-04-08|
+|23|[WSH032/kohya-config-webui](https://github.com/WSH032/kohya-config-webui)|A WebUI for making config files used by kohya_sd_script.   一个用于生成kohya-ss训练脚本使用的toml配置文件的WebUI|86|2023-08-01|2023-04-14|
+|24|[Glanvery/LLM-Travel](https://github.com/Glanvery/LLM-Travel)|欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。|67|2023-10-30|2023-10-02|
+|25|[dkl0707/factor_backtest](https://github.com/dkl0707/factor_backtest)|因子回测框架|43|2023-07-09|2023-05-11|
+|26|[BoXiaolei/MyTransformer_pytorch](https://github.com/BoXiaolei/MyTransformer_pytorch)|关于Transformer模型的最简洁pytorch实现，包含详细注释|42|2023-11-13|2023-11-03|
+|27|[kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)|中国如何下载huggingface 模型并共享链接|32|2023-11-20|2023-09-10|
+|28|[gameofdimension/vllm-cn](https://github.com/gameofdimension/vllm-cn)|演示 vllm 对中文大语言模型的神奇效果|32|2023-11-04|2023-07-08|
+|29|[flizzywine/kline-mirror](https://github.com/flizzywine/kline-mirror)|A股历史复盘|31|2023-06-29|2023-01-17|
+|30|[Olivia-account/Military-Equipment-Knowledge-Graph-Based-on-Deep-Learning-and-Neo4j](https://github.com/Olivia-account/Military-Equipment-Knowledge-Graph-Based-on-Deep-Learning-and-Neo4j)|基于深度学习与Neo4j的军事装备知识图谱网页应用构建。本项目是一个军事武器知识图谱网页应用软件原型系统。该系统由数据爬虫、数据管理、数据处理、知识问答、新闻热点、词条查询和图谱展示七个功能模块组成。系统从互联网上爬取数据，并基于百度文心ERNIE 3.0模型对数据进行实体识别和关系抽取，将数据处理为三元组形式并存储到图数据库Neo4j中。通过数据管理和数据标注，并通过对Neo4j中的三元组数据进 ...|26|2023-06-24|2023-06-24|
+|31|[roberthsu2003/__112_python_chihlee__](https://github.com/roberthsu2003/__112_python_chihlee__)|10_14日_致理_python_大數據探勘|25|2023-11-26|2023-10-14|
+|32|[TommyZihao/aidlux_tutorial](https://github.com/TommyZihao/aidlux_tutorial)|AidLux手机部署人工智能算法|25|2023-10-14|2023-06-25|
+|33|[Tony607/Cybergear](https://github.com/Tony607/Cybergear)|小米微电机Cybergear上手开发|23|2023-11-17|2023-09-02|
+|34|[jackley-dev/gpt-langchain-pdf-chat](https://github.com/jackley-dev/gpt-langchain-pdf-chat)|利用chatgpt api和pinecone向量数据库，基于langchain开发的本地知识库问答demo。项目可以读取本地目录下的pdf文档，向量化后存储到pinecone数据库，并基于数据库中的特定领域知识进行问答。|21|2023-06-14|2023-06-04|
+|35|[roberthsu2003/__chihlee_pico__](https://github.com/roberthsu2003/__chihlee_pico__)|致理pico_w課程|20|2023-11-26|2023-11-19|
+|36|[shannany0606/2022_National_Math_Modeling_Competiotion](https://github.com/shannany0606/2022_National_Math_Modeling_Competiotion)|古代玻璃制品的成分分析和鉴别模型&&2022年高教社杯全国大学生数学建模竞赛全国二等奖项目|18|2023-11-14|2023-05-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

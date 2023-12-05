@@ -1,121 +1,115 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Go
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rocboss/paopao-ce](https://github.com/rocboss/paopao-ce)|🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区|2593|2022-12-04|2022-05-24|
-|2|[Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook)|🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.|2480|2022-12-03|2021-12-20|
-|3|[greycodee/wechat-backup](https://github.com/greycodee/wechat-backup)|微信聊天记录持久化备份本地硬盘，释放手机存储空间。|1798|2022-08-26|2022-06-14|
-|4|[teamssix/cf](https://github.com/teamssix/cf)|Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作|1407|2022-12-08|2022-07-01|
-|5|[sairson/Yasso](https://github.com/sairson/Yasso)|强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）|1305|2022-07-27|2022-01-05|
-|6|[sea-team/gofound](https://github.com/sea-team/gofound)|GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。|1260|2022-11-13|2022-04-12|
-|7|[zan8in/afrog](https://github.com/zan8in/afrog)|afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities|1141|2022-12-06|2022-02-24|
-|8|[kt007007/KTMinerProxy](https://github.com/kt007007/KTMinerProxy)|minerproxy矿池中转，原创minerproxy，唯一正版，性能强大,  功能齐全,  9000台无压力不崩溃，BTC ETC ETH LTC等全币种无损抽水，体验拉满的minerproxy, 软防CC,  动态难度调整抽水，不爆内存。支持绝大部分币种的转发、加密、自定义抽水、精确到单台设备的24小时数据统计、自定义隧道推送工具、修改矿池本地算力...ETHminerproxy, BTCmi ...|1114|2022-12-07|2022-02-06|
-|9|[wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO)|一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。|1031|2022-12-02|2022-01-04|
-|10|[flower-corp/lotusdb](https://github.com/flower-corp/lotusdb)|Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.|1024|2022-08-21|2021-12-14|
-|11|[clickvisual/clickvisual](https://github.com/clickvisual/clickvisual)|A lightweight log analytic and data visualize platform  built on clickhouse.|956|2022-12-08|2021-12-29|
-|12|[alibaba/IOC-golang](https://github.com/alibaba/IOC-golang)|一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.|952|2022-12-08|2022-05-17|
-|13|[FxPool/FXMinerProxy](https://github.com/FxPool/FXMinerProxy)|🔥minerproxy charge for mining pool，original minerproxy ，high performance minerproxy ，minerproxy development by golang. 矿池抽水/BTC无损跨矿池抽水/原创矿池中转，代理minerproxy，挖矿minerproxy，矿场minerproxy，比特币minerproxy，最强大的m ...|907|2022-12-08|2022-08-13|
-|14|[SonicCloudOrg/sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge)|🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。|759|2022-12-08|2021-12-25|
-|15|[real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet)|lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号|751|2022-07-28|2022-02-16|
-|16|[murphysecurity/murphysec](https://github.com/murphysecurity/murphysec)|An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。|749|2022-12-08|2022-03-16|
-|17|[pingc0y/URLFinder](https://github.com/pingc0y/URLFinder)|类似JSFinder的golang实现，一款用于快速提取检测页面中JS与URL的工具，更快更全更舒服|739|2022-10-25|2022-06-06|
-|18|[H4de5-7/geacon_pro](https://github.com/H4de5-7/geacon_pro)|跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cross-platform CobaltStrike Beacon bypass anti-virus, supports 4.1+ version.|675|2022-12-08|2022-10-27|
-|19|[Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller)|一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接|673|2022-10-28|2022-10-04|
-|20|[MY0723/goby-poc](https://github.com/MY0723/goby-poc)|447个goby poc，是否后门及重复自行判断，来源于网络收集的Goby&POC，实时更新。 |554|2022-09-02|2022-07-17|
-|21|[eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)|🌉 基于Go+Vue实现的openLDAP后台管理项目|537|2022-12-05|2022-05-18|
-|22|[assimon/epusdt](https://github.com/assimon/epusdt)|开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt|532|2022-10-26|2022-03-17|
-|23|[a1phaboy/FastjsonScan](https://github.com/a1phaboy/FastjsonScan)|Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency|524|2022-10-07|2022-09-05|
-|24|[wa-lang/wa](https://github.com/wa-lang/wa)|🇨🇳 Wa: Simple, maintainable, compiled language for developing WebAssembly software|513|2022-12-06|2022-07-20|
-|25|[xiecat/fofax](https://github.com/xiecat/fofax)|fofax is a command line query tool based on the API of https://fofa.info/, simple is the best!|503|2022-10-27|2021-12-14|
-|26|[MinerProxyBTC/GoMinerTool](https://github.com/MinerProxyBTC/GoMinerTool)|独家BTC超低损耗，支持所有POW币种中转矿池代理，支持备用矿池，永不掉线；无暗抽，支持替换指定钱包，统一钱包；作者抽水恒定0.3%，可与各种同类软件实测对比！不开抽水无开发费！可伪装矿池本地算力，运维必备；支持恶意IP拉黑！支持加密协议，支持本地隧道加密，支持自定义跨矿池抽水，高性能高并发，支持web界面管理，全自动进程守护以及开机启动，配套本地隧道加密软件，可自定义隧道客户端名称/自定义官网地 ...|471|2022-11-30|2022-06-12|
-|27|[nuanxinqing123/QLTools](https://github.com/nuanxinqing123/QLTools)|青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件|417|2022-11-14|2022-04-14|
-|28|[MinerPr0xy/MinerProxy](https://github.com/MinerPr0xy/MinerProxy)|本程序为正版原创，MinerProxy最稳定的ETH以太坊代理中转矿池程序，全新界面，支持ETH，ETC，抽水稳定不掉线，作者抽水千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。|412|2022-08-04|2021-12-24|
-|29|[yuyan-sec/RedisEXP](https://github.com/yuyan-sec/RedisEXP)|Redis 漏洞利用工具|410|2022-12-03|2022-03-19|
-|30|[cnk3x/xunlei](https://github.com/cnk3x/xunlei)|提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务|405|2022-12-04|2021-12-16|
-|31|[u21h2/nacs](https://github.com/u21h2/nacs)|事件驱动的渗透测试扫描器 Event-driven pentest scanner|397|2022-08-01|2022-05-24|
-|32|[XZB-1248/Spark](https://github.com/XZB-1248/Spark)|✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监 ...|393|2022-11-01|2022-03-16|
-|33|[Ptkatz/OrcaC2](https://github.com/Ptkatz/OrcaC2)|OrcaC2是一款基于Websocket加密通信的多功能C&C框架，使用Golang实现。|392|2022-12-07|2022-09-23|
-|34|[robGoods/sams](https://github.com/robGoods/sams)|山姆抢购|378|2022-06-20|2022-04-13|
-|35|[pingc0y/go_proxy_pool](https://github.com/pingc0y/go_proxy_pool)|无环境依赖开箱即用的代理IP池|373|2022-11-22|2022-11-14|
-|36|[go-olive/olive](https://github.com/go-olive/olive)|Live Stream Recorder                       直播录制/录播|365|2022-11-01|2022-04-13|
-|37|[zc2638/ylgy](https://github.com/zc2638/ylgy)|羊了个羊 通关程序，支持自动通关|342|2022-09-21|2022-09-15|
-|38|[piiperxyz/AniYa](https://github.com/piiperxyz/AniYa)|免杀框架|337|2022-08-01|2022-07-13|
-|39|[gaoyb7/115drive-webdav](https://github.com/gaoyb7/115drive-webdav)|115 网盘 WebDAV 服务|329|2022-12-04|2022-07-08|
-|40|[orestonce/m3u8d](https://github.com/orestonce/m3u8d)|m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4|321|2022-12-06|2022-05-15|
-|41|[AlphabugX/Alphalog](https://github.com/AlphabugX/Alphalog)|DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。|310|2022-07-30|2021-12-14|
-|42|[pretty66/iptables-web](https://github.com/pretty66/iptables-web)|golang开发的iptables web 管理程序|293|2022-09-22|2022-04-03|
-|43|[ETCMinerProxy/ETCMinerProxy](https://github.com/ETCMinerProxy/ETCMinerProxy)|【原创最强程序，专注于ETH/ETC转发】性能强大，功能齐全，体验拉满，匹配专业机；开发费恒定！无论你抽3%还是30%，都是0.3%开发费！；支持专业机，精确到单台设备的24小时数据统计、支持加密隧道！体验拉满的minerproxy；无视CC攻击，不怕扫描攻击，内置加密证书；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备；（如果遇到打不开管理界面，请开放服务器对应的端口） ETH ...|263|2022-08-10|2022-02-09|
-|44|[Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts)|🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~|256|2022-06-30|2022-05-13|
-|45|[ja9er/Gofreeproxy](https://github.com/ja9er/Gofreeproxy)|自用的动态代理小工具|255|2022-11-30|2022-08-26|
-|46|[inbug-team/SweetBabyScan](https://github.com/inbug-team/SweetBabyScan)|Red Tools 渗透测试|255|2022-07-07|2022-05-20|
-|47|[lzzbb/Adinfo](https://github.com/lzzbb/Adinfo)|域信息收集工具|250|2022-09-16|2022-09-10|
-|48|[lal0ne/vulnerability](https://github.com/lal0ne/vulnerability)|收集、整理、修改互联网上公开的漏洞POC|250|2022-11-22|2022-01-20|
-|49|[Goqi/Erfrp](https://github.com/Goqi/Erfrp)|Erfrp-frp二开-免杀与隐藏|248|2022-12-04|2022-04-18|
-|50|[auula/kalasa](https://github.com/auula/kalasa)|Kalasa is a simple and portable key-value storage engine.|238|2022-09-13|2022-01-16|
-|51|[summerblue/gohub](https://github.com/summerblue/gohub)|Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt|223|2022-08-21|2022-01-07|
-|52|[Peony2022/shiro_killer](https://github.com/Peony2022/shiro_killer)|批量ShiroKey检测爆破工具|218|2022-07-26|2022-05-04|
-|53|[caoyingjunz/gopixiu](https://github.com/caoyingjunz/gopixiu)|Gopixiu(貔貅) 基于 kubernetes 的容器管理平台|217|2022-12-06|2022-08-05|
-|54|[bufanyun/hotgo](https://github.com/bufanyun/hotgo)|HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。|207|2022-11-25|2022-02-25|
-|55|[Ciyfly/microwaveo](https://github.com/Ciyfly/microwaveo)|将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密|201|2022-09-08|2022-09-08|
-|56|[seventeenman/Forest](https://github.com/seventeenman/Forest)|基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征|200|2022-08-09|2022-07-16|
-|57|[togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror)|🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务|199|2022-11-09|2022-01-21|
-|58|[leveryd/go-sec-code](https://github.com/leveryd/go-sec-code)|Go相关的安全研究|191|2022-11-02|2022-04-15|
-|59|[SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)|基于eBPF的堆栈追踪工具|190|2022-12-01|2022-11-09|
-|60|[MQEnergy/gin-framework](https://github.com/MQEnergy/gin-framework)| :zap::rocket: 以gin框架为基础，封装一套基于go1.18+的适用于面向api编程的快速开发框架|183|2022-12-03|2022-02-15|
-|61|[9bie/oss-stinger](https://github.com/9bie/oss-stinger)|利用oss实现http转发/cobalt strike上线|182|2022-11-26|2022-11-26|
-|62|[crossoverJie/gscript](https://github.com/crossoverJie/gscript)|💪🏻This is a statically and strongly typed language written in Go. GScript 是用 Go 编写的静态、强类型的脚本语言。|179|2022-11-08|2022-05-23|
-|63|[passer-W/shc_bypass](https://github.com/passer-W/shc_bypass)|内存加载shellcode绕过waf|178|2022-07-25|2022-07-25|
-|64|[i11us0ry/winlog](https://github.com/i11us0ry/winlog)|一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录|171|2022-07-18|2022-07-09|
-|65|[HZzz2/go-shellcode-loader](https://github.com/HZzz2/go-shellcode-loader)|GO免杀shellcode加载器混淆AES加密|170|2022-07-28|2022-06-07|
-|66|[assimon/svbot](https://github.com/assimon/svbot)|短视频直链解析机器人，支持：抖音/火山/快手/绿洲/皮皮虾/微博/微视/西瓜/最右 的短视频无水印解析|169|2022-11-28|2022-11-27|
-|67|[gylang/aliyundriver-webdav-software-ui](https://github.com/gylang/aliyundriver-webdav-software-ui)|阿里云盘/本地挂载网络盘/WebDAV/win软件/界面|166|2022-07-29|2022-01-06|
-|68|[orca-zhang/ecache](https://github.com/orca-zhang/ecache)|🦄【轻量级本地内存缓存】🤏代码少于300行⌚️30s接入🚀高性能、极简设计、并发安全🌈支持LRU 和 LRU-2模式 🦖支持分布式一致性 [ecache] Extremely easy, ultra fast, concurrency-safe and support distributed consistency. Similar to bigcache, cachego, freecache, ...|165|2022-10-28|2021-12-19|
-|69|[niudaii/zpscan](https://github.com/niudaii/zpscan)|一个有点好用的信息收集工具。A somewhat useful information gathering tool.|160|2022-12-08|2022-09-16|
-|70|[barats/ohUrlShortener](https://github.com/barats/ohUrlShortener)|适合中小型社区网站使用的企业级短链接服务系统，支持短链接生产、查询及302转向，并自带点击量统计、独立IP数统计、访问日志|160|2022-12-06|2022-03-05|
-|71|[zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace)|三网回程路由测试|159|2022-06-09|2022-06-01|
-|72|[haoxie666/HxMinerProxy](https://github.com/haoxie666/HxMinerProxy)|CKB/BEAM/ALPH/KASPA/DCR/FLUX/NEOX  HXMinerProxy/ETH/ETC/BTC/BCH/CFX/RVN/ERG/LTC/SERO/XMR/CKB/BEAM/ALPH/KASPA/DCR/FLUX/NEOX中转矿池代理支持抽水,软件防CC,支持BTC/ETH/ETC/BCH/CFX/ERG/RVN/LTC/SERO/XMR/CKB/BEAM/ALPH/KASP ...|159|2022-09-16|2022-04-05|
-|73|[xxjwxc/shares](https://github.com/xxjwxc/shares)|A-share quantitative system. A股量化系统|143|2022-11-24|2022-05-20|
-|74|[869413421/wechatbot](https://github.com/869413421/wechatbot)|为个人微信接入ChatGPT|141|2022-12-08|2022-12-06|
-|75|[ffffffff0x/ones](https://github.com/ffffffff0x/ones)|可用于多个网络资产测绘引擎 API 的命令行查询工具|136|2022-09-01|2022-02-01|
-|76|[newbe3three/gotoexec](https://github.com/newbe3three/gotoexec)|通过Go语言实现的一款基于gRPC的远控木马。|133|2022-07-26|2022-07-26|
-|77|[gphper/grm](https://github.com/gphper/grm)|redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】|133|2022-11-26|2022-06-06|
-|78|[SiJiDo/IEyes](https://github.com/SiJiDo/IEyes)|icp备案查询|133|2022-08-18|2022-01-20|
-|79|[feitu-dev/zing](https://github.com/feitu-dev/zing)|Zing - 想做优雅的渗透测试工具|129|2022-10-27|2022-05-25|
-|80|[yemingfeng/sdb](https://github.com/yemingfeng/sdb)|SDB ：纯 Go 开发、数据结构丰富、持久化、简单易用的 NoSQL 数据库|126|2022-11-03|2021-12-09|
-|81|[aliliin/kratos-shop](https://github.com/aliliin/kratos-shop)|kratos 框架微服务商城|124|2022-08-29|2022-02-08|
-|82|[aceld/EasySJMS](https://github.com/aceld/EasySJMS)|Easy搞定Golang设计模式|123|2022-10-08|2022-06-28|
-|83|[Amzza0x00/go-impacket](https://github.com/Amzza0x00/go-impacket)|基于golang实现的impacket|122|2022-12-07|2022-09-07|
-|84|[TryGOTry/edit-gencon](https://github.com/TryGOTry/edit-gencon)|geacon:简单适配了一个profile配置文件,可直接拿来修改使用,用于cs上线linux.|121|2022-08-03|2022-03-10|
-|85|[newbee-ltd/newbee-mall-api-go](https://github.com/newbee-ltd/newbee-mall-api-go)|本项目为新蜂商城的 go 语言版本，技术栈为 Go + Gin，主要面向服务端开发人员。|119|2022-10-30|2022-06-14|
-|86|[Goqi/AvHunt](https://github.com/Goqi/AvHunt)|AvHunt-杀毒软件识别|115|2022-12-06|2022-04-13|
-|87|[chai2010/china-programming-languages](https://github.com/chai2010/china-programming-languages)|🇨🇳 中国人主导的编程语言列表(欢迎PR) |112|2022-08-06|2022-07-22|
-|88|[DTStack/chengying](https://github.com/DTStack/chengying)|一款支持标准化schema定义、自动化部署产品包的软件，旨在对产品包下每个服务进行部署、升级、卸载、配置等操作，解放人工运维成本。|112|2022-11-30|2022-03-30|
-|89|[xyctruth/profiler](https://github.com/xyctruth/profiler)|Continuous profiling based on pprof|111|2022-12-08|2021-12-15|
-|90|[gdy666/lucky](https://github.com/gdy666/lucky)|ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒...|108|2022-11-25|2022-07-13|
-|91|[kxg3030/shermie-proxy](https://github.com/kxg3030/shermie-proxy)|Go实现的代理抓包工具，支持Http、Https、Ws、Wss、Tcp、Socket5等多种协议，可以对消息进行拦截修改。|108|2022-08-27|2022-07-01|
-|92|[jing332/tts-server-go](https://github.com/jing332/tts-server-go)|微软TTS服务转发，以便在阅读APP中通过网络导入方式收听微软TTS / Edge大声朗读|107|2022-12-04|2022-09-09|
-|93|[ikilobyte/netman](https://github.com/ikilobyte/netman)|高性能、轻量级TCP网络框架、支持TLS、可配置的路由、websocket、基于事件循环(epoll)，百万连接（C1000K）|105|2022-11-13|2022-01-18|
-|94|[hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs)|酷社区|104|2022-11-09|2022-07-19|
-|95|[xiecat/wsm](https://github.com/xiecat/wsm)|webshell manager libraries   网站管理工具|103|2022-07-23|2022-06-21|
-|96|[ExpLangcn/EPScan](https://github.com/ExpLangcn/EPScan)|被动收集资产并自动进行SQL注入检测（插件化 自动Bypass）、XSS检测、RCE检测、敏感信息检测|102|2022-12-08|2022-11-17|
-|97|[mstxq17/MoreFind](https://github.com/mstxq17/MoreFind)|一款用于快速导出URL、Domain和IP的小工具|102|2022-09-03|2022-06-11|
-|98|[SeeFlowerX/estrace](https://github.com/SeeFlowerX/estrace)|基于eBPF的syscall追踪工具，适用于安卓平台|99|2022-12-05|2022-11-22|
-|99|[carl1l/f403](https://github.com/carl1l/f403)|用于渗透测试中对40x页面进行bypass并发扫描,采用go编写|97|2022-11-12|2022-09-11|
-|100|[yzimhao/trading_engine](https://github.com/yzimhao/trading_engine)|使用go开发的高性能交易撮合引擎，适用于买卖双方各自报价，按价格优先、时间优先的顺序成交，对买卖双方订单进行撮合的场景。撮合引擎实时输出委托深度、最新价格等数据，方便快速开发集成到交易系统。|94|2022-10-13|2022-05-24|
-|101|[chaitin/libveinmind](https://github.com/chaitin/libveinmind)|一个由长亭自研，直观而可扩展的容器安全 SDK|91|2022-11-29|2022-01-26|
-|102|[putyy/ai-share](https://github.com/putyy/ai-share)|go gin、vue3的练手项目|89|2022-08-11|2022-08-10|
-|103|[lcvvvv/appfinger](https://github.com/lcvvvv/appfinger)|appfinger(和风)是一款Http指纹管理工具~~~|89|2022-11-07|2022-02-10|
-|104|[Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater)|clash_for_windows一键更新工具|89|2022-09-25|2022-01-07|
-|105|[sulab999/Taichi](https://github.com/sulab999/Taichi)|太極滲透測試框架--基於go語言實現的高交互滲透測試框架|88|2022-11-11|2022-02-10|
-|106|[ZhuriLab/Starmap](https://github.com/ZhuriLab/Starmap)|一个轮子融合的子域名收集小工具|87|2022-07-06|2022-03-28|
-|107|[xiaodingding/iotfast](https://github.com/xiaodingding/iotfast)|物联网管理平台|86|2022-08-24|2022-06-19|
-|108|[ethminerpro/ethminerproxy](https://github.com/ethminerpro/ethminerproxy)|【专注于ETH/ETC转发的原创最强程序】性能强大，功能齐全，体验拉满，匹配专业机；开发费恒定！无论你抽3%还是30%，都是0.3%开发费！；支持专业机，精确到单台设备的24小时数据统计、支持加密隧道！体验拉满的minerproxy；无视CC攻击，不怕扫描攻击，内置加密证书；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备；原创MinerProxy...gominerproxy,m ...|84|2022-08-10|2022-04-08|
-|109|[i11us0ry/AScan](https://github.com/i11us0ry/AScan)|对"https://github.com/wgpsec/ENScan_GO"的修改，只保留了爱企查接口，支持对外投资企业和子公司递归|83|2022-06-15|2022-06-11|
-|110|[wendell1224/ide-honeypot](https://github.com/wendell1224/ide-honeypot)|一款针对于IDE的反制蜜罐 IDE-honeypot|76|2022-07-12|2022-07-11|
-|111|[Path-IM/Path-IM-Server](https://github.com/Path-IM/Path-IM-Server)|使用go-zero框架编写的IM服务|65|2022-07-04|2022-05-13|
+|1|[songquanpeng/one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, u ...|6233|2023-11-28|2023-04-22|
+|2|[youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect)|LiveRedirect|3378|2023-11-19|2022-12-25|
+|3|[XTLS/REALITY](https://github.com/XTLS/REALITY)|THE NEXT FUTURE|2698|2023-11-12|2023-01-29|
+|4|[ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI)|🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀|1958|2023-11-21|2022-12-09|
+|5|[TangSengDaoDao/TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer)|高颜值 IM 即时通讯,聊天|1559|2023-11-29|2023-07-12|
+|6|[WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM)|8年积累，沉淀出来的高性能通用实时通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，消息中台，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景|1361|2023-11-23|2023-05-09|
+|7|[daeuniverse/dae](https://github.com/daeuniverse/dae)|A Linux high-performance transparent proxy solution based on eBPF.|1341|2023-11-18|2023-01-23|
+|8|[SpenserCai/GoWxDump](https://github.com/SpenserCai/GoWxDump)|SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等)|1268|2023-06-17|2023-02-17|
+|9|[mylxsw/aidea-server](https://github.com/mylxsw/aidea-server)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|1137|2023-11-29|2023-08-30|
+|10|[stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy)|Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.|1067|2023-10-11|2023-03-24|
+|11|[acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API)|Scalable unofficial ChatGPT API for production.|1043|2023-08-08|2023-04-05|
+|12|[msterzhang/onelist](https://github.com/msterzhang/onelist)|一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。|956|2023-08-03|2023-02-27|
+|13|[piaolin/DetectDee](https://github.com/piaolin/DetectDee)|DetectDee: Hunt down social media accounts by username, email or phone across social networks.|889|2023-08-26|2023-04-29|
+|14|[zema1/watchvuln](https://github.com/zema1/watchvuln)|一个高价值漏洞采集与推送服务   collect valueable vulnerability and push it|880|2023-11-22|2023-03-25|
+|15|[appleboy/CodeGPT](https://github.com/appleboy/CodeGPT)|A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.|869|2023-11-29|2023-03-04|
+|16|[trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh)|支持 trzsz 的 ssh 客户端，支持搜索和选择服务器进行批量登录，支持记住密码。   An ssh client that supports trzsz, supports searching and selecting servers for batch login.|811|2023-11-26|2023-05-21|
+|17|[ByteStorage/FlyDB](https://github.com/ByteStorage/FlyDB)|The high-performance kv storage engine based on bitcask paper made in golang|811|2023-11-01|2023-04-01|
+|18|[go-nunu/nunu](https://github.com/go-nunu/nunu)|A CLI tool for building Go applications.|810|2023-11-05|2023-06-03|
+|19|[Jinnrry/PMail](https://github.com/Jinnrry/PMail)|Private EMail Server|775|2023-11-23|2023-07-30|
+|20|[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)|企业微信/微信 安全使用的 ChatGPT 个人助手应用|690|2023-11-21|2023-02-11|
+|21|[Pizz33/GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode)|shellcode免杀加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软|640|2023-08-03|2023-04-18|
+|22|[j178/chatgpt](https://github.com/j178/chatgpt)|An elegant interactive CLI for ChatGPT|617|2023-11-08|2023-03-02|
+|23|[selinuxG/Golin](https://github.com/selinuxG/Golin)|弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具|612|2023-11-23|2023-02-17|
+|24|[Hel10-Web/Databasetools](https://github.com/Hel10-Web/Databasetools)|一款用Go语言编写的数据库自动化提权工具，支持Mysql、MSSQL、Postgresql、Oracle、Redis数据库提权、命令执行、爆破以及ssh连接|592|2023-08-30|2023-01-30|
+|25|[layou233/NeverIdle](https://github.com/layou233/NeverIdle)|资源定期浪费，可用于 Oracle 甲骨文保活。|547|2023-11-28|2023-01-31|
+|26|[wux1an/wxapkg](https://github.com/wux1an/wxapkg)|微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具|532|2023-08-03|2023-05-22|
+|27|[Naturehi666/searchall](https://github.com/Naturehi666/searchall)|强大的敏感信息搜索工具|515|2023-10-25|2023-02-23|
+|28|[trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)|A pluggable, high-performance RPC framework written in golang|513|2023-11-13|2023-08-04|
+|29|[geekr-dev/openai-proxy](https://github.com/geekr-dev/openai-proxy)|基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）|471|2023-09-22|2023-03-06|
+|30|[sevtin/lark](https://github.com/sevtin/lark)|Lark是一个开源的Golang IM服务端项目，具有高性能和可扩展等特性。采用微服务架构设计，支持集群和水平扩展，能够满足高并发业务需求，并实现了万人群消息的秒达。|467|2023-11-01|2023-02-11|
+|31|[ProudMuBai/GoFilm](https://github.com/ProudMuBai/GoFilm)|多播放源自动采集在线影视网站 golang vue|465|2023-11-16|2023-04-04|
+|32|[lyc8503/EasierConnect](https://github.com/lyc8503/EasierConnect)|深信服 EasyConnect 第三方开源 Golang 客户端 /  Sangfor EasyConnect protocol reimplementation in Go|442|2023-10-02|2023-01-17|
+|33|[winc-link/hummingbird](https://github.com/winc-link/hummingbird)|蜂鸟物联网平台是由Golang编写的超轻量级物联网平台，具有轻量级、快速、极低的内存占用等特性，特别适用于个人开发者或初创公司承接中小型物联网项目。|436|2023-11-08|2023-08-28|
+|34|[pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go)|go version of tiktoken|431|2023-09-08|2023-03-08|
+|35|[sjkhsl/study_xxqg](https://github.com/sjkhsl/study_xxqg)|-|383|2023-11-12|2022-12-14|
+|36|[faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)|clash speedtest|381|2023-10-12|2023-05-02|
+|37|[juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy)|A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t ...|380|2023-08-02|2023-04-20|
+|38|[lemonlove7/EHole_magic](https://github.com/lemonlove7/EHole_magic)|EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破|373|2023-11-24|2023-07-01|
+|39|[csznet/tgState](https://github.com/csznet/tgState)|使用Telegram作为存储的文件外链系统，不限制文件大小和格式。|365|2023-11-22|2023-10-02|
+|40|[RockChinQ/qcg-installer](https://github.com/RockChinQ/qcg-installer)|ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目|348|2023-10-13|2022-12-11|
+|41|[NetEase-Media/easy-ngo](https://github.com/NetEase-Media/easy-ngo)|easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。|344|2023-11-13|2022-12-22|
+|42|[sagoo-cloud/sagooiot](https://github.com/sagoo-cloud/sagooiot)|SagooIOT是一个基于golang开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。旨在通过可复用的组件，减少开发工作，简化和加速物联网开发交付。适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等)|341|2023-11-28|2023-01-01|
+|43|[zhaoyumi/WeaverExploit_All](https://github.com/zhaoyumi/WeaverExploit_All)|泛微最近的漏洞利用工具（PS：2023）|340|2023-11-28|2023-06-26|
+|44|[Kento-Sec/chatGPT-CodeReview](https://github.com/Kento-Sec/chatGPT-CodeReview)|这是一个调用chatGPT进行代码审计的工具|339|2023-06-01|2023-03-27|
+|45|[fanchunke/chatgpt-wecom](https://github.com/fanchunke/chatgpt-wecom)|企业微信接入 GPT3|335|2023-06-19|2023-02-13|
+|46|[novysodope/fupo_for_yonyou](https://github.com/novysodope/fupo_for_yonyou)|用友漏洞检测，持续更新漏洞检测模块|316|2023-09-07|2023-07-12|
+|47|[cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)|A high performance inter-process communication golang library developed by CloudWeGo|306|2023-10-08|2023-03-06|
+|48|[FSchedule/FSchedule](https://github.com/FSchedule/FSchedule)|一款支持分布式定时任务调度，支持几千个任务同时调度。有着高性能、高可用（集群）、低延迟（0ms延迟）、低内存（80m以内）等特点|301|2023-11-28|2023-01-24|
+|49|[Q16G/npsmodify](https://github.com/Q16G/npsmodify)|这是nps的魔改，进行了流量特征的魔改，并且进行了漏洞的修复|298|2023-08-05|2023-05-20|
+|50|[Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo)|基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.|297|2023-11-29|2023-10-23|
+|51|[rulego/rulego](https://github.com/rulego/rulego)|⛓️ RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine based on Go language. heterogeneous system data integration. It can aggregate, distribute, filter, tran ...|284|2023-11-26|2023-07-23|
+|52|[kubewharf/kubeadmiral](https://github.com/kubewharf/kubeadmiral)|Multi-Cluster Kubernetes Orchestration|279|2023-11-29|2023-03-28|
+|53|[haozi-team/panel](https://github.com/haozi-team/panel)|耗子Linux面板 - GO开发的轻量Linux面板|269|2023-11-28|2022-12-01|
+|54|[kubewharf/katalyst-core](https://github.com/kubewharf/katalyst-core)|Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agent ...|267|2023-11-29|2023-01-17|
+|55|[Aur0ra-m/APIKiller](https://github.com/Aur0ra-m/APIKiller)|API Security DAST & Oprations|263|2023-07-05|2023-02-14|
+|56|[SleepingBag945/dddd](https://github.com/SleepingBag945/dddd)|dddd（带带弟弟），是一款支持多种输入格式，主/被动指纹识别且使用简单的供应链漏洞探测工具。协助红队人员快速收集信息，测绘目标资产，寻找薄弱点。支持从Hunter、Fofa批量拉取目标。|260|2023-11-28|2023-08-18|
+|57|[wwengg/douyin](https://github.com/wwengg/douyin)|抖音[直播伴侣]推流密钥获取工具 抖音直播间弹幕、进入房间等数据通过Websocket对接Fay|255|2023-10-18|2023-04-26|
+|58|[qi4L/GoLangUnhooker](https://github.com/qi4L/GoLangUnhooker)|EDR绕过，由GoLang编写|249|2023-06-22|2023-03-20|
+|59|[Pizz33/Qianji](https://github.com/Pizz33/Qianji)|千机-红队免杀木马自动生成器  Bypass defender、火绒、360等国内主流杀软 随机加密混淆shellcode快速生成免杀马|243|2023-11-15|2023-09-22|
+|60|[jarvanstack/mysqldump](https://github.com/jarvanstack/mysqldump)|A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。|240|2023-10-16|2023-03-17|
+|61|[Can-Chen/wrap-midjourney](https://github.com/Can-Chen/wrap-midjourney)|获取discord服务器中midjourney AI生图的结果。一个中转服务，可以接入到任意第三方平台微信、飞书、QQ等/Obtain the midjourney AI image generation results from the Discord server. It is a transfer service that can be connected to any third-part ...|239|2023-07-08|2023-04-11|
+|62|[Yac87300/spider](https://github.com/Yac87300/spider)|自动化运维/数据采集/Api转发/活接口调用|235|2023-09-08|2023-03-14|
+|63|[yhy0/ChYing](https://github.com/yhy0/ChYing)|承影 - 一款安全工具箱,集成了目录扫描、JWT、Swagger 测试、编/解码、轻量级 BurpSuite、杀软辅助功能|229|2023-06-11|2023-04-24|
+|64|[chaitin/blazehttp](https://github.com/chaitin/blazehttp)|可用于安全测试的非标准HTTP协议解析库|224|2023-11-20|2023-05-10|
+|65|[xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa)|将 Clash.Meta 格式的订阅链接转换为 sing-box 格式的链接，用于 SFA|221|2023-11-29|2023-04-08|
+|66|[ellermister/wechat-clean](https://github.com/ellermister/wechat-clean)|释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。|215|2023-07-20|2023-07-15|
+|67|[johnlui/DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine)|🔍 Go 开发的开源互联网搜索引擎，附教程《自己动手开发互联网搜索引擎》|207|2023-07-06|2023-07-01|
+|68|[jefferyjob/go-easy-utils](https://github.com/jefferyjob/go-easy-utils)|Quick toolbox for common data processing developed by Go language。Go语言开发的常用数据处理的快捷工具箱。|201|2023-10-10|2023-03-06|
+|69|[hujinbo23/dst-admin-go](https://github.com/hujinbo23/dst-admin-go)|Don't Starve Together server panel. Manage room with ease, featuring visual world and mod management, player log collection。饥荒联机服务器面板。轻松管理房间，支持可视化的世界和模组管理，玩家日志采集|200|2023-11-29|2023-01-27|
+|70|[mirrors2/opencatd-open](https://github.com/mirrors2/opencatd-open)|opencatd-open 是 OpenCat团队版的开源实现|198|2023-11-23|2023-03-29|
+|71|[qinguoyi/osproxy](https://github.com/qinguoyi/osproxy)|对象存储分布式代理(object storage distrbuted proxy)，支持Docker一键部署|194|2023-07-24|2023-06-05|
+|72|[Ciyfly/Argo](https://github.com/Ciyfly/Argo)|Argo is an automated general crawler for automatically obtaining website URLs . Argo 是一个自动化扫描器爬虫 用于自动化获取网站的URL 基于go-rod实现了静态和动态结合的方式来实现|194|2023-09-05|2023-03-15|
+|73|[deep-project/moss](https://github.com/deep-project/moss)|moss is a simple and lightweight web content management system(cms)🍀moss是一个简单轻量的内容管理系统|182|2023-09-09|2023-02-11|
+|74|[l3yx/Choccy](https://github.com/l3yx/Choccy)|GitHub项目监控 && CodeQL自动扫描   (GitHub project monitoring && CodeQL automatic analysis)|181|2023-11-29|2023-11-20|
+|75|[anlityli/chatait-free](https://github.com/anlityli/chatait-free)|一套 golang + vue3 实现的chatgpt、midjourney的对话程序|178|2023-11-23|2023-09-09|
+|76|[Toktik-Team/toktik](https://github.com/Toktik-Team/toktik)|ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目|178|2023-09-17|2023-02-04|
+|77|[jeffcail/ginframe](https://github.com/jeffcail/ginframe)|基于Go语言gin框架搭建的可快速开发的微服务脚手架|171|2023-11-06|2023-05-12|
+|78|[X1r0z/ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE)|ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言|167|2023-11-17|2023-10-27|
+|79|[yhy0/Jie](https://github.com/yhy0/Jie)|一款全面而强大的漏洞扫描和利用工具。(愿景)|167|2023-10-10|2023-01-30|
+|80|[XIU2/SNIProxy](https://github.com/XIU2/SNIProxy)|🧷 自用的简单 SNI Proxy（支持全平台、全系统、前置代理、配置简单等~|165|2023-10-23|2023-06-06|
+|81|[wjlab/DataMiner](https://github.com/wjlab/DataMiner)|数据库自动取样工具 - The tool used to extract the information from databases quickly. |159|2023-10-20|2023-08-02|
+|82|[121812/dcnews](https://github.com/121812/dcnews)|该工具能够即时捕捉微信群中的聊天消息，并将其自动同步到您预设的Discord频道中|146|2023-10-17|2023-08-18|
+|83|[user1121114685/115push](https://github.com/user1121114685/115push)|云传(115push)是一个将sha1导入到115网盘的工具，无需将文件下载到本地|143|2023-08-08|2023-03-19|
+|84|[aa12gq/goxenith](https://github.com/aa12gq/goxenith)|Goxenith:『A12技术社区服务端』，基于Gin框架， 采用cobra、viper、zap、ent、proto、redis、mysql、sqlite、email和jwt等多种技术栈，以实现高性能的Web应用开发、强大的命令行工具、灵活的配置管理、高效的日志记录、可靠的数据库操作、高效的数据序列化、灵活的缓存、稳定的电子邮件服务以及安全的身份验证|136|2023-09-14|2023-07-15|
+|85|[rfyiamcool/pgcacher](https://github.com/rfyiamcool/pgcacher)|🔥 pgcacher is used to get page cache stats for files on Linux.  ( 分析 page cache 缓存了哪些文件，文件在 page cache 的缓存占比)|130|2023-11-22|2023-03-13|
+|86|[tiancao2022/NBMinerProxy](https://github.com/tiancao2022/NBMinerProxy)|基于GoLang开发的高性能MinerProxy矿池代理工具，支持: BTC, LTC, ZEC, ETC, ETHF, ETHW, RVN, CFX, BEAM, ERGO, BTG, AE, FLUX, FIRO, NEOXA, XMR, KASPA, GRIN, KDA, DASH, CKB , ZEN , NEXA, HNS, BCH, SC等多个币种抽水，不爆内存，体验拉满，4000台无 ...|126|2023-07-29|2023-03-12|
+|87|[quarkcms/quark-go](https://github.com/quarkcms/quark-go)|兼容 Echo & Gin & GoFiber & GoZero & Hertz  + Ant Design Pro 前后端分离的管理后台，Build Anything With QuarkGo|126|2023-11-29|2023-01-18|
+|88|[razertory/gpt-wework](https://github.com/razertory/gpt-wework)|企业微信（客服）能力下的 ChatGPT 微信机器人|125|2023-07-14|2023-02-28|
+|89|[lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion)|GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.|116|2023-11-21|2023-04-06|
+|90|[z-bool/Venom-Crawler](https://github.com/z-bool/Venom-Crawler)|毒液爬行器：专为捡洞而生的爬虫神器|115|2023-08-17|2023-07-04|
+|91|[libli/chat](https://github.com/libli/chat)|有用户管理功能的ChatGPT API透明代理后台|113|2023-08-30|2023-03-29|
+|92|[xi-mad/my_video](https://github.com/xi-mad/my_video)|本地影视资源管理软件|113|2023-06-09|2023-03-28|
+|93|[badafans/Cloudflare-IP-SpeedTest](https://github.com/badafans/Cloudflare-IP-SpeedTest)|Cloudflare IP 测速器是一个使用 Golang 编写的小工具，用于测试一些 Cloudflare 的 IP 地址的位置信息、延迟和下载速度，并将结果输出到 CSV 文件中。|113|2023-08-23|2023-03-22|
+|94|[alwaystest18/hostCollision](https://github.com/alwaystest18/hostCollision)|一款host碰撞工具，做了较多的误报优化|109|2023-09-21|2023-04-19|
+|95|[qi4L/WeblogicScan.go](https://github.com/qi4L/WeblogicScan.go)|WeblogicScan一键检测|108|2023-11-24|2023-06-26|
+|96|[l269438/Midjourney-WeChatBot](https://github.com/l269438/Midjourney-WeChatBot)|Midjourney-ChatGPT-微信群聊机器人|107|2023-07-11|2023-05-06|
+|97|[anhao/go-ernie](https://github.com/anhao/go-ernie)|文心千帆 GO SDK ，文心一言|105|2023-11-04|2023-07-29|
+|98|[Mustard404/AceofHearts](https://github.com/Mustard404/AceofHearts)|红桃A(AceofHearts)是一款专为渗透测试人员设计的实用工具，旨在简化渗透测试环境的搭建过程并提供便捷的部署解决方案。|103|2023-10-30|2023-06-01|
+|99|[songcser/gingo](https://github.com/songcser/gingo)|基于 gin 框架为核心的脚手架，使用本项目可以快速完成业务逻辑开发。|101|2023-11-23|2023-04-13|
+|100|[nitezs/sub2clash](https://github.com/nitezs/sub2clash)|将订阅链接转换为 Clash、Clash.Meta 配置的工具|98|2023-11-02|2023-09-12|
+|101|[Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831)|一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。|97|2023-08-27|2023-08-27|
+|102|[team-dandelion/go-dandelion](https://github.com/team-dandelion/go-dandelion)|Use golang to integrate rpcx, fasthttp's microservices framework, including current limiting, link tracking, service discovery, and more. Scaffolding tools can be used to quickly build projects.（使用gol ...|97|2023-11-16|2022-12-01|
+|103|[ad-calcium/CVE-2023-22515](https://github.com/ad-calcium/CVE-2023-22515)|Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具|96|2023-10-16|2023-10-11|
+|104|[wkavenger/hk4e](https://github.com/wkavenger/hk4e)|『原神』 Game Server But Golang Ver.|92|2023-11-22|2023-03-06|
+|105|[huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin)|Go后台开发框架是GoFly全栈开发社区旗下永久开源可商用框架，也是Go语言好用web开发框架，能快速搭建应用，框架底层完善，框架插件逐步完善。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码， GoFly快速开发框架是一款基于Go语言的 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas ...|88|2023-10-29|2023-08-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

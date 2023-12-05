@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > HTML
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)|浙江大学课程攻略共享计划|30277|2022-12-02|
-|2|[PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)|清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University|26856|2022-11-22|
-|3|[WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension)|全国各省市停贷通知汇总|20408|2022-10-27|
-|4|[davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)|互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充|19285|2022-09-04|
-|5|[TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)|程序员技能图谱|19131|2022-12-07|
-|6|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)|计算机自学指南|17549|2022-11-30|
-|7|[nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)|《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning |15991|2022-10-07|
-|8|[javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info)|现代 JavaScript 教程（The Modern JavaScript Tutorial）|7585|2022-11-27|
-|9|[phodal/growth-ebook](https://github.com/phodal/growth-ebook)|Growth Engineering: The Definitive Guide。全栈增长工程师指南|7566|2022-08-25|
-|10|[fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers)|Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。|5531|2022-07-05|
-|11|[golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)|:books: Go语言圣经中文版|5297|2022-10-23|
-|12|[me115/linuxtools_rst](https://github.com/me115/linuxtools_rst)|Linux工具快速教程|5282|2022-11-17|
-|13|[doocs/technical-books](https://github.com/doocs/technical-books)|😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...|4813|2022-08-09|
-|14|[go101/go101](https://github.com/go101/go101)|An up-to-date (unofficial) knowledge base for Go programming self learning|4791|2022-12-08|
-|15|[gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)|全面的Webpack教程《深入浅出Webpack》电子书|4196|2022-07-24|
-|16|[biaochenxuying/blog](https://github.com/biaochenxuying/blog)|大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。|4077|2022-12-07|
-|17|[golang101/golang101](https://github.com/golang101/golang101)|Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书|3640|2022-11-18|
-|18|[hyper0x/go_command_tutorial](https://github.com/hyper0x/go_command_tutorial)|Golang command tutorial in Chinese.|3332|2022-11-25|
-|19|[qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)|《Software Engineering at Google》的中文翻译版本|3073|2022-12-06|
-|20|[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)|:books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视 ...|3003|2022-11-08|
-|21|[FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT)|Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）|2922|2022-09-26|
-|22|[eddycjy/blog](https://github.com/eddycjy/blog)|煎鱼的博客，有点忙，传送门：https://eddycjy.com|2916|2022-06-24|
-|23|[liyupi/free-programming-resources](https://github.com/liyupi/free-programming-resources)|💎 免费的编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java \ Python \ C++ \ JavaScript \ Golang \ 前端 \ 后端等）的学习路线、贴心教程、项目实战、编程书籍、面试合集、实用资源等，对程序员非常有帮助！|2285|2022-10-03|
-|24|[EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)|IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本|2196|2022-08-13|
-|25|[kujian/frontendDaily](https://github.com/kujian/frontendDaily)|前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。|2135|2022-09-16|
-|26|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|2053|2022-07-04|
-|27|[demopark/electron-api-demos-Zh_CN](https://github.com/demopark/electron-api-demos-Zh_CN)|这是 electron-api-demos 的中文版本, 更新至 v2.0.2|1917|2022-12-07|
-|28|[esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)|📖 一款专注于阅读的博客园主题|1869|2022-08-09|
-|29|[godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io)|被删前端博客--喜欢请star|1867|2022-12-03|
-|30|[jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)|😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...|1846|2022-09-14|
-|31|[riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN)|Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）|1779|2022-09-26|
-|32|[datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview)|Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star|1775|2022-09-28|
-|33|[rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)|A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/|1597|2022-12-06|
-|34|[Muyangmin/glide-docs-cn](https://github.com/Muyangmin/glide-docs-cn)|Glide简体中文文档站点托管项目。|1467|2022-09-23|
-|35|[ivandavidov/minimal](https://github.com/ivandavidov/minimal)|Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environ ...|1335|2022-11-22|
-|36|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|1332|2022-08-05|
-|37|[treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide)|A consistent code style guide for SQL to ensure legible and maintainable projects|1186|2022-11-15|
-|38|[go-training/training](https://github.com/go-training/training)|Learning Golang one day|1148|2022-09-10|
-|39|[hugsun-blog/blog](https://github.com/hugsun-blog/blog)|:snail:写一点博客，python web 前端 运维|1097|2022-07-18|
-|40|[netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io)|Netkiller Free ebook - 免费电子书|1045|2022-08-06|
-|41|[HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)|中国科学院大学2019-2020课程（秋季，春季，夏季）|1009|2022-11-20|
-|42|[NICEXAI/leaflet_zh](https://github.com/NICEXAI/leaflet_zh)|Leaflet中文文档|1002|2022-07-23|
-|43|[dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges)|前端知识进阶|984|2022-07-21|
-|44|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|921|2022-12-08|
-|45|[lf2021/Front-End-Interview](https://github.com/lf2021/Front-End-Interview)|总结了前端面试过程中浏览器，计算机网络，数据结构与算法，HTML，CSS，JS，Vue，React已经实战经验等相关的面试知识。|890|2022-06-24|
-|46|[Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract)|MediaSource 视频提取教程|755|2022-10-30|
-|47|[liuran001/openwrt-packages](https://github.com/liuran001/openwrt-packages)|国内常用OpenWrt软件包源码合集，每天自动更新，建议使用lean源码|734|2022-08-06|
-|48|[57code/vue-interview](https://github.com/57code/vue-interview)|总结前端面试中经典的vue相关题目，分析最佳回答策略|729|2022-06-22|
-|49|[surikov/webaudiofont](https://github.com/surikov/webaudiofont)|Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m ...|726|2022-06-28|
-|50|[koala-coding/goodBlog](https://github.com/koala-coding/goodBlog)|我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！|713|2022-07-21|
-|51|[zxuqian/html-css-examples](https://github.com/zxuqian/html-css-examples)|A collection of HTML and CSS examples, including effects and UIs.|703|2022-12-07|
-|52|[ZhiqingXiao/rl-book](https://github.com/ZhiqingXiao/rl-book)|Source codes for the book "Reinforcement Learning: Theory and Python Implementation"|681|2022-07-24|
-|53|[openwhu/OpenWHU](https://github.com/openwhu/OpenWHU)|武汉大学课程资料整理-WHU课代表计划|679|2022-07-28|
-|54|[SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)|Java漏洞学习笔记 Deserialization Vulnerability|674|2022-11-15|
-|55|[wx-chevalier/ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series)|:books: 编程语言语法基础与工程实践，JavaScript   Java   Python   Go   Rust   CPP   Swift|670|2022-11-28|
-|56|[roy-tian/learning-area](https://github.com/roy-tian/learning-area)|MDN 学习区示例中文版|662|2022-09-20|
-|57|[nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn)|nestjs 中文文档|658|2022-11-21|
-|58|[wardseptember/notes](https://github.com/wardseptember/notes)|算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、Spring Cloud等笔记，源码级学习笔记后续也会更新。|618|2022-06-17|
-|59|[sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)|Stable Diffusion Book   关于 Ai 绘画的Wiki   Wiki about Ai painting   Promote information openness   指南 Guide|614|2022-12-04|
-|60|[songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice)|包括 Prometheus 基础知识，性能优化和大量实战经验。|611|2022-10-15|
-|61|[helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial)|Flask 入门教程|610|2022-07-16|
-|62|[justjavac/justjavac.github.com](https://github.com/justjavac/justjavac.github.com)|🇨🇳个人博客，喜欢的话请点 star，想订阅点 watch :sparkles: |601|2022-07-25|
-|63|[wx-chevalier/Engineering-Series](https://github.com/wx-chevalier/Engineering-Series)|:books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA|575|2022-12-04|
-|64|[NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide)|✨ archlinux 简明指南   本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容   提供在线文档 ✨|569|2022-08-04|
-|65|[wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists)|:books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好|539|2022-08-03|
-|66|[cncounter/translation](https://github.com/cncounter/translation)|翻译文档|522|2022-07-31|
-|67|[LinDaiDai/niubility-coding-js](https://github.com/LinDaiDai/niubility-coding-js)|📒  霖呆呆的个人博客汇总|488|2022-07-03|
-|68|[godbasin/front-end-playground](https://github.com/godbasin/front-end-playground)|被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~|413|2022-07-13|
-|69|[MindFxck/daguguguji](https://github.com/MindFxck/daguguguji)|《特师文集》——大咕咕咕鸡著|403|2022-07-04|
-|70|[shengxinjing/vue3-vs-vue2](https://github.com/shengxinjing/vue3-vs-vue2)|《前端会客厅第一期代码》和尤大聊vue3的 提升|397|2022-07-21|
-|71|[ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |389|2022-07-11|
-|72|[yangchuansheng/prometheus-handbook](https://github.com/yangchuansheng/prometheus-handbook)|Prometheus 中文文档|376|2022-06-18|
-|73|[Veykril/tlborm](https://github.com/Veykril/tlborm)|The Little Book of Rust Macros (updated fork) |363|2022-10-16|
-|74|[gosoon/source-code-reading-notes](https://github.com/gosoon/source-code-reading-notes)|源码阅读笔记|360|2022-07-04|
-|75|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|355|2022-12-01|
-|76|[boism-org/northpole](https://github.com/boism-org/northpole)|存储北极学派的哲学，思考，教义repository|353|2022-10-27|
-|77|[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)|Liberxue blog for lightweight Jekyll  themes  轻量级自适应 简洁 卡片式博客主题 3秒搞定GitHub blog|348|2022-10-06|
-|78|[huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas)|云计算指南|341|2022-08-03|
-|79|[wx-chevalier/Solutions-Series](https://github.com/wx-chevalier/Solutions-Series)|:books: 服务端开发实践与工程架构，服务端基础篇   微服务与云原生篇   Spring 篇   Node.js 篇   DevOps 篇   信息安全与渗透测试篇|341|2022-12-04|
-|80|[songquanpeng/go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|333|2022-08-06|
-|81|[FHWWC/KeyCheck](https://github.com/FHWWC/KeyCheck)|一个 密钥检测/密钥分享/密钥查询/获取CID等微软产品激活 相关的小工具，小巧方便|321|2022-10-12|
-|82|[wx-chevalier/Product-Series](https://github.com/wx-chevalier/Product-Series)|:books: 产品迷思，不仅仅是产品经理，对于产品设计、交互体验、项目管理、行业视点等多方面的思考。|312|2022-12-03|
-|83|[CruxF/IMOOC](https://github.com/CruxF/IMOOC)|IMOCC辛勤的搬运工:fire:|311|2022-12-08|
-|84|[sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh)|国光的黑苹果安装教程：手把手教你配置 OpenCore|295|2022-07-26|
-|85|[Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)|:zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:|269|2022-12-06|
-|86|[zhangzhenhuajack/spring-data-jpa-guide](https://github.com/zhangzhenhuajack/spring-data-jpa-guide)|spring-data-jpa-guide，Spring Data JPA实战，SpringDataJpa详解|263|2022-10-22|
-|87|[lanbao2021/share](https://github.com/lanbao2021/share)|分享蓝同学收集的软件资源、使用心得...|256|2022-09-27|
-|88|[Eternaldeath/blockchainHome](https://github.com/Eternaldeath/blockchainHome)|构建区块链学习的知识体系合集，汇聚各种区块链资源|253|2022-08-05|
-|89|[ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)|《JavaScript权威指南第七版》中英对照|247|2022-06-29|
-|90|[liyupi/better-coder](https://github.com/liyupi/better-coder)|😄 一起快乐成长为更好的程序员吧！编程学习经验、技术干货、资源分享|243|2022-12-06|
-|91|[mzkmzk/Read](https://github.com/mzkmzk/Read)|阅读总结|241|2022-09-23|
-|92|[pubdreamcc/Node.js](https://github.com/pubdreamcc/Node.js)|一步一步学习Node.js，带你从零开始学习Node.js！本仓库是自己总结的Node.js学习图文教程，里面有学习案列和源代码（pubdreamcc原创，欢迎转载，欢迎star）|214|2022-08-05|
-|93|[calmound/web](https://github.com/calmound/web)|学习项目|214|2022-07-02|
-|94|[YuZhang/Security-Courseware](https://github.com/YuZhang/Security-Courseware)|Courseware for computer system security course at HIT|212|2022-10-11|
-|95|[karashiiro/xiv-resources](https://github.com/karashiiro/xiv-resources)|A list of websites and tools for FFXIV.|205|2022-10-24|
-|96|[summertime-wu/make_cnblogs_better](https://github.com/summertime-wu/make_cnblogs_better)|博客园样式美化、自定义博客园样式|200|2022-10-18|
-|97|[sudoskys/Root](https://github.com/sudoskys/Root)|？什么你说Root？我不到啊    致力于编写全面详细的Root教程文档   刷机   安卓|198|2022-11-18|
-|98|[ituring/first-pr](https://github.com/ituring/first-pr)|《GitHub实践入门》实验用仓库|194|2022-12-08|
-|99|[udacity/frontend-nanodegree-styleguide-zh](https://github.com/udacity/frontend-nanodegree-styleguide-zh)|优达学城（Udacity）前端样式指南|193|2022-06-28|
-|100|[huataihuang/cloud-atlas-draft](https://github.com/huataihuang/cloud-atlas-draft)|Cloud Compute Technology Guide|189|2022-11-29|
-|101|[howie6879/weekly](https://github.com/howie6879/weekly)|老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。|185|2022-12-07|
-|102|[crifan/crifan_ebook_readme](https://github.com/crifan/crifan_ebook_readme)|Crifan的电子书的使用说明|185|2022-11-08|
-|103|[w3c/web-roadmaps](https://github.com/w3c/web-roadmaps)|Framework for Web technology roadmaps|184|2022-12-03|
-|104|[TigerHee/shareJS](https://github.com/TigerHee/shareJS)|💻js小技巧、react、webpack、redux、javascript及其它前端干货，持续更新ing|182|2022-12-08|
-|105|[magic-lei/laravel-blog-poetry-all](https://github.com/magic-lei/laravel-blog-poetry-all)|Laravel诗词博客-匠心编程，热爱生活。喜欢就 Star 吧|177|2022-12-07|
-|106|[chinese-poetry/huajianji](https://github.com/chinese-poetry/huajianji)|🌟🎸🌟UI很简洁的中文诗歌主页, 包含唐诗宋词三百首，花间集，南唐二主词，古诗十九首，教科书选诗等文集 |177|2022-08-06|
-|107|[hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle)|一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。|152|2022-11-28|
-|108|[HaoZhang95/dailyfresh](https://github.com/HaoZhang95/dailyfresh)|天天生鲜是传智播客黑马出品的python实战项目， 项目的[在线视频教程], 项目的讲义被放在了Python24期整套视频的讲义中的**第20章节**，具体的天天生鲜 [在线讲义查看]，除了天天生鲜项目之外，传智播客&黑马出品的Python24期人工智能整套代码和讲义集合，项目从零基础的Python教程到深度学习，总共30章节，其中包含Python基础中的飞机大战项目，WSGI项目，Flask新经 ...|151|2022-12-08|
-|109|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|149|2022-07-31|
-|110|[zhangxiang958/Blog](https://github.com/zhangxiang958/Blog)|阿翔的个人技术博客，博文写在 Issues 里，如有收获请 star 鼓励~|149|2022-12-08|
-|111|[cnymw/GolangStudy](https://github.com/cnymw/GolangStudy)|《golang 面试学习》：从简单到难最全总结，go基础，数据结构，算法，设计模式。B站/抖音关注：程序猿Go师傅，跟着视频学习。|147|2022-12-08|
-|112|[ChangbaFE/presentation](https://github.com/ChangbaFE/presentation)|唱吧前端分享会|146|2022-07-12|
-|113|[OrangeX4/NJUAI-Notes](https://github.com/OrangeX4/NJUAI-Notes)|我在南京大学人工智能专业学习时所做的笔记 :-)|140|2022-12-07|
-|114|[SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets)|A collection of datasets for the purpose of emotion recognition/detection in speech.|140|2022-07-09|
-|115|[lryong/tutorials-from-runoob](https://github.com/lryong/tutorials-from-runoob)|菜鸟教程-离线版|140|2022-08-25|
-|116|[larscheng/larscheng-learning-demo](https://github.com/larscheng/larscheng-learning-demo)|学习笔记+gitbook|139|2022-06-17|
-|117|[yyq123/learn-vim](https://github.com/yyq123/learn-vim)|无废话极简版Vim学习笔记！文章按主题分拆为多个章节，并尽量控制每节的信息量；通过文字色彩和字体，将命令、快捷键突出显示；在每节结尾，提供一个命令列表，以便回顾文中介绍的重要命令。如果这些文章能对喜欢Vim的朋友有所益处，我将不胜荣幸。|139|2022-09-28|
-|118|[huangboju/Moots](https://github.com/huangboju/Moots)|收集了一些学习资料|136|2022-11-14|
-|119|[airyland/we-extract](https://github.com/airyland/we-extract)|解析微信公众号文章元信息|133|2022-11-13|
-|120|[jaywcjlove/regexp-example](https://github.com/jaywcjlove/regexp-example)|正则表达式实例搜集，通过实例来学习正则表达式。|132|2022-07-12|
-|121|[CnPeng/LearningNotes](https://github.com/CnPeng/LearningNotes)|个人综合学习笔记, 主要为 Android , 其他还有 Java、Kotlin、IOS、Go、Web 等内容|132|2022-11-20|
-|122|[xsir317/ku10](https://github.com/xsir317/ku10)|一个五子棋学习资料站|131|2022-10-02|
-|123|[sanyuan0704/juejin-book-vite](https://github.com/sanyuan0704/juejin-book-vite)|《深入浅出 Vite》掘金小册代码示例仓库|117|2022-11-18|
-|124|[mhxw/hyperledger](https://github.com/mhxw/hyperledger)|Blockchain、Hyperledger、Ethereum、IPFS learning materials / 学习指南|117|2022-11-25|
-|125|[almossawi/badarguments](https://github.com/almossawi/badarguments)|Book of Bad Arguments & Mr. Rabbit's Guide to Sneaky Rhetoric|117|2022-08-07|
-|126|[wx-chevalier/Awesome-Interviews](https://github.com/wx-chevalier/Awesome-Interviews)|Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI   面试必备|116|2022-11-07|
-|127|[phodal/frontend](https://github.com/phodal/frontend)|《大前端：前端的扩张》|113|2022-11-24|
-|128|[brucewar/svg-tutorial](https://github.com/brucewar/svg-tutorial)|SVG教程的翻译版 - http://brucewar.gitbooks.io/svg-tutorial|111|2022-11-07|
-|129|[yangheng95/ABSADatasets](https://github.com/yangheng95/ABSADatasets)|Public & Community-shared datasets for Aspect-based sentiment analysis and Text Classification|110|2022-12-08|
-|130|[RobAI-Lab/hainanu-course-resource](https://github.com/RobAI-Lab/hainanu-course-resource)|海南大学课程攻略共享计划|109|2022-09-28|
-|131|[uiuing/VARBook](https://github.com/uiuing/VARBook)|适合中文程序员的变量命名助手，NLP+翻译，规范变量命名，定制化变量命名规则|106|2022-08-06|
-|132|[zrong/blog](https://github.com/zrong/blog)|博客文章 markdown 源文件|104|2022-12-04|
-|133|[XiangyunHuang/msg](https://github.com/XiangyunHuang/msg)|:book: 现代统计图形（人民邮电出版社出版） Modern Statistical Graphics|103|2022-12-05|
-|134|[poetries/poetries.github.io](https://github.com/poetries/poetries.github.io)|博客，用于记录学习总结的地方。关注公众号「前端进阶之旅」，一起学习|101|2022-07-28|
-|135|[eastmountyxz/Python-zero2one](https://github.com/eastmountyxz/Python-zero2one)|该资源是作者《Python从零到壹》系列文章的对应代码，该系列包括200篇原创博客，涉及基础语法、网络爬取、大数据分析、机器学习、图像处理、人工智能、文本挖掘、图像识别等领域。希望打造一个高质量的Python Family系列，帮助更多初学者，感谢您的点赞~|100|2022-08-18|
-|136|[SocratesAcademy/cjc](https://github.com/SocratesAcademy/cjc)|《计算新闻传播学》课程|99|2022-06-21|
-|137|[SerhoLiu/serholiu.com](https://github.com/SerhoLiu/serholiu.com)|我的博客|96|2022-07-29|
-|138|[chenyang1999/MyComputerCollegeCourses](https://github.com/chenyang1999/MyComputerCollegeCourses)|我的大学课程学习资料汇总|95|2022-06-21|
-|139|[pgsql-tw/gitbook-docs](https://github.com/pgsql-tw/gitbook-docs)|:book: PostgreSQL 正體中文使用手冊|93|2022-07-31|
-|140|[wx-chevalier/Cloud-Series](https://github.com/wx-chevalier/Cloud-Series)|:books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）|86|2022-11-08|
-|141|[tianyilt/ecust-CourseShare](https://github.com/tianyilt/ecust-CourseShare)|致力于构建共建共治共享的ecust课程攻略共享库|81|2022-06-18|
-|142|[happyCoding1024/FrontendLearningTool](https://github.com/happyCoding1024/FrontendLearningTool)|记录所学，所思，所得，和大家分享前端（不止前端）学习路上的点点滴滴。|80|2022-12-07|
-|143|[wx-chevalier/Awesome-Vision-and-RoadMaps](https://github.com/wx-chevalier/Awesome-Vision-and-RoadMaps)|Awesome Vision and RoadMaps for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI   技术领域前瞻与程序员的进阶之路|80|2022-11-06|
-|144|[Brx86/DingZhen](https://github.com/Brx86/DingZhen)|一眼丁真合集与Api，目前已收集504张|78|2022-07-16|
-|145|[fanmingming/live](https://github.com/fanmingming/live)|一个国内可直连的直播源分享项目。|77|2022-12-04|
-|146|[Godiswill/blog](https://github.com/Godiswill/blog)|【大前端】分享记录|76|2022-11-03|
-|147|[fynch3r/fynch3r.github.io](https://github.com/fynch3r/fynch3r.github.io)|Java安全路上的学习笔记 |75|2022-08-02|
-|148|[taizihuang/wmyblog](https://github.com/taizihuang/wmyblog)|王孟源的博客镜像【可搜索】，每小时更新|74|2022-12-08|
-|149|[RationalMonster/gitbooks-devops-roadmap](https://github.com/RationalMonster/gitbooks-devops-roadmap)|Curiouser的Devops之路|74|2022-12-08|
-|150|[yllg/Algorithms-JS](https://github.com/yllg/Algorithms-JS)|LeetCode算法题的JS解法✏️📒 + 平时遇到的算法题、手写题汇总📗📘📙📚|74|2022-08-06|
-|151|[krmanik/Anki-xiehanzi](https://github.com/krmanik/Anki-xiehanzi)|Learn, read, write and practice Mandarin by drawing strokes in Anki Desktop, AnkiDroid and AnkiMobile with audio of HSK 2.0 (HSK1-6) and HSK 3.0 (HSK 1-9) characters.|73|2022-10-13|
-|152|[fei-hdu/courses](https://github.com/fei-hdu/courses)|课件：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习|72|2022-09-01|
-|153|[Inchill/fe-notes](https://github.com/Inchill/fe-notes)|🍎个人前端知识汇总，并且处于持续更新中。 This is a summary of personal front-end knowledges, and it will be updated from time to time.|70|2022-10-11|
-|154|[irwinai/JavaInterview](https://github.com/irwinai/JavaInterview)|艾小仙的博客|66|2022-08-04|
-|155|[LiveXY/elearning](https://github.com/LiveXY/elearning)|elearning linux/mac/db/cache/server/tools/人工智能|65|2022-08-06|
-|156|[NJUPTFreeExams/NJUPT-CS-FREE](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)|南京邮电大学计软网安院学习资料。Covers all materials for CST, SE, and InfoSec majors.|64|2022-06-21|
-|157|[acdzh/douban-book-api](https://github.com/acdzh/douban-book-api)|第三方豆瓣读书 api 接口|62|2022-10-05|
-|158|[Seekladoom/Freeplane-MindMap-Template](https://github.com/Seekladoom/Freeplane-MindMap-Template)|Freeplane-MindMap-Template（Freeplane 思维导图模板）|60|2022-08-26|
-|159|[RenektonChr/gitbook](https://github.com/RenektonChr/gitbook)|renekton的gitbook|59|2022-12-06|
-|160|[imooc-lego/students-learn-task](https://github.com/imooc-lego/students-learn-task)|学员学习任务，作业、打卡、分享|56|2022-10-14|
-|161|[willshang/go-leetcode](https://github.com/willshang/go-leetcode)|用go刷leetcode，已更新2000+常见面试算法题目，提供多种解题思路|55|2022-07-02|
-|162|[qinxs/Ease-Bookmarks](https://github.com/qinxs/Ease-Bookmarks)|简单易用的书签管理器|54|2022-12-07|
-|163|[Alex-Shen1121/SZU_Learning_Resource](https://github.com/Alex-Shen1121/SZU_Learning_Resource)|深圳大学CS本科 课程资源共享|54|2022-07-20|
-|164|[TommyMerlin/Awesome-Repository](https://github.com/TommyMerlin/Awesome-Repository)|A collection of useful Github repositories.  Github项目精选。|52|2022-10-17|
-|165|[hanxi/blog](https://github.com/hanxi/blog)|涵曦的博客|50|2022-11-11|
-|166|[WhaleFell/SkyDailyTask](https://github.com/WhaleFell/SkyDailyTask)|Sky光遇每日任务攻略自动更新，自动推送邮箱，再也不怕崽崽不会做每日任务啦啦啦！！！【利用爬虫实现】|47|2022-12-08|
-|167|[sh2288/transer](https://github.com/sh2288/transer)|文字游戏_翻译君_调用有道,百度,腾讯,彩云...调用云翻译API的GALGAME翻译工具|46|2022-07-15|
-|168|[MrGaoGang/mrgaogang.github.io](https://github.com/MrGaoGang/mrgaogang.github.io)|【高小哥前端开发】个人博客；涵盖Javascript基础，Vue，React，Mendix，Android, iOS , React Native 等|45|2022-11-29|
-|169|[toyjack/phpdoc-zh-docset](https://github.com/toyjack/phpdoc-zh-docset)|PHP手册中文版－支持Dash使用的DOCSET|45|2022-08-18|
-|170|[Littlefean/SmartPython](https://github.com/Littlefean/SmartPython)|python小技巧系列源代码——来自b站视频|44|2022-07-14|
-|171|[bennyxguo/frontend-tutorials](https://github.com/bennyxguo/frontend-tutorials)|📘 Frontend Tutorials and Tricks — 前端技巧和教程|44|2022-12-08|
-|172|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|43|2022-08-03|
-|173|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the 2021 COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |43|2022-12-02|
-|174|[familyld/learnpython](https://github.com/familyld/learnpython)|Python学习笔记|43|2022-06-14|
-|175|[Hansen-hjs/my-note](https://github.com/Hansen-hjs/my-note)|个人代码笔记|42|2022-08-03|
-|176|[mrhso/IshisashiEncoding](https://github.com/mrhso/IshisashiEncoding)|Unicode 和编码的那些事儿|42|2022-10-30|
-|177|[mengyou658/keywords](https://github.com/mengyou658/keywords)|keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、运维、数据库、安卓android、ios、小程序、golang、Java、JavaScript、python、php、rust、机器学习machine learning、游戏game、各种开源项目、面试|41|2022-08-05|
-|178|[Hancoson/blog](https://github.com/Hancoson/blog)|:notebook:前端博客:clap: :star::star::star:鼓励一下:point_right:|41|2022-12-07|
-|179|[PE-CN/PE-CN.github.io](https://github.com/PE-CN/PE-CN.github.io)|Project Euler   欧拉计划 中文翻译站|40|2022-11-29|
-|180|[OpenWrt-Actions/OpenWrt-Packages](https://github.com/OpenWrt-Actions/OpenWrt-Packages)|国内常用OpenWrt软件包源码合集，每天自动更新，建议使用Lean源码|39|2022-09-25|
-|181|[dsrkafuu/dsr-blog](https://github.com/dsrkafuu/dsr-blog)|新版整合式个人博客，基于 Hugo 实现，包含博客文章和笔记整合。|39|2022-12-08|
-|182|[king-hcj/king-hcj.github.io](https://github.com/king-hcj/king-hcj.github.io)|前端精华、前端高级进阶、让前端不枯燥的有趣技巧分享。|39|2022-12-08|
-|183|[31415926535x/CollegeProjectBackup](https://github.com/31415926535x/CollegeProjectBackup)|一些我在大学期间修读的课程的实验项目|39|2022-12-07|
-|184|[wangzhizhou/LearnSwift](https://github.com/wangzhizhou/LearnSwift)|SwiftUI官方教程中文版|38|2022-09-26|
-|185|[wx-chevalier/Node-Series](https://github.com/wx-chevalier/Node-Series)|:books: 深入浅出 Node.js 全栈架构，语法基础，框架使用，工程实践，全栈开发，实时通信，数据库|38|2022-11-08|
-|186|[dujialun/gpdb_doc_zh](https://github.com/dujialun/gpdb_doc_zh)|Greenplum文档翻译|38|2022-10-06|
-|187|[MisterChangRay/Blog](https://github.com/MisterChangRay/Blog)|充当日常笔记或者个人博客吧|38|2022-10-25|
-|188|[SwiftGGTeam/SwiftGGTeam.github.io](https://github.com/SwiftGGTeam/SwiftGGTeam.github.io)|打造国内第一的swift译文站|38|2022-08-26|
-|189|[Erxionglsx/Erxionglsx.github.io](https://github.com/Erxionglsx/Erxionglsx.github.io)|我是二雄，为了更好的复习和理解所学的知识，将自己在视频网站和博客所学知识摘抄总结成了笔记。|36|2022-10-19|
-|190|[BreezePython/PythonArticles](https://github.com/BreezePython/PythonArticles)|公众号【清风Python】文章代码归档|36|2022-09-14|
-|191|[overnote/over-shell](https://github.com/overnote/over-shell)|Shell脚本笔记：[进度-80%]正则表达式、GREP、SED、AWK、函数|36|2022-07-01|
-|192|[mobxjs/zh.mobx.js.org](https://github.com/mobxjs/zh.mobx.js.org)|Mobx中文文档|35|2022-07-15|
-|193|[wx-chevalier/Business-Series](https://github.com/wx-chevalier/Business-Series)|熊说财经与科技 ~ 某熊的创业之路|35|2022-11-06|
-|194|[kangkaisen/blog](https://github.com/kangkaisen/blog)|bcmeng.com code 编程小梦博客源码|35|2022-12-05|
-|195|[damit5/damit5.github.io](https://github.com/damit5/damit5.github.io)|个人部分知识总结|34|2022-12-01|
-|196|[sqh17/notes](https://github.com/sqh17/notes)|前端知识|34|2022-08-05|
-|197|[LearnOpenGL-CN/learnopengl-cn.github.io](https://github.com/LearnOpenGL-CN/learnopengl-cn.github.io)|使用了新主题的网站，如果想要提交翻译更新请到LearnOpenGL-CN这个工程，这里是自动部署的网站|34|2022-10-16|
-|198|[Eished/JavaScript_notes](https://github.com/Eished/JavaScript_notes)|JavaScript 学习笔记集和代码库|33|2022-06-24|
-|199|[MrH723/openwrt-packages](https://github.com/MrH723/openwrt-packages)|国内常用OpenWrt软件包源码合集，每天两次自动更新上游源码。|32|2022-08-06|
-|200|[ZHEvent/ZHEvent.github.io](https://github.com/ZHEvent/ZHEvent.github.io)|事件小分队论文笔记|32|2022-11-08|
+|1|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)|计算机自学指南|37661|2023-11-25|
+|2|[QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)|浙江大学课程攻略共享计划|34411|2023-11-26|
+|3|[PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)|清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University|30388|2023-11-01|
+|4|[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|29273|2023-10-05|
+|5|[WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension)|全国各省市停贷通知汇总|20482|2023-08-23|
+|6|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|14537|2023-11-25|
+|7|[diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)| A collection of resources and papers on Diffusion Models|8935|2023-11-05|
+|8|[javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info)|现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。|8824|2023-10-31|
+|9|[fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers)|Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。|5981|2023-10-10|
+|10|[golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)|:books: Go语言圣经中文版|5730|2023-11-29|
+|11|[yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php)|A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具|5605|2023-11-24|
+|12|[doocs/technical-books](https://github.com/doocs/technical-books)|😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...|5421|2023-07-13|
+|13|[go101/go101](https://github.com/go101/go101)|An up-to-date (unofficial) knowledge base for Go programming self learning|5249|2023-11-24|
+|14|[biaochenxuying/blog](https://github.com/biaochenxuying/blog)|大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。|4489|2023-10-27|
+|15|[gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)|全面的Webpack教程《深入浅出Webpack》电子书|4353|2023-08-25|
+|16|[golang101/golang101](https://github.com/golang101/golang101)|Go语言101 : 一个与时俱进的Go编程知识库|4196|2023-11-24|
+|17|[FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)|2018 edition of our front-end development handbook|4175|2023-07-28|
+|18|[cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)|A collection of several hundred online tools for OSINT|4110|2023-11-28|
+|19|[qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)|《Software Engineering at Google》的中英文对译版本|3641|2023-11-21|
+|20|[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)|:books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视 ...|3063|2023-11-28|
+|21|[EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)|IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本|2444|2023-11-26|
+|22|[kujian/frontendDaily](https://github.com/kujian/frontendDaily)|前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。|2185|2023-11-29|
+|23|[jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)|😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...|2131|2023-06-25|
+|24|[godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io)|被删前端博客--喜欢请star|1995|2023-11-25|
+|25|[demopark/electron-api-demos-Zh_CN](https://github.com/demopark/electron-api-demos-Zh_CN)|这是 electron-api-demos 的中文版本, 更新至 v2.0.2|1963|2023-06-25|
+|26|[rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)|A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/|1862|2023-11-23|
+|27|[sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)|How do we integrate AI generation tools into actual work?   关于 Ai 绘画的Wiki   Wiki about Ai painting   Prompts Engineering  指南 Guide   Seeking Maintainer&Translator🙌|1667|2023-11-22|
+|28|[cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)|Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.|1610|2023-11-05|
+|29|[ivandavidov/minimal](https://github.com/ivandavidov/minimal)|Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environ ...|1445|2023-11-03|
+|30|[iptv-org/epg](https://github.com/iptv-org/epg)|Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.|1350|2023-11-29|
+|31|[treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide)|A consistent code style guide for SQL to ensure legible and maintainable projects|1302|2023-10-17|
+|32|[wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)|A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more   量化交易   量化投资|1299|2023-11-27|
+|33|[netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io)|Netkiller Free ebook - 免费电子书|1172|2023-11-19|
+|34|[HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)|中国科学院大学2019-2020课程（秋季，春季，夏季）|1119|2023-08-22|
+|35|[mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython)|A curated list of awesome MicroPython libraries, frameworks, software and resources.|1084|2023-11-10|
+|36|[Asabeneh/30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML)|A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|1028|2023-09-08|
+|37|[lib-pku/lib-pku.github.io](https://github.com/lib-pku/lib-pku.github.io)|北京大学课程资料整理|1014|2023-07-24|
+|38|[openwhu/OpenWHU](https://github.com/openwhu/OpenWHU)|武汉大学课程资料整理-WHU课代表计划|1012|2023-11-29|
+|39|[liuran001/openwrt-packages](https://github.com/liuran001/openwrt-packages)|国内常用OpenWrt软件包源码合集，每天自动更新，建议使用lean源码|980|2023-07-20|
+|40|[lf2021/Front-End-Interview](https://github.com/lf2021/Front-End-Interview)|总结了前端面试过程中浏览器，计算机网络，数据结构与算法，HTML，CSS，JS，Vue，React已经实战经验等相关的面试知识。|968|2023-09-02|
+|41|[Jocs/jocs.github.io](https://github.com/Jocs/jocs.github.io)|💯Jocs 的个人博客，所有的文章都在 issues 里面|952|2023-10-10|
+|42|[cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain)|📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......|914|2023-11-29|
+|43|[SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)|Java漏洞学习笔记 Deserialization Vulnerability|832|2023-06-14|
+|44|[surikov/webaudiofont](https://github.com/surikov/webaudiofont)|Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m ...|832|2023-10-12|
+|45|[wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes)|:books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。|801|2023-11-28|
+|46|[ZhiqingXiao/rl-book](https://github.com/ZhiqingXiao/rl-book)|Source codes for the book "Reinforcement Learning: Theory and Python Implementation"|789|2023-11-26|
+|47|[nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn)|nestjs 中文文档|780|2023-09-18|
+|48|[roy-tian/learning-area](https://github.com/roy-tian/learning-area)|MDN 学习区示例中文版|777|2023-08-28|
+|49|[wardseptember/notes](https://github.com/wardseptember/notes)|算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、Spring Cloud等笔记，源码级学习笔记后续也会更新。|756|2023-06-16|
+|50|[sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh)|国光的黑苹果安装教程：手把手教你配置 OpenCore|745|2023-06-15|
+|51|[helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial)|Flask 入门教程|730|2023-10-30|
+|52|[huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas)|云计算指南|725|2023-11-29|
+|53|[wx-chevalier/CS-Notes](https://github.com/wx-chevalier/CS-Notes)|:books: 编程语言语法基础与工程实践，JavaScript   Java   Python   Go   Rust   CPP   Swift|679|2023-11-01|
+|54|[satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn)|网络安全 · 攻防对抗 · 蓝队清单，中文版|658|2023-09-10|
+|55|[songquanpeng/go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|655|2023-10-11|
+|56|[ningbonb/HTML5](https://github.com/ningbonb/HTML5)|HTML5学习、总结、实践|609|2023-07-11|
+|57|[justjavac/justjavac.github.com](https://github.com/justjavac/justjavac.github.com)|🇨🇳个人博客，喜欢的话请点 star，想订阅点 watch :sparkles: |602|2023-08-15|
+|58|[cncounter/translation](https://github.com/cncounter/translation)|翻译文档|600|2023-10-08|
+|59|[wx-chevalier/System-Notes](https://github.com/wx-chevalier/System-Notes)|:books: 软件工程、算法与架构：数据结构与算法、设计模式、软件架构、协同开发、质量保障 QA|584|2023-11-28|
+|60|[wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists)|:books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好|576|2023-11-28|
+|61|[ailabx/ailabx](https://github.com/ailabx/ailabx)|AI量化实验室，专注将前沿人工智能技术(深度学习/强化学习/知识图谱)应用于金融量化投资。|569|2023-09-19|
+|62|[godbasin/front-end-playground](https://github.com/godbasin/front-end-playground)|被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~|565|2023-11-25|
+|63|[WICG/scroll-to-text-fragment](https://github.com/WICG/scroll-to-text-fragment)|Proposal to allow specifying a text snippet in a URL fragment|563|2023-11-29|
+|64|[satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO)|学习安全运营的记录   The knowledge base of security operation|540|2023-08-27|
+|65|[Veykril/tlborm](https://github.com/Veykril/tlborm)|The Little Book of Rust Macros (updated fork) |532|2023-09-06|
+|66|[ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |518|2023-08-21|
+|67|[MindFxck/daguguguji](https://github.com/MindFxck/daguguguji)|《特师文集》——大咕咕咕鸡著|501|2023-11-16|
+|68|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|448|2023-09-25|
+|69|[zwdnet/PythonPractice](https://github.com/zwdnet/PythonPractice)|极客时间课程《Python核心技术与实战》课程练习实践。|437|2023-07-22|
+|70|[Global-CS-application/global-cs-application.github.io](https://github.com/Global-CS-application/global-cs-application.github.io)|欧港新CS留学项目指北|431|2023-11-15|
+|71|[Eternaldeath/blockchainHome](https://github.com/Eternaldeath/blockchainHome)|构建区块链学习的知识体系合集，汇聚各种区块链资源|429|2023-11-03|
+|72|[jjeejj/geektime2pdf](https://github.com/jjeejj/geektime2pdf)|极客时间专栏文章 转为 PDF 包含评论 音频|425|2023-07-10|
+|73|[xizhibei/blog](https://github.com/xizhibei/blog)|个人博客，(Node.js/Golang/Backend/DevOps)，欢迎 Star, Watch 订阅以及评论|412|2023-11-27|
+|74|[lgd8981289/book_read_quickly](https://github.com/lgd8981289/book_read_quickly)|快读阅读一本书|377|2023-08-01|
+|75|[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)|Liberxue blog for lightweight Jekyll  themes  轻量级自适应 简洁 卡片式博客主题 3秒搞定GitHub blog|369|2023-10-02|
+|76|[ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS)|微信公众号转RSS|367|2023-11-08|
+|77|[wx-chevalier/Product-Notes](https://github.com/wx-chevalier/Product-Notes)|:books: 产品迷思，不仅仅是产品经理，对于产品设计、交互体验、项目管理、行业视点等多方面的思考。|354|2023-08-23|
+|78|[wx-chevalier/Solutions-Notes](https://github.com/wx-chevalier/Solutions-Notes)|:books: 服务端开发实践与工程架构，服务端基础篇   微服务与云原生篇   Spring 篇   Node.js 篇   DevOps 篇   信息安全与渗透测试篇|346|2023-11-06|
+|79|[yunnysunny/nodebook](https://github.com/yunnysunny/nodebook)|nodejs 基础教程|335|2023-08-20|
+|80|[guohuadeng/app-odoo](https://github.com/guohuadeng/app-odoo)|Odoo Addon for 17,16,15,14,13,12,11,10, CE  and EE and SH。Odoo的全版本开源免费增强集合|318|2023-11-28|
+|81|[hongshancapital/interview-assignments](https://github.com/hongshancapital/interview-assignments)|The monorepo for interview take home assignments.|317|2023-11-21|
+|82|[JeffreySu/WeixinResource](https://github.com/JeffreySu/WeixinResource)|微信开发资源汇总   WeChat Development Resources Summary|297|2023-07-29|
+|83|[xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client)|ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt,ZeroSSL,Google 等支持 ACME 协议的证书颁发机构申请pem格式证书|293|2023-08-20|
+|84|[sudoskys/Root](https://github.com/sudoskys/Root)|？什么你说Root？我不到啊    致力于编写全面详细的Root教程文档   刷机   安卓|286|2023-11-17|
+|85|[crifan/crifan_ebook_readme](https://github.com/crifan/crifan_ebook_readme)|Crifan的电子书的使用说明|280|2023-09-14|
+|86|[h4m5t/Sec-Interview](https://github.com/h4m5t/Sec-Interview)|Web安全工程师/信息安全工程师/渗透测试工程师 面试题库|276|2023-11-02|
+|87|[karashiiro/xiv-resources](https://github.com/karashiiro/xiv-resources)|A list of websites and tools for FFXIV.|267|2023-07-05|
+|88|[xy-sea/blog](https://github.com/xy-sea/blog)|博客：前端知识体系、前端监控、性能优化、原理探索、面经等|264|2023-06-02|
+|89|[NianBroken/Firework_Simulator](https://github.com/NianBroken/Firework_Simulator)|烟花模拟器，一个模拟放烟花的网页，基于Firework Simulator v2的二次修改，我仅作翻译处理以及其他优化|264|2023-09-19|
+|90|[openbiox/weekly](https://github.com/openbiox/weekly)|生信爱好者周刊（每周日发布）|250|2023-11-29|
+|91|[YongxinLiu/QIIME2ChineseManual](https://github.com/YongxinLiu/QIIME2ChineseManual)|QIIME 2中文文档(QIIME 2 Chinese Manual)|234|2023-07-29|
+|92|[sechelper/kunge-cybersecurity-learning](https://github.com/sechelper/kunge-cybersecurity-learning)|全网首创，坤哥网安学习法，最屌没有之一|232|2023-08-03|
+|93|[hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle)|一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。|232|2023-10-24|
+|94|[ClarenceDan/openai-billing](https://github.com/ClarenceDan/openai-billing)|This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI  ...|227|2023-06-02|
+|95|[bljx/BFU-leaf](https://github.com/bljx/BFU-leaf)|北京林业大学信息学院课程攻略|221|2023-07-05|
+|96|[USTC-iCourse/ustc-course](https://github.com/USTC-iCourse/ustc-course)|USTC iCourse - a popular course rating platform for USTC students|218|2023-11-14|
+|97|[ituring/first-pr](https://github.com/ituring/first-pr)|《GitHub实践入门》实验用仓库|210|2023-11-23|
+|98|[protogenesis/NewConceptEnglish](https://github.com/protogenesis/NewConceptEnglish)|English for Chinese, 新概念英语笔记,英语学习资料|206|2023-11-06|
+|99|[mrbulb/ONEPIECE-KG](https://github.com/mrbulb/ONEPIECE-KG)|a knowledge graph project for ONEPIECE /《海贼王》知识图谱|204|2023-08-03|
+|100|[piaoliangkb/missing-semester-2020](https://github.com/piaoliangkb/missing-semester-2020)|MIT: missing semester 2020. Solutions and notes. 学习笔记和部分习题答案|203|2023-09-27|
+|101|[SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets)|A collection of datasets for the purpose of emotion recognition/detection in speech.|203|2023-10-18|
+|102|[jaywcjlove/regexp-example](https://github.com/jaywcjlove/regexp-example)|正则表达式实例搜集，通过实例来学习正则表达式。|197|2023-11-29|
+|103|[tianyilt/ecust-CourseShare](https://github.com/tianyilt/ecust-CourseShare)|致力于构建共建共治共享的ecust课程攻略共享库|187|2023-11-27|
+|104|[sanyuan0704/juejin-book-vite](https://github.com/sanyuan0704/juejin-book-vite)|《深入浅出 Vite》掘金小册代码示例仓库|174|2023-06-05|
+|105|[yangheng95/ABSADatasets](https://github.com/yangheng95/ABSADatasets)|Public & Community-shared datasets for Aspect-based sentiment analysis and Text Classification|168|2023-11-29|
+|106|[grbnb/xp_module](https://github.com/grbnb/xp_module)|备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/suiyuehq/xp_module.git|165|2023-06-16|
+|107|[sh2288/transer](https://github.com/sh2288/transer)|文字游戏_翻译君_调用GPT,有道,百度,腾讯,彩云...调用云翻译API的GALGAME翻译工具|165|2023-11-09|
+|108|[hibikilogy/hibikilogy.github.io](https://github.com/hibikilogy/hibikilogy.github.io)|《京吹学报》|165|2023-09-07|
+|109|[akiritsu/cslearner.cn](https://github.com/akiritsu/cslearner.cn)|计算机科学学习指南-个人向|162|2023-08-04|
+|110|[eastmountyxz/Python-zero2one](https://github.com/eastmountyxz/Python-zero2one)|该资源是作者《Python从零到壹》系列文章的对应代码，该系列包括200篇原创博客，涉及基础语法、网络爬取、大数据分析、机器学习、图像处理、人工智能、文本挖掘、图像识别等领域。希望打造一个高质量的Python Family系列，帮助更多初学者，感谢您的点赞~|159|2023-09-19|
+|111|[cargo-youth/ToolDiy](https://github.com/cargo-youth/ToolDiy)|一本工具指南和开箱即用配置，旨在让大家选用和上手合适的工具。|152|2023-06-04|
+|112|[airyland/we-extract](https://github.com/airyland/we-extract)|解析微信公众号文章元信息|152|2023-06-05|
+|113|[fei-aiart/courses](https://github.com/fei-aiart/courses)|课件：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习|151|2023-09-11|
+|114|[zhangxiang958/Blog](https://github.com/zhangxiang958/Blog)|阿翔的个人技术博客，博文写在 Issues 里，如有收获请 star 鼓励~|151|2023-10-29|
+|115|[NJUPTFreeExams/NJUPT-CS-FREE](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)|南京邮电大学计软网安院学习资料。Covers all materials for CST, SE, and InfoSec majors.|149|2023-09-04|
+|116|[larscheng/larscheng-learning-demo](https://github.com/larscheng/larscheng-learning-demo)|学习笔记+gitbook|148|2023-10-24|
+|117|[huangboju/Moots](https://github.com/huangboju/Moots)|收集了一些学习资料|140|2023-09-19|
+|118|[mhxw/hyperledger](https://github.com/mhxw/hyperledger)|Blockchain、Hyperledger、Ethereum、IPFS learning materials / 学习指南|132|2023-11-09|
+|119|[linwu-hi/code-interview](https://github.com/linwu-hi/code-interview)|前端面试小册，包含Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题|130|2023-08-30|
+|120|[xidaner/Freed0m](https://github.com/xidaner/Freed0m)|个人学习笔记，多少有借鉴。请谅解。博客主页：|129|2023-07-27|
+|121|[liangliangzhuang/R_example](https://github.com/liangliangzhuang/R_example)|公众号[庄闪闪的成长手册]对应的R资料（代码+数据）|124|2023-10-08|
+|122|[wx-chevalier/Awesome-RoadMaps-and-Interviews](https://github.com/wx-chevalier/Awesome-RoadMaps-and-Interviews)|Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI   面试必备|121|2023-08-24|
+|123|[almossawi/badarguments](https://github.com/almossawi/badarguments)|Book of Bad Arguments & Mr. Rabbit's Guide to Sneaky Rhetoric|121|2023-09-12|
+|124|[containerpi/rsdocs-actions](https://github.com/containerpi/rsdocs-actions)|Build Action for Rust Books List|114|2023-11-27|
+|125|[pgsql-tw/gitbook-docs](https://github.com/pgsql-tw/gitbook-docs)|:book: PostgreSQL 正體中文使用手冊|114|2023-08-20|
+|126|[taizihuang/wmyblog](https://github.com/taizihuang/wmyblog)|王孟源的博客镜像【可搜索】，每小时更新|111|2023-11-29|
+|127|[wx-chevalier/Go-Notes](https://github.com/wx-chevalier/Go-Notes)|:books: Go-Series, Go  From Zero to Hero.   语法基础、工程实践、并发编程、Web 开发|111|2023-11-06|
+|128|[hitcslj/HIT-CS-Master](https://github.com/hitcslj/HIT-CS-Master)|哈工大（本部）计算机专业研究生课程攻略 ｜ HIT CS Postgraduate Guide|108|2023-09-26|
+|129|[Sorosliu1029/weReaDou](https://github.com/Sorosliu1029/weReaDou)|✳️ 在豆瓣中显示微信读书的可读状态|108|2023-11-07|
+|130|[zrong/blog](https://github.com/zrong/blog)|博客文章 markdown 源文件|107|2023-11-23|
+|131|[skyao/learning-rust](https://github.com/skyao/learning-rust)|Rust语言学习笔记|106|2023-08-07|
+|132|[poetries/poetries.github.io](https://github.com/poetries/poetries.github.io)|博客，用于记录学习总结的地方。关注公众号「前端进阶之旅」，一起学习|103|2023-11-20|
+|133|[chunhuajiang/arm-gcc-inline-assembler](https://github.com/chunhuajiang/arm-gcc-inline-assembler)|ARM GCC 内联汇编参考手册 - 中文版|102|2023-07-24|
+|134|[wx-chevalier/Cloud-Notes](https://github.com/wx-chevalier/Cloud-Notes)|:books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）|101|2023-08-23|
+|135|[tw93/tw93.github.io](https://github.com/tw93/tw93.github.io)|🧗‍♂️ Tw93 的个人博客|97|2023-11-06|
+|136|[Curiouserw/gitbooks-devops-roadmap](https://github.com/Curiouserw/gitbooks-devops-roadmap)|Curiouser的Devops之路|96|2023-11-20|
+|137|[SerhoLiu/serholiu.com](https://github.com/SerhoLiu/serholiu.com)|我的博客|96|2023-09-07|
+|138|[ylsislove/make-a-little-progress-every-day](https://github.com/ylsislove/make-a-little-progress-every-day)|学无止境，督促自己学习。每天进步一点点，水滴石穿-贵在坚持。|95|2023-11-25|
+|139|[atjiu/dstmod-tutorial](https://github.com/atjiu/dstmod-tutorial)|饥荒mod开发教程|93|2023-11-25|
+|140|[Vanda688/Using-GPT4-image-recognition-on-NewBing](https://github.com/Vanda688/Using-GPT4-image-recognition-on-NewBing)|如题，这是一个解锁NewBing的GPT4识图能力的简单教程。|92|2023-07-17|
+|141|[ConnectAI-E/Awesome-BaseScript](https://github.com/ConnectAI-E/Awesome-BaseScript)|🍻 飞书多维表格扩展脚本项目汇总 A curated list of awesome lark-base script resources, demo, libraries, tools and more.|92|2023-10-08|
+|142|[Michael-Jetson/ML_DL_CV_with_pytorch](https://github.com/Michael-Jetson/ML_DL_CV_with_pytorch)|一个计算机视觉、机器学习与深度学习相关的项目，看课程的笔记还有自己做的程序|92|2023-10-10|
+|143|[TommyMerlin/Awesome-Repository](https://github.com/TommyMerlin/Awesome-Repository)|A collection of useful Github repositories.  Github项目精选。|92|2023-10-25|
+|144|[skyao/learning-servicemesh](https://github.com/skyao/learning-servicemesh)|ServiceMesh学习笔记|88|2023-11-26|
+|145|[sqlsec/PVE](https://github.com/sqlsec/PVE)|国光的 PVE 生产力环境搭建教程|87|2023-07-25|
+|146|[scruel/pcc_3e_slides](https://github.com/scruel/pcc_3e_slides)|《Python 编程：从入门到实践（第三版）》的官方配套图解讲义资源|86|2023-08-16|
+|147|[yllg/Algorithms-JS](https://github.com/yllg/Algorithms-JS)|LeetCode算法题的JS解法✏️📒 + 平时遇到的算法题、手写题汇总📗📘📙📚|86|2023-11-29|
+|148|[upupming/frontend-learning-map](https://github.com/upupming/frontend-learning-map)|前端学习路线（TODOs）|84|2023-10-20|
+|149|[happyCoding1024/FrontendLearningTool](https://github.com/happyCoding1024/FrontendLearningTool)|记录所学，所思，所得，和大家分享前端（不止前端）学习路上的点点滴滴。|80|2023-10-18|
+|150|[snowdreams1006/snowdreams1006.github.io](https://github.com/snowdreams1006/snowdreams1006.github.io)|雪之梦技术驿站,snowdreams1006搭建的 Gitbook 个人博客|79|2023-07-08|
+|151|[wx-chevalier/SoftwareArchitecture-Notes](https://github.com/wx-chevalier/SoftwareArchitecture-Notes)|📚软件架构设计系列笔记|76|2023-09-23|
+|152|[sunshe35/PySide6-codes](https://github.com/sunshe35/PySide6-codes)|《PySide6/PyQt6快速开发与实战》-PySide6部分源代码|73|2023-10-31|
+|153|[damit5/damit5.github.io](https://github.com/damit5/damit5.github.io)|个人部分知识总结|70|2023-10-07|
+|154|[mengyou658/keywords](https://github.com/mengyou658/keywords)|keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、运维、数据库、安卓android、ios、小程序、golang、Java、JavaScript、python、php、rust、机器学习machine learning、游戏game、各种开源项目、面试|69|2023-10-30|
+|155|[c0sc0s/JavaScriptDeepIn](https://github.com/c0sc0s/JavaScriptDeepIn)|JavaScript进阶实战|68|2023-06-02|
+|156|[gavfu/chzhshch-blog-site](https://github.com/gavfu/chzhshch-blog-site)|全球第一博客---缠中说禅|68|2023-11-17|
+|157|[wx-chevalier/MicroCN-Notes](https://github.com/wx-chevalier/MicroCN-Notes)|:books: MicroService & CloudNative Architecture，架构衍化，微服务实战，云原生探索，RPC，服务注册与发现|68|2023-10-29|
+|158|[xmaniu/Excel-Python](https://github.com/xmaniu/Excel-Python)|《对比Excel，轻松学习Python数据分析》学习笔记及练习代码|66|2023-10-21|
+|159|[hanxiaomax/Learncpp_CN](https://github.com/hanxiaomax/Learncpp_CN)|闲来无事翻译LearnCpp|65|2023-09-22|
+|160|[RenektonChr/gitbook](https://github.com/RenektonChr/gitbook)|renekton的gitbook|64|2023-05-31|
+|161|[YSGStudyHards/Docsify-Guide](https://github.com/YSGStudyHards/Docsify-Guide)|💪【开箱即用】Docsify使用指南，使用Typora+Docsify打造最强、最快捷、最轻量级的个人&团队文档。|63|2023-10-22|
+|162|[whaleal/mongodb-manual-zh](https://github.com/whaleal/mongodb-manual-zh)|MongoDB 中文 手册   中文文档   MongoDB  手册  翻译|62|2023-09-07|
+|163|[qq20004604/some_demo](https://github.com/qq20004604/some_demo)|简单的DEMO，与博客|62|2023-08-16|
+|164|[CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN](https://github.com/CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN)|awesome-chatgpt-prompts的中文版;  此存储库包括 ChatGPT 提示管理，以便更好地使用 ChatGPT。   新增Aiprm 的提示(Aiprm Prompt)|61|2023-06-21|
+|165|[wx-chevalier/JavaScript-Notes](https://github.com/wx-chevalier/JavaScript-Notes)|:books: JavaScript Series, Mastering JavaScript & TypeScript from Zero to Hero.|61|2023-11-06|
+|166|[muzihuaner/all-in-one](https://github.com/muzihuaner/all-in-one)|All-in-One 搞基手册|60|2023-10-27|
+|167|[DseidLi/HITSZ-OpenDS](https://github.com/DseidLi/HITSZ-OpenDS)|哈尔滨工业大学（深圳）大数据专业课程攻略   Guidance for courses in Department of Data Science, Harbin Institute of Technology (Shenzhen)|60|2023-11-24|
+|168|[RyanFcr/ZJU_Course](https://github.com/RyanFcr/ZJU_Course)|浙江大学计算机课程资料整理|59|2023-07-06|
+|169|[huawuque404/love-code](https://github.com/huawuque404/love-code)|❤️爱心代码集合 by 🌸花无缺|57|2023-07-24|
+|170|[Tippye/cs408](https://github.com/Tippye/cs408)|💯24王道408笔记+代码（更新中...）|57|2023-11-26|
+|171|[dsrkafuu/dsr-blog](https://github.com/dsrkafuu/dsr-blog)|新版整合式个人博客，基于 Hugo 实现，包含博客文章和笔记整合。|57|2023-10-05|
+|172|[MikesWei/wechat-blog](https://github.com/MikesWei/wechat-blog)|分享Cesium、three.js等开发技术使用心得、经验，附带一些源码|56|2023-09-09|
+|173|[jiewenhuang/halo-theme-stack](https://github.com/jiewenhuang/halo-theme-stack)|一款优秀的Halo2个人博客主题|55|2023-09-27|
+|174|[HK-hub/Short-URL](https://github.com/HK-hub/Short-URL)|Short-Url 短链接生成器是个人制作的一个集合了多种生成策略，加密安全配置，缓存配置等可选可自定义的短链接生成工具包|55|2023-06-07|
+|175|[mydearcc/tools](https://github.com/mydearcc/tools)|fly63在线工具箱，一款在线、免费、高效、好用的工具箱集合网站。包含：开发文档、格式转换、加密/解密、站长工具、代码生成、Css样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具，适合于程序员，站长，设计师，自媒体等IT行业人员。|54|2023-11-20|
+|176|[zhaomenghuan/zhaomenghuan.github.io](https://github.com/zhaomenghuan/zhaomenghuan.github.io)|匠心博客|54|2023-07-02|
+|177|[hanxi/blog](https://github.com/hanxi/blog)|涵曦的博客|54|2023-08-25|
+|178|[Hansen-hjs/my-note](https://github.com/Hansen-hjs/my-note)|个人代码笔记|53|2023-07-20|
+|179|[niemingzhao/niemingzhao.github.io](https://github.com/niemingzhao/niemingzhao.github.io)|我的博客|53|2023-11-26|
+|180|[skyao/learning-grpc](https://github.com/skyao/learning-grpc)|Grpc学习笔记|53|2023-06-13|
+|181|[ReturnTmp/ReturnTmp.github.io](https://github.com/ReturnTmp/ReturnTmp.github.io)|极简博客（Hexo+NexT+GitHub Pages）|52|2023-08-09|
+|182|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |52|2023-06-05|
+|183|[lonnyzhang423/zhihu-hot-hub](https://github.com/lonnyzhang423/zhihu-hot-hub)|记录知乎热搜、热门话题、热门视频，每小时更新，按天归档。|51|2023-11-29|
+|184|[Owen-Liuyuxuan/papers_reading_sharing.github.io](https://github.com/Owen-Liuyuxuan/papers_reading_sharing.github.io)|Sites to share deep learning related papers and their digests|51|2023-11-22|
+|185|[wanghao221/wanghao221.github.io](https://github.com/wanghao221/wanghao221.github.io)|https://wanghao221.github.io 是博客首页 ，https://wanghao221.github.io/game 是游戏网站首页。 h5小游戏优秀项目源码汇总，每个项目都有图有源码，零基础学h5小游戏，持续更新。。。|50|2023-06-10|
+|186|[wx-chevalier/CG-Notes](https://github.com/wx-chevalier/CG-Notes)|:book: 计算机图形学、计算机视觉、图像与媒体处理、图形绘制（Canvas、Three.js、WebGL）、图表与数据可视化|49|2023-09-23|
+|187|[gaowenxin95/leetcode-cookbook](https://github.com/gaowenxin95/leetcode-cookbook)|leetcode上面的一些经典算法题笔记|49|2023-08-08|
+|188|[lindaifeng/QingFengInn-blog](https://github.com/lindaifeng/QingFengInn-blog)|个人博客完整源码：如果对你有所帮助，可以给个star鼓励一下|48|2023-07-07|
+|189|[AH-Toby/PythonAdvanced](https://github.com/AH-Toby/PythonAdvanced)|python高级用法知识，涵盖多线程、并发、协程、网络编程，装饰器等|48|2023-11-07|
+|190|[mrhso/IshisashiEncoding](https://github.com/mrhso/IshisashiEncoding)|Unicode 和编码的那些事儿|48|2023-11-13|
+|191|[WTFAcademy/WTF-CSS](https://github.com/WTFAcademy/WTF-CSS)|WTF CSS教程，帮助新人快速入门CSS，并写出Uniswap和NFT铸造的静态页面。|47|2023-09-07|
+|192|[linuxhitchhiker/THGLG](https://github.com/linuxhitchhiker/THGLG)|The Hitchhiker's Guide to the Linux : Linux 漫游指南|47|2023-10-23|
+|193|[rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn)|Rust 参考手册——Chinese translation of The Rust Reference|46|2023-08-01|
+|194|[Sayi/sayi.github.com](https://github.com/Sayi/sayi.github.com)|个人博客已切换到公众号Evoopeed，请搜索：deepoove|44|2023-07-30|
+|195|[wangzhizhou/LearnSwift](https://github.com/wangzhizhou/LearnSwift)|Swift 学习记录|43|2023-08-22|
+|196|[Eished/JavaScript_notes](https://github.com/Eished/JavaScript_notes)|JavaScript 学习笔记集和代码库|43|2023-09-21|
+|197|[wx-chevalier/Node.js-Notes](https://github.com/wx-chevalier/Node.js-Notes)|:books: 深入浅出 Node.js 全栈架构，语法基础，框架使用，工程实践，全栈开发，实时通信，数据库|42|2023-10-29|
+|198|[ImViper/lovehtml](https://github.com/ImViper/lovehtml)|表白网站模板大全|41|2023-06-08|
+|199|[Erxionglsx/Erxionglsx.github.io](https://github.com/Erxionglsx/Erxionglsx.github.io)|我是二雄，为了更好的复习和理解所学的知识，将自己在视频网站和博客所学知识摘抄总结成了笔记。|41|2023-09-22|
+|200|[eveningwater/code-segment](https://github.com/eveningwater/code-segment)|一个代码片段的集合|41|2023-11-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

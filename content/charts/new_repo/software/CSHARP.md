@@ -1,96 +1,85 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C#
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager)|管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”|1191|2022-07-20|2022-07-05|
-|2|[he55/DreamScene2](https://github.com/he55/DreamScene2)|一个小而快并且功能强大的 Windows 动态桌面软件|822|2022-11-26|2021-12-11|
-|3|[DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)|唷，找本堂主有何贵干呀？|663|2022-12-05|2022-04-18|
-|4|[xunkong/xunkong](https://github.com/xunkong/xunkong)|记录旅途中发生的事|603|2022-12-01|2022-01-19|
-|5|[AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump)|微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本|570|2022-12-08|2022-07-17|
-|6|[HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)|更快、更准的原神成就导出工具|480|2022-12-07|2022-03-21|
-|7|[OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)|一键自动化 下载、安装、激活 Office 的利器。|442|2022-11-11|2022-10-27|
-|8|[sdcb/PaddleSharp](https://github.com/sdcb/PaddleSharp)|.NET/C# binding for Baidu paddle inference library and PaddleOCR|402|2022-12-08|2021-12-16|
-|9|[0x7c13/Pal3.Unity](https://github.com/0x7c13/Pal3.Unity)|PAL3(仙剑奇侠传三) & PAL3A(仙剑奇侠传三外传) reimplementation using C#/Unity|350|2022-12-08|2022-02-28|
-|10|[shmilylty/SharpHostInfo](https://github.com/shmilylty/SharpHostInfo)|SharpHostInfo是一款快速探测内网主机信息工具（深信服深蓝实验室天威战队强力驱动）|341|2022-11-24|2022-09-08|
-|11|[yiyungent/QQBotHub](https://github.com/yiyungent/QQBotHub)|琪琪 机器人 平台   日常生活学习工作 工具集   QQ、Telegram、微信、钉钉、浏览器自动化、打卡|234|2022-09-19|2022-03-07|
-|12|[MicrobBlue/BiFang](https://github.com/MicrobBlue/BiFang)|自动化生成loader，实现加密、混淆、bypass沙箱、多种现有进程注入技术，动态编译生成。|219|2022-07-14|2022-06-12|
-|13|[whx-prog/The-Seed-Link-Future](https://github.com/whx-prog/The-Seed-Link-Future)|基于Unity，硬件Quest2旨在帮助开发者快速构造VR游戏原型以及初学者快速入门。同时也是刀剑神域项目的功能原型模板。|219|2022-10-14|2022-05-22|
-|14|[H4de5-7/powershell-bypass](https://github.com/H4de5-7/powershell-bypass)|powershell命令免杀的小工具，可过Defender、360等，可执行上线cobaltstrike、添加计划任务等。 A powershell loader bypass anti-virus|210|2022-11-24|2022-10-30|
-|15|[Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop)|使用 Windows App SDK 构建的桌面版干净阅读|206|2022-06-10|2022-04-09|
-|16|[mister91jiao/BundleMaster](https://github.com/mister91jiao/BundleMaster)|Unity资源加载大师|206|2022-08-18|2022-02-14|
-|17|[BruceQiu1996/NPhoenix](https://github.com/BruceQiu1996/NPhoenix)|Base on Lcu api,support many functions.Let's go by read readme.md|187|2022-11-19|2022-07-25|
-|18|[lele8/SharpUserIP](https://github.com/lele8/SharpUserIP)|在域控或远程提取登录日志，快速获取域用户对应的IP地址|171|2022-11-14|2022-11-14|
-|19|[SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer)|Just Ceal It (可用于无代理合法过墙)|157|2022-08-08|2022-04-26|
-|20|[cnbluefire/HotLyric](https://github.com/cnbluefire/HotLyric)|热词，为 HyPlayer 和 LyricEase 提供桌面歌词支持。https://www.microsoft.com/store/productId/9MXFFHVQVBV9|157|2022-11-22|2022-04-09|
-|21|[TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT)|🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。|147|2022-11-15|2022-05-12|
-|22|[GMYXDS/MstscManager](https://github.com/GMYXDS/MstscManager)|一个支持MSTSC，Putty，Xshell，Xftp，Radmin，VNC，Winscp，SecureCRT的远程管理器|140|2022-11-13|2022-10-14|
-|23|[2881099/FreeScheduler](https://github.com/2881099/FreeScheduler)|轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。|132|2022-09-20|2022-07-27|
-|24|[killop/URP-12-GammaUIAndSplitResolution](https://github.com/killop/URP-12-GammaUIAndSplitResolution)|线性工作流下，场景相机和UI相机，独立的分辨率，并且UI能够保持在 Gamma 颜色空间下工作|125|2022-07-19|2022-07-11|
-|25|[gc-toolkit/GenshinLauncher](https://github.com/gc-toolkit/GenshinLauncher)|高仿官方启动器的gc启动器捏|123|2022-11-24|2022-08-28|
-|26|[thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier)|2022 年春季学期清华大学《软件分析与验证》课程实验平台|119|2022-08-26|2022-08-04|
-|27|[Sanheiii/Mageki](https://github.com/Sanheiii/Mageki)|一个在移动设备上模拟的音击控制器|115|2022-11-18|2021-12-13|
-|28|[focus-creative-games/hybridclr_trial](https://github.com/focus-creative-games/hybridclr_trial)|HybridCLR 示例项目|111|2022-08-02|2022-07-04|
-|29|[Mr0x01/WXDBDecrypt.NET](https://github.com/Mr0x01/WXDBDecrypt.NET)|微信PC版数据库解密工具 .NET版本|108|2022-09-01|2022-04-28|
-|30|[GardenHamster/Theresa3rd-Bot](https://github.com/GardenHamster/Theresa3rd-Bot)|一个QQ群聊机器人，基于mirai，包括色图推送、每日词云、b站订阅、原神模拟抽卡、定时提醒、复读机等功能|99|2022-08-03|2021-12-14|
-|31|[Bambi5/Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)|启动器|97|2022-11-20|2022-07-27|
-|32|[TeyvatL/GrasscutterTool-3.0.5](https://github.com/TeyvatL/GrasscutterTool-3.0.5)|如果您不相信我，请您检查代码后自行编译，请勿刻意抹黑本人！|95|2022-09-24|2022-08-25|
-|33|[Dango1992/UnityGameFramework_HybridCLR](https://github.com/Dango1992/UnityGameFramework_HybridCLR)|UnityGameFramework框架，目标整合HybridCLR和luban提供完整热更和配置表演示。|90|2022-07-12|2022-06-18|
-|34|[BeichenDream/SharpToken](https://github.com/BeichenDream/SharpToken)|.NET版本的incognito|89|2022-07-01|2022-06-30|
-|35|[BlameTwo/GL](https://github.com/BlameTwo/GL)|一个原神启动器，采用WPF-UI和WindowsAppSDK构建|86|2022-07-13|2022-05-05|
-|36|[a820715049/BiliBiliLive](https://github.com/a820715049/BiliBiliLive)|极简式 Unity 获取 bilibili 直播弹幕、SC、上舰、礼物等插件|82|2022-09-20|2022-06-03|
-|37|[lwwhb/Unity2022_SUNTAIL_Stylized_Fantasy_Village_Optimization](https://github.com/lwwhb/Unity2022_SUNTAIL_Stylized_Fantasy_Village_Optimization)|针对AssetStore上的SUNTAIL - Stylized Fantasy Village项目系统级优化|78|2022-07-17|2022-01-05|
-|38|[xiaoye97/DinkumChinese](https://github.com/xiaoye97/DinkumChinese)|Dinkum汉化|77|2022-10-08|2022-07-18|
-|39|[IOT-CS/IOTCS](https://github.com/IOT-CS/IOTCS)|工业智能网关，基于.net core3.1的跨平台物联网网关。支持不同设备驱动(PLC、CNC、数据库、串口设备、上位机、OPC UA、MQTT）具备二次开发驱动的能力实现与Thingsboard进行数据通讯。同时支持多资源配置化管理，MQTT、MYSQL、WEBHOOK等多种类型，实现数据的快速推送，提供简单的驱动开发接口。|77|2022-10-25|2022-03-23|
-|40|[xljiulang/KestrelApp](https://github.com/xljiulang/KestrelApp)|基于Kestrel的网络编程应用示例|76|2022-12-08|2022-12-03|
-|41|[GlossMod/UnityScriptTrainer](https://github.com/GlossMod/UnityScriptTrainer)|一些unity游戏的内置修改器|72|2022-10-19|2022-07-07|
-|42|[mister91jiao/BundleMaster_IntegrateETTask](https://github.com/mister91jiao/BundleMaster_IntegrateETTask)|BundleMaster资源加载集成ETTask示例工程|72|2022-09-13|2022-02-14|
-|43|[zR00t1/WannaCry](https://github.com/zR00t1/WannaCry)|基于C#编写的WannaCry模拟病毒，通常应用于网络安全应急演练|70|2022-10-12|2022-08-22|
-|44|[lsunky/SkillEditorDemo](https://github.com/lsunky/SkillEditorDemo)|基于unitytimeline的一个技能编辑器，支持调试，运行。|70|2022-12-06|2022-01-04|
-|45|[Richasy/LoopbackManager.Desktop](https://github.com/Richasy/LoopbackManager.Desktop)|适用于 Windows 11 的本地网络回环管理器|68|2022-07-25|2022-07-24|
-|46|[LightCountry/TokenPay](https://github.com/LightCountry/TokenPay)|一款同时支持动态和静态收款地址收取TRX、USDT-TRC20、ETH、USDT-ERC20、USDC-ERC20的支付解决方案！😊 😊 😊A payment solution that supports both dynamic and static collection addresses to receive TRX, USDT-TRC20, ETH, USDT-ERC20, USDC-ER ...|66|2022-11-10|2022-09-12|
-|47|[YohoYang/VSGUI](https://github.com/YohoYang/VSGUI)|一款全新VapourSynth视频压制软件。A video encode GUI like MeGUI for VapourSynth.|66|2022-12-03|2022-05-14|
-|48|[GREAT1217/StarForce_HybridCLR](https://github.com/GREAT1217/StarForce_HybridCLR)|使用 HybridCLR 对 StarForce 实现游戏逻辑热更新。|65|2022-11-07|2022-06-05|
-|49|[genshin-matrix/genshin-woodmen](https://github.com/genshin-matrix/genshin-woodmen)|尘歌壶终结者(原神自动伐木姬   Genshin Auto Wood Obtain   原神自動伐採君)|62|2022-12-08|2022-09-17|
-|50|[Mythologyli/iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun)|基于虚拟定位的 iOS 免越狱模拟跑步打卡，在线拾取路径，可设置循环次数和跑步速度|56|2022-10-26|2022-01-01|
-|51|[cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark)|jellyfin电影元数据插件|54|2022-11-12|2022-10-25|
-|52|[liulei901112/TextLocator](https://github.com/liulei901112/TextLocator)|基于.net实现的本地文档的全文索引定位器，根据关键词搜索定位本地文档内容。便于查找历史文档时节省时间，本地文本搜索神器！|54|2022-12-04|2022-03-21|
-|53|[DSHGFHDS/Cirilla](https://github.com/DSHGFHDS/Cirilla)|适配HuaTuo、轻量、友好、易维护、可热更的Unity3d客户端框架|52|2022-08-01|2022-03-15|
-|54|[laosanyuan/HuoHuan](https://github.com/laosanyuan/HuoHuan)|互联网微信群聊二维码获取工具|52|2022-10-09|2021-12-18|
-|55|[luzamm/PromptCombiner](https://github.com/luzamm/PromptCombiner)|novelai相关|51|2022-10-11|2022-10-10|
-|56|[IcePower/X-ET7](https://github.com/IcePower/X-ET7)|X-ET 是一个融合了 ET, FairyGUI, luban, YooAsset 的缝合怪。|51|2022-11-11|2022-09-01|
-|57|[Sycamore0/GrasscutterTool-2.8.5](https://github.com/Sycamore0/GrasscutterTool-2.8.5)|可能是2.8.5id最全GC工具 Fork from https://github.com/jie65535/GrasscutterCommandGenerator|51|2022-08-25|2022-08-08|
-|58|[It-Life/Deer_GameFramework_Wolong](https://github.com/It-Life/Deer_GameFramework_Wolong)|基于GameFramework框架衍生的一个Wolong (huatuo)热更框架,接入luban配表工具|51|2022-08-06|2022-06-04|
-|59|[he55/ScreenshotEx](https://github.com/he55/ScreenshotEx)|一个简单易用的 Windows 截屏增强工具|50|2022-08-06|2022-05-08|
-|60|[berkerdong/NetEngine](https://github.com/berkerdong/NetEngine)|基于 .Net 框架搭建的一个基础项目结构|49|2022-08-02|2022-01-27|
-|61|[xingchuanzhen/Minecraft_Memory_Bypass_GUI](https://github.com/xingchuanzhen/Minecraft_Memory_Bypass_GUI)|绕过Minecraft for Windows试玩验证系统|49|2022-07-27|2022-01-20|
-|62|[densen2014/BlazorMaui](https://github.com/densen2014/BlazorMaui)|用 c # 和 Razor 创建本机移动应用和桌面应用。使用 Blazor.BB.Maui，可以快速开发共享代码库运行于 Windows (Winforms/WPF/UWP)、Android、iOS、macOS 的应用。|49|2022-12-06|2021-12-17|
-|63|[gc-toolkit/Mojo-Desktop](https://github.com/gc-toolkit/Mojo-Desktop)|在xbox gamebar 里生成和执行gc的指令|47|2022-07-06|2022-06-25|
-|64|[masalabs/MASA.Framework.Admin](https://github.com/masalabs/MASA.Framework.Admin)|一个基于MASA Framework和MASA Blazor Pro的后台管理演示项目|46|2022-08-01|2022-02-08|
-|65|[FlameskyDexive/FastBugly](https://github.com/FlameskyDexive/FastBugly)|快速接入新版Bugly到unity，支持unity2021|45|2022-12-06|2022-09-16|
-|66|[BookerLiu/ShowSeconds](https://github.com/BookerLiu/ShowSeconds)|弥补Windows11不显示秒数的小工具|45|2022-07-23|2022-07-12|
-|67|[chenwansal/JackFrame](https://github.com/chenwansal/JackFrame)|GameFramework For Unity3D / 自己积累的技术库，用于快速开发游戏|45|2022-10-23|2022-02-26|
-|68|[Harlan-H/BiliDownloader](https://github.com/Harlan-H/BiliDownloader)|BiliDownloader是一款界面精简，操作简单且高速下载的b站下载器|43|2022-11-26|2022-09-07|
-|69|[HalfLobsterMan/3.3_BehaviorTree](https://github.com/HalfLobsterMan/3.3_BehaviorTree)|行为树|42|2022-12-03|2022-01-15|
-|70|[1357310795/TodoSync](https://github.com/1357310795/TodoSync)|基于 GitHub Actions 的定时任务，将 Canvas LMS 的作业、测验、公告、讨论、全局通知同步到 Microsoft Todo|41|2022-12-08|2022-09-14|
-|71|[Bian-Sh/ET-Network-Module](https://github.com/Bian-Sh/ET-Network-Module)|从 ET6.0  中精简出来的网络模块（TCP ），可以与 ET Server 通信。|41|2022-10-24|2022-09-05|
-|72|[Misaka12456/ArcaeaServer2](https://github.com/Misaka12456/ArcaeaServer2)|基于ASP.NET Core 6.0的Arcaea服务器程序实现/ASP.NET Core 6.0 Based Arcaea Server Implementation **still developing**|40|2022-07-21|2022-04-09|
-|73|[rtsbtx/FanRen](https://github.com/rtsbtx/FanRen)|免费开源单机凡人修仙传RPG游戏|38|2022-11-02|2022-07-11|
-|74|[lele8/Sqlinfo](https://github.com/lele8/Sqlinfo)|Sqlinfo是一款快速探测数据库信息工具|37|2022-10-30|2022-10-30|
-|75|[xiaolei000129/Paas.Pioneer](https://github.com/xiaolei000129/Paas.Pioneer)|基于 .Net 6/ABP/Vue 多租户中后台前端解决方案，提供更多通用性业务模块，让开发者更加专注于业务。 基于.NET 6、ABP 5实现的后台解决方案，模块插件化，前后端分离，支持分布式部署，跨平台运行。 前端基于element实现了AdminCore管理系统。 持久层使用EF Core、实现多租户、Redis缓存、Jwt实现鉴权、Scriban实现低代码模块、hangfire实现后台任务|37|2022-07-06|2022-01-12|
-|76|[mistletoeKANO/fuxi](https://github.com/mistletoeKANO/fuxi)|unity assetbundle 资源管理工具|33|2022-07-30|2022-06-12|
-|77|[Yoroion/FuckMeetingPlus](https://github.com/Yoroion/FuckMeetingPlus)|🌠 腾讯会议 自动入会 GUI|28|2022-06-19|2022-05-14|
-|78|[git-xiaocao/Live2DCrack](https://github.com/git-xiaocao/Live2DCrack)|免费使用Live2D Pro,Live2D4.2破解|24|2022-06-22|2022-01-26|
-|79|[ColinWeiss/Colin](https://github.com/ColinWeiss/Colin)|一个基于MonoGame的库.|22|2022-07-07|2022-04-13|
-|80|[Awbugl/Andreal](https://github.com/Awbugl/Andreal)|基于Konata的开源AndreaBot，主要为Arcaea玩家提供服务。|19|2022-07-25|2022-04-15|
-|81|[KikyoShaw/colkwallpaper-master](https://github.com/KikyoShaw/colkwallpaper-master)|酷壁壁纸引擎特效插件源码|18|2022-08-01|2022-02-21|
-|82|[TimChen44/CC.CodeGenerator](https://github.com/TimChen44/CC.CodeGenerator)|利用.Net的Source Generator功能，生成开发过程中哪些无聊的代码。|16|2022-07-25|2022-01-02|
-|83|[NewLifeX/NewLife.XCode](https://github.com/NewLifeX/NewLife.XCode)|数据中间件，支持MySQL、SQLite、SqlServer、Oracle、Postgresql、TDengine、达梦，重点在缓存、性能、分表、自动建表。|15|2022-08-01|2022-03-19|
-|84|[Zaitonn/Serein](https://github.com/Zaitonn/Serein)|新时代极简服务器面板|13|2022-08-02|2022-04-07|
-|85|[CrazyZhang666/BF1.ServerAdminTools](https://github.com/CrazyZhang666/BF1.ServerAdminTools)|战地1服务器管理工具|6|2022-07-13|2022-02-14|
-|86|[bluedoctor/MessageServiceFramework](https://github.com/bluedoctor/MessageServiceFramework)|将MSF从SOD的源码仓库独立出来|6|2022-06-19|2022-01-17|
+|1|[LorisYounger/VPet](https://github.com/LorisYounger/VPet)|虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序|3759|2023-11-24|2022-12-13|
+|2|[seerge/g-helper](https://github.com/seerge/g-helper)|Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models|3072|2023-11-28|2023-02-10|
+|3|[Danily07/Translumo](https://github.com/Danily07/Translumo)|Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.|2216|2023-11-27|2023-06-16|
+|4|[Scighost/Starward](https://github.com/Scighost/Starward)|Game Launcher for miHoYo  -  米家游戏启动器|1923|2023-11-24|2023-05-05|
+|5|[babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)|🍨BetterGI · 更好的原神 - 自动拾取   自动剧情   全自动钓鱼(AI)   全自动七圣召唤   自动伐木   自动派遣   一键强化 - UI Automation Testing Tools For Genshin Impact|1541|2023-11-29|2023-08-27|
+|6|[Archeb/opentrace](https://github.com/Archeb/opentrace)|A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience.|1293|2023-11-24|2023-05-23|
+|7|[LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)|Multi-Platform Package Manager for Stable Diffusion|1211|2023-11-28|2023-06-13|
+|8|[Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)|哔哩哔哩用户的个人助理|1032|2023-10-29|2023-07-14|
+|9|[fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS)|The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and o ...|560|2023-08-30|2022-12-12|
+|10|[qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager)|Pillager是一个适用于后渗透期间的信息收集工具|382|2023-11-19|2023-04-23|
+|11|[killop/UnityResourceSolution](https://github.com/killop/UnityResourceSolution)|青霜-UnityResourceSolution|327|2023-11-13|2022-12-28|
+|12|[differentrain/Delapp](https://github.com/differentrain/Delapp)|A simple tool to delete files or folders in Windows|326|2023-10-08|2023-05-17|
+|13|[LocalizeLimbusCompany/LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)|边狱公司汉化模组，月亮计划官方已声明不会封禁使用者   Limbus Company I18N mod,This mod is allowed by Project Moon Offical|304|2023-11-24|2023-03-02|
+|14|[GoldenPotato137/PotatoVN](https://github.com/GoldenPotato137/PotatoVN)|一款Visual Novel管理软件|300|2023-11-28|2023-03-30|
+|15|[Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT)|chatgpt for Excel ，基于ExcelDNA开发|280|2023-09-24|2023-05-13|
+|16|[239573049/ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop)|ChatGpt Dekstop support Android，IOS，Mac，Linux，Win，Web|265|2023-09-29|2023-03-04|
+|17|[SunnyDesignor/PowerfulWindSlickedBackHairCS-LX_Improve](https://github.com/SunnyDesignor/PowerfulWindSlickedBackHairCS-LX_Improve)|用一堆Windows窗口表演强风大背头。|264|2023-10-29|2023-06-28|
+|18|[Ray-Source-X/Open-SD-WebUI-Launcher](https://github.com/Ray-Source-X/Open-SD-WebUI-Launcher)|StableDiffusion WebUI启动器 光源AI绘画盒子 |246|2023-11-15|2023-04-28|
+|19|[ViporMiner/VIPORMiner](https://github.com/ViporMiner/VIPORMiner)|最稳定的BTC-全币种代理中转,地表最强矿池代理 矿池中转 矿池抽水开发者费用固定千分之2（1台也是0.02%，没有矿机数量门坎）几乎无损的转发，近乎变态的精准比例；轻松支持百万级并发！开发费单一抽取.精准比例,/BTC/ETH/ETC/LTC/RVN/ERGO/CFX/KAS/IRON/CKB/KDA/ZEC/NEXA ,性能极高，经过1000G压力测试，一键安装上手简单！！minerproxy ...|239|2023-11-29|2023-08-16|
+|20|[Bryan-Cyf/SuperShortLink](https://github.com/Bryan-Cyf/SuperShortLink)|这是一个基于.NET开源的短链生成及监控系统，包含了短URL的生成、短URL跳转长URL、短URL访问统计以及Web后台监控页面，可以帮助我们更容易地生成短链、监控短链！|218|2023-06-08|2023-03-23|
+|21|[lisongkun/HyggeImaotai](https://github.com/lisongkun/HyggeImaotai)|i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约,  (╯°□°）╯︵ ┻━┻ 预约启动！|212|2023-09-09|2023-07-08|
+|22|[NoBugCn/ActionEditor](https://github.com/NoBugCn/ActionEditor)|unity技能编辑器，Buff编辑器，场景编辑器|196|2023-08-09|2023-05-13|
+|23|[Micah123321/AutoOpenCAK](https://github.com/Micah123321/AutoOpenCAK)|一键脚本工具,用于配置自动化打开各种进程,并且适配不同的用法|175|2023-11-26|2023-05-05|
+|24|[babalae/mihoyo-starter](https://github.com/babalae/mihoyo-starter)|🛠️原神、云·原神、崩坏：星穹铁道、崩坏三 多账号快速切换工具|175|2023-11-03|2023-04-30|
+|25|[lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver)|DBeaver数据库密码解密工具|173|2023-11-29|2023-07-11|
+|26|[Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)|侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .|171|2023-10-28|2022-12-23|
+|27|[526077247/GenshinGamePlay](https://github.com/526077247/GenshinGamePlay)|参考Genshin的GamePlay框架，包括战斗、解谜、怪物AI、剧情，持续开发中|162|2023-08-01|2023-03-23|
+|28|[feifeid47/Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)|简单易用的Unity异步UI框架。 足够轻量，无第三方依赖。 兼容多种资源管理系统（Addressable、YooAssets等）。支持使用HybridCLR热更新。 支持自动引用。 支持对UI面板的销毁控制，使内存优化更方便。 支持子UI，子子UI，子子子UI......|156|2023-09-24|2023-01-01|
+|29|[OnClick9927/WooAsset](https://github.com/OnClick9927/WooAsset)|简单高效的AssetBundle工具|152|2023-09-21|2023-02-26|
+|30|[aiqinxuancai/DiscordProxyStart](https://github.com/aiqinxuancai/DiscordProxyStart)|实验项目，在任意位置运行本项目exe，自动配置并启动添加独立代理的discord|129|2023-06-20|2023-04-21|
+|31|[peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)|本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵 禅道RCE 瑞友天翼应用虚拟化系统sql注入导致RCE大华智慧园区上传,金蝶云星空漏洞等等.    |119|2023-11-14|2023-01-08|
+|32|[clinlx/CN_GreenLumaGUI](https://github.com/clinlx/CN_GreenLumaGUI)|用WPF开发的GreenLuma的简单易用的中文图形界面|117|2023-11-23|2023-05-23|
+|33|[jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech)|腾讯会议摸鱼工具|115|2023-07-04|2023-06-20|
+|34|[babalae/genius-invokation-auto-toy](https://github.com/babalae/genius-invokation-auto-toy)|🎲七圣召唤PVE全自动打牌   Auto Play Genius Invokation TCG|113|2023-10-22|2023-07-17|
+|35|[kosaka-bun/tray-icon-runner](https://github.com/kosaka-bun/tray-icon-runner)|为运行的程序添加托盘图标的工具|106|2023-06-15|2022-12-28|
+|36|[anpho/ofd2pdf](https://github.com/anpho/ofd2pdf)|OFD->PDF转换工具（WinExe & CLI）|95|2023-09-14|2023-08-04|
+|37|[MisakaCirno/QQGroupRescueTool](https://github.com/MisakaCirno/QQGroupRescueTool)|QQ群抢救工具|92|2023-08-30|2023-08-12|
+|38|[0neAtSec/SharpDomainInfo](https://github.com/0neAtSec/SharpDomainInfo)|根据攻防以及域信息收集经验dump快而有用的域信息|91|2023-08-15|2023-08-13|
+|39|[labbbirder/UnityInjection](https://github.com/labbbirder/UnityInjection)|Unity DLL注入，支持全平台，支持Mono和IL2CPP，支持注入引擎和用户DLL。可以实现AOP、装饰器等功能|90|2023-11-29|2023-06-12|
+|40|[SuxueCode/WechatPCMsgBakTool](https://github.com/SuxueCode/WechatPCMsgBakTool)|基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。|89|2023-11-28|2023-08-12|
+|41|[leooneone/aibpm.plus](https://github.com/leooneone/aibpm.plus)|AIBPM是一个开源的工作流引擎。本项目是后端服务，前端请移步aibpm.ui.plus。|87|2023-11-20|2023-03-05|
+|42|[sswi/AcrylicView.MAUI](https://github.com/sswi/AcrylicView.MAUI)|.Net Maui平台实现的亚克力效果视图，支持Windows、Android、iOS\MacOS，AcrylicView, Windows,Android,iOS,Mac|86|2023-11-15|2023-03-27|
+|43|[ZIDOUZI/Kemono-Downloader-GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI)|Kemono Downloader with WinUI3   Kemono下载器，使用WinUI3构建|86|2023-07-12|2022-12-18|
+|44|[Wilson403/MVI4Unity](https://github.com/Wilson403/MVI4Unity)|基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）|82|2023-07-27|2022-12-11|
+|45|[MaaAssistantArknights/MBA](https://github.com/MaaAssistantArknights/MBA)|BA 小助手|79|2023-10-11|2023-09-10|
+|46|[xh321/LiteLoaderQQNT-PatcherNFixer](https://github.com/xh321/LiteLoaderQQNT-PatcherNFixer)|LiteLoader QQNT 全自动修补和修复工具|79|2023-11-26|2023-09-01|
+|47|[Forgot-Dream/STS-Bcut](https://github.com/Forgot-Dream/STS-Bcut)|使用必剪API，语音转字幕，支持输入声音文件，也支持输入视频文件自动提取音频。|75|2023-07-04|2023-02-25|
+|48|[jevonsflash/maui-samples](https://github.com/jevonsflash/maui-samples)|这是一个 .NET MAUI 的示例项目|74|2023-09-18|2023-03-20|
+|49|[Bian-Sh/TinyRPC](https://github.com/Bian-Sh/TinyRPC)|使用 TCP + JsonUtility + Task 的简易 RPC 网络框架|70|2023-11-28|2023-09-30|
+|50|[labbbirder/CSReactive](https://github.com/labbbirder/CSReactive)|纯C#下实现Vue，特别针对Unity|64|2023-07-26|2023-04-19|
+|51|[LocalizeLimbusCompany/LLC_MOD_Toolbox](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox)|模组安装程序|62|2023-11-17|2023-03-31|
+|52|[kimdiego2098/ThingsGateway](https://github.com/kimdiego2098/ThingsGateway)|ThingsGateway 是基于Net6/7的跨平台边缘采集网关，提供底层PLC通讯库，通讯调试软件等。|60|2023-11-28|2023-03-07|
+|53|[Giresharu/TMPro-Player](https://github.com/Giresharu/TMPro-Player)|基于 TextMeshPro 的自定义富文本标签插件 Custom Rich Text Tag Plugin Based on TextMeshPro|59|2023-09-14|2023-04-19|
+|54|[LorisYounger/VPet.Plugin.Demo](https://github.com/LorisYounger/VPet.Plugin.Demo)|由开发者制作的桌宠插件案例, 这算是代码嵌入类型MOD的DEMO|58|2023-11-13|2023-04-11|
+|55|[TremblingMoeNew/StarRailWarpObserve](https://github.com/TremblingMoeNew/StarRailWarpObserve)|星穹铁道跃迁观测工具(Star Rail Warp Observe, STARWO), a Honkai: Star Rail warp(gacha) log export tool|54|2023-11-11|2023-04-27|
+|56|[zxzyjs/SimpleAdmin](https://github.com/zxzyjs/SimpleAdmin)|💥一个小而美的通用业务型后台管理系统。采用前后端分离的设计模式，基于RBAC+多机构的权限管理模式，实现接口级别的数据权限控制。集成国密加解密插件，注释详细，文档齐全，让你的开发少走弯路。|53|2023-11-09|2022-12-11|
+|57|[Milk-Dream/WeChatVideoDownload-Fiddler](https://github.com/Milk-Dream/WeChatVideoDownload-Fiddler)|小白视频号助手是微信视频号下载的Fiddler插件,使用此插件你可以很轻松的下载微信视频号的视频内容,这个微信视频号插件使用C# .NETFramework4.7.1开发|52|2023-08-18|2023-08-17|
+|58|[Drizzle365/Moments](https://github.com/Drizzle365/Moments)|一个 C# 开发的博客朋友圈平台。|52|2023-09-08|2023-05-03|
+|59|[labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)|高效检索Attributes，高效检索子类，通过Attribute获取目标类型和成员|50|2023-10-12|2023-06-20|
+|60|[1694439208/Avalonia_BluePrint](https://github.com/1694439208/Avalonia_BluePrint)|avalonia, avalonia node editor, imitate unreal engine blueprint. 使用avalonia开发的节点编辑器，模仿虚幻引擎蓝图|48|2023-11-21|2023-07-07|
+|61|[Asterecho/hazakura](https://github.com/Asterecho/hazakura)|配合komorebi使用的topbar|47|2023-10-13|2023-10-11|
+|62|[hzy-6/hzy-admin](https://github.com/hzy-6/hzy-admin)|前后端分离权限管理系统基架！演示地址：http://124.221.128.7:5600 数据权限、按钮权限、动态菜单、动态任务调度、动态WebApi、定时标记 [Scheduled("0/5 * * * * ?")] 、代码生成|47|2023-11-24|2023-05-17|
+|63|[cloudinnng/PluginHub](https://github.com/cloudinnng/PluginHub)|PluginHub是一款用IMGUI编写、基于EditorWindow的Unity3D编辑器插件开发框架，并包含一些开箱即用的插件模块。PluginHub is an Unity3D editor plugin development framework based on EditorWindow written in IMGUI, and contains some out-of-the-box ...|46|2023-11-16|2023-09-21|
+|64|[Waheal/Minecraft-Server-Launcher](https://github.com/Waheal/Minecraft-Server-Launcher)|Minecraft Server Launcher(MSL)我的世界开服器，一键式开服，简单快捷！|44|2023-11-18|2023-01-23|
+|65|[d4ilys/Carp.Gateway](https://github.com/d4ilys/Carp.Gateway)|C#.NET 基于Yarp实现的API网关Gateway，支持Kubernetes、Consul|43|2023-11-20|2023-03-29|
+|66|[xljiulang/DependencyInjection.Annotation](https://github.com/xljiulang/DependencyInjection.Annotation)|基于注解的服务自动查找与注册的DI扩展|41|2023-09-06|2023-08-16|
+|67|[YSGStudyHards/YyFlight.ToDoList](https://github.com/YSGStudyHards/YyFlight.ToDoList)|【.NET7 MongoDB 待办清单系统】.NET7 MongoDB从入门到实战基础教程，该项目后端使用的是.NET7、前端页面使用Blazor、使用MongoDB存储数据，更多相关内容大家可以看目录中的MongoDB从入门到实战的相关教程。该系列教程可作为.NET Core入门项目进行学习，感兴趣的小伙伴可以关注博主和我一起学习共同进步。|41|2023-08-25|2023-01-02|
+|68|[zxbmmmmmmmmm/FluentWeather](https://github.com/zxbmmmmmmmmm/FluentWeather)|UWP天气应用|39|2023-11-26|2023-07-24|
+|69|[Senparc/Senparc.AI](https://github.com/Senparc/Senparc.AI)|Senparc 全家桶的 AI 扩展包|37|2023-11-17|2023-04-03|
+|70|[ZHANGTIANYAO1/TS3AudioBot-NetEaseCloudmusic-plugin](https://github.com/ZHANGTIANYAO1/TS3AudioBot-NetEaseCloudmusic-plugin)|这是一个用C#给TS3AudioBot编写网易云插件,让你的TS可以有一个音乐机器人。如果觉得好的话，还请给个星星支持一下|36|2023-11-12|2023-03-14|
+|71|[densen2014/BlazorHybrid](https://github.com/densen2014/BlazorHybrid)|关于BlazorHybrid的一切研究.   用 c # 和 Razor 创建本机移动应用和桌面应用。快速开发共享代码库运行于 Windows (Winforms/WPF/UWP)、Android、iOS、macOS、Linux 的应用。|35|2023-11-17|2023-06-10|
+|72|[AIDajiangtang/MODNET-Matting-tool](https://github.com/AIDajiangtang/MODNET-Matting-tool)|基于深度学习的抠图工具(Deeplearning based image matting tool)|34|2023-08-18|2023-08-07|
+|73|[wy876/tools](https://github.com/wy876/tools)|使用C# 造轮子的webshell管理工具|33|2023-08-12|2023-07-14|
+|74|[redsonw/WeChatMO](https://github.com/redsonw/WeChatMO)|解除微信多开限制|33|2023-10-31|2023-06-10|
+|75|[Chuyu-Team/MSBuildCppCrossToolset](https://github.com/Chuyu-Team/MSBuildCppCrossToolset)|基于MSBuild的C++跨平台工具集，让Linux、MacOS等也支持编译vcxproj。|32|2023-09-25|2023-04-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
