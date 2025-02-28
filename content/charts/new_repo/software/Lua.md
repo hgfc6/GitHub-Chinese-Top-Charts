@@ -1,37 +1,45 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[0wQ/air780e-forwarder](https://github.com/0wQ/air780e-forwarder)|Air700E / Air780E / Air780EG / Air780EX 短信转发 (不支持电信卡, Air700E 只支持移动卡), 电信转发看这里 -> https://github.com/0wQ/air724ug-forwarder|214|2023-11-11|2023-01-14|
-|2|[AegirTech/ArkLights](https://github.com/AegirTech/ArkLights)|明日方舟速通 arknights|194|2023-11-22|2023-08-25|
-|3|[Afool4U/Logi_purgatory_macro](https://github.com/Afool4U/Logi_purgatory_macro)|罗技G系列炼狱宏|169|2023-10-31|2023-08-04|
-|4|[xhcherry/GTA5-Stand-LuaAIO](https://github.com/xhcherry/GTA5-Stand-LuaAIO)|GTA5 Mod Stand Lua All in One；含综合、任务、crash、模组、娱乐等多种standlua于一体的存储库|114|2023-11-18|2023-01-25|
-|5|[boris1993/sms_forwarder_air780_esp32](https://github.com/boris1993/sms_forwarder_air780_esp32)|使用合宙ESP32和Air780E构建的短信转发器|87|2023-11-24|2023-03-14|
-|6|[kchen0x/rime-crane](https://github.com/kchen0x/rime-crane)|凇鹤拼音 —— Rime 简体中文输入法方案，整合了雾凇拼音和小鹤双拼/音形方案的拼音输入法。|54|2023-10-28|2023-04-27|
-|7|[boluokk/e7Helper](https://github.com/boluokk/e7Helper)|【EPIC】第七史诗多功能覆盖脚本(刷书签🍃，挂讨伐、后记、祭坛✌️，挂JJC等📛，多服务器支持📺，qq机器人消息通知📩)|32|2023-11-29|2023-09-09|
-|8|[ksqsf/rime-moran](https://github.com/ksqsf/rime-moran)|魔改自然碼 Rime 方案 (自然碼雙拼+輔助碼+英語日語混輸+emoji+α)|30|2023-11-29|2023-01-29|
-|9|[x1ao4/plex-mpv](https://github.com/x1ao4/plex-mpv)|通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts|26|2023-07-11|2023-06-01|
-|10|[liyunfan1223/unbot-addon](https://github.com/liyunfan1223/unbot-addon)|基于 UnBot 插件修改的机器人控制插件，作为 AzerothCore 机器人模组的配套插件|20|2023-11-04|2023-05-29|
-|11|[KakaruHayate/CODEY_Dataset](https://github.com/KakaruHayate/CODEY_Dataset)|一个第三方的泠鸢yousa歌声数据集|15|2023-11-28|2023-03-13|
-|12|[sirpdboy/luci-app-parentcontrol](https://github.com/sirpdboy/luci-app-parentcontrol)|luci-app-parentcontrol  专为手机用户制作：家长控制 ，可以按时间控制机器，端口和关键字过滤等。|13|2023-06-24|2023-01-15|
-|13|[limao996/AFS-androlua](https://github.com/limao996/AFS-androlua)|基于 AndroLua+ 的 Android/data 文件操作模块|12|2023-11-11|2023-08-30|
-|14|[lost-melody/rime-smyh](https://github.com/lost-melody/rime-smyh)|吉旦餅：亂序字根，三碼定長，延遲頂字。|12|2023-11-24|2023-05-01|
-|15|[TencentBlueKing/blueking-apigateway-apisix](https://github.com/TencentBlueKing/blueking-apigateway-apisix)|蓝鲸 API 网关 - 数据面|11|2023-11-29|2023-05-25|
-|16|[chenmozhijin/luci-app-socat](https://github.com/chenmozhijin/luci-app-socat)|同时兼容firewall3/4 的luci-app-socat|11|2023-11-19|2023-05-13|
-|17|[easy-do/dnf-admin](https://github.com/easy-do/dnf-admin)|某不可描述的勇士game后台|9|2023-11-26|2023-10-29|
-|18|[HowcanoeWang/rime-lua-aux-code](https://github.com/HowcanoeWang/rime-lua-aux-code)|RIME输入法辅助码音形分离插件|9|2023-11-29|2023-10-14|
-|19|[lucikap/luci-app-ua2f](https://github.com/lucikap/luci-app-ua2f)|一个基于ua2f开发的配置界面，更简单的配置ua2f|9|2023-07-26|2023-07-26|
-|20|[MUKAPP/MGenshinTool](https://github.com/MUKAPP/MGenshinTool)|原神工具 应急食品 的仓库|9|2023-07-10|2023-02-05|
-|21|[Kicamon/im-switch.nvim](https://github.com/Kicamon/im-switch.nvim)|neovim的输入法自动切换插件，在写文档以及代码注释的时候可以自动帮忙切换输入法|8|2023-11-16|2023-08-04|
-|22|[hugh7007/xmjd6-rere](https://github.com/hugh7007/xmjd6-rere)|基于星空键道，拓展出来百万词库版本-星猫键道6|8|2023-11-29|2023-06-29|
-|23|[IoT-ThingsCloud/luatos-thingscloud-sdk](https://github.com/IoT-ThingsCloud/luatos-thingscloud-sdk)|基于合宙模组 LuatOS 快速接入 ThingsCloud 物联网平台的 SDK ，帮你 10 分钟完成模组到云平台的双向通信。|8|2023-11-27|2023-03-08|
-|24|[AideLua/AndroLuaX](https://github.com/AideLua/AndroLuaX)|适配了AndroidX的AndroLua+|8|2023-09-22|2023-02-10|
-|25|[amorphobia/rime-jiandao](https://github.com/amorphobia/rime-jiandao)|🌟️星空键道输入方案|7|2023-11-24|2023-06-30|
-|26|[Yooootsuba/ani-gamer-danmu](https://github.com/Yooootsuba/ani-gamer-danmu)|在 MPV 觀看巴哈姆特動畫瘋時，可以支援彈幕列表|7|2023-07-01|2023-06-30|
-|27|[ufo169/rime-sbxh_smart](https://github.com/ufo169/rime-sbxh_smart)|声笔小鹤输入方案（iOS，Win 等各个平台通用版）|6|2023-07-03|2023-01-05|
+|1|[gaboolic/rime-frost](https://github.com/gaboolic/rime-frost)|白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。|1837|2025-02-09|2024-06-07|
+|2|[takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho)|可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.|302|2025-02-21|2024-07-03|
+|3|[amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro)|Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语言模型，输入不再纠结。支持全拼，7种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua等功能扩展，大大增强使用体验|189|2025-02-25|2024-08-06|
+|4|[Tony15246/uosc_danmaku](https://github.com/Tony15246/uosc_danmaku)|在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件|114|2025-02-23|2024-09-02|
+|5|[rimeinn/rime-tiger](https://github.com/rimeinn/rime-tiger)|“胖虎”方案【单字（官方单字、五二顶、五三顶）、打词（官词、鬼虎）、智能模型虎单整句输入】。功能：计算器、临时英/日文、中英互译、部件内嵌、公历农历/大小写金额、当前时间、Emoji表情、拼音反查、简繁转换、火星文滤镜、四重注解|80|2025-01-18|2024-10-12|
+|6|[lwb1978/openwrt-gecoosac](https://github.com/lwb1978/openwrt-gecoosac)|集客无线 AC 控制器 OpenWRT 插件|77|2025-01-05|2024-06-17|
+|7|[mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin)|RIME 汉字部件拆字   全拼双拼输入方案。笔画、部首、音调反查辅码 lua。|75|2025-01-18|2024-03-28|
+|8|[gaboolic/rime-wubi-sentence](https://github.com/gaboolic/rime-wubi-sentence)|rime 墨奇版 五笔整句输入方案   虎码整句输入方案。墨奇五笔整句 墨奇虎码整句 基于墨奇音形和白霜词库|58|2024-08-29|2024-06-18|
+|9|[ZnDong/wget4Nginx](https://github.com/ZnDong/wget4Nginx)|Nginx反向代理下载任意文件|56|2025-02-22|2025-02-22|
+|10|[amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang)|万象拼音：带声调的拼音词库，万象拼音系列方案基础版，可扩展全拼、双拼、中英混输、语言模型，支持同文输入法9键、14键、18键|54|2025-02-25|2024-09-24|
+|11|[Bread-Sp/Fate-Farming-CN-Client-](https://github.com/Bread-Sp/Fate-Farming-CN-Client-)|在Fate Farming原本的基础上做了部分调整以适配国服环境|36|2024-10-20|2024-10-18|
+|12|[super95shao/FireControl](https://github.com/super95shao/FireControl)|VS+CBC+CC火控计算机|26|2025-01-16|2024-08-05|
+|13|[rimeinn/rime-snow-pinyin](https://github.com/rimeinn/rime-snow-pinyin)|【冰雪拼音】输入方案|23|2025-02-21|2024-04-16|
+|14|[minghe36/vinci-subtitle-man](https://github.com/minghe36/vinci-subtitle-man)|达芬奇剪辑软件AI 自动生成字幕插件|22|2024-11-20|2024-11-05|
+|15|[rimeinn/rime-molong](https://github.com/rimeinn/rime-molong)|flypy   zrm   zrlong hyper-charged with rime-moran and rime-snow, with tones! This is 魔龍   環形鶴   環形自然，帶聲調的音形碼！|22|2025-02-22|2024-05-05|
+|16|[exp-3/OpenZxicEditor](https://github.com/exp-3/OpenZxicEditor)|一个 POSIX 兼容的 Mifi~Studio ZXIC-RomKit 开源分支|21|2025-01-16|2024-04-23|
+|17|[rimeinn/rime-zrlong](https://github.com/rimeinn/rime-zrlong)|自然龙 - 基于 Rime 的带调、双拼、音形输入方案|20|2025-01-19|2024-04-15|
+|18|[liubianshi/cmp-lsp-rimels](https://github.com/liubianshi/cmp-lsp-rimels)|Neovim cmp source for rime-ls: support nvim-cmp and blink.cmp|20|2025-02-12|2024-03-24|
+|19|[amzxyz/rime_wanxiang_zrm](https://github.com/amzxyz/rime_wanxiang_zrm)|自然万象---随意码：一个Rime框架下的自然码双拼的纯净方案，支持辅助码、中英混输、部件拆字、计算器、农历、金额大写等，使用万象词库和万象语言模型构建|19|2025-02-22|2024-07-05|
+|20|[rimeinn/rime-JDhe](https://github.com/rimeinn/rime-JDhe)|简单鹤+小鹤双拼+辅助码+虎码 Rime 配置|16|2025-02-25|2024-12-11|
+|21|[Sonata1015/aegisub-karaoke-helper](https://github.com/Sonata1015/aegisub-karaoke-helper)|基于Aegisub的卡拉OK字幕制作助手|16|2024-12-24|2024-03-11|
+|22|[AnnAngela/pot0to-SND-Scripts_Fate-Farming_CN](https://github.com/AnnAngela/pot0to-SND-Scripts_Fate-Farming_CN)|用于国服的 Fate Farming SND 脚本，已经过验证|14|2025-02-22|2025-01-09|
+|23|[ljhljll/GTNH-NuclearCooler](https://github.com/ljhljll/GTNH-NuclearCooler)|加入了热量检测处理的OC强冷|13|2024-10-03|2024-05-05|
+|24|[milkory/rsns-data](https://github.com/milkory/rsns-data)|雷索纳斯 游戏数据|13|2025-02-24|2024-03-12|
+|25|[hanxi/lua-dirty-mongo](https://github.com/hanxi/lua-dirty-mongo)|适配 MongoDB 的差异脏数据|10|2024-12-11|2024-03-09|
+|26|[shijuhao/QingZhou](https://github.com/shijuhao/QingZhou)|该仓库暂不用于开源，目前仅用于发布新版本（部分版本可能会开源）|9|2025-01-22|2024-10-13|
+|27|[dreamness-dnalm/Ra3CoronaMapLuaLib](https://github.com/dreamness-dnalm/Ra3CoronaMapLuaLib)|针对日冕mod地图开发的lua库|8|2025-02-25|2024-12-07|
+|28|[hongzhongx/taiyi-contracts](https://github.com/hongzhongx/taiyi-contracts)|太乙网络天道实践，智能游戏脚本的一些样例和实践|8|2025-02-25|2024-10-30|
+|29|[Mc-GrowlR/LazyFrame](https://github.com/Mc-GrowlR/LazyFrame)|神途GUI框架|8|2025-01-31|2024-09-21|
+|30|[fairycloudpublic/FairyCloud_AIR780EGRL_PUBLIC](https://github.com/fairycloudpublic/FairyCloud_AIR780EGRL_PUBLIC)|AIR780EG定位器，硬件代码|8|2024-11-03|2024-07-15|
+|31|[BlueYeeeee/Rizline-AutoDot](https://github.com/BlueYeeeee/Rizline-AutoDot)|Rizline全自动打歌刷Dot脚本|8|2024-11-05|2024-05-13|
+|32|[srefp/game_helper](https://github.com/srefp/game_helper)|原神锄地自动传送、快捡、qm、连续冲刺辅助脚本|7|2024-11-11|2024-08-07|
+|33|[impishian/rime-ice-ziranma-zhengma-huma](https://github.com/impishian/rime-ice-ziranma-zhengma-huma)|【自然/虎形 输入法组合】1.以雾凇拼音为基础，增加一些搜狗词库，总计约220万词，自定义短语辅码方案，对候选字词的多种二次筛选方案。2.增加带双辅码的自然码。3.以不知郑码为基础，增加 CJK-E 的字。4.增加虎码 CJK-I 官方单字、字词、8105单字。|7|2024-10-23|2024-07-22|
+|34|[jqtmviyu/flypy](https://github.com/jqtmviyu/flypy)|小鹤音形/小鹤飞扬/flypy/ rime 配置文件|7|2025-01-14|2024-06-05|
+|35|[H4lo/luadec-for-pgy](https://github.com/H4lo/luadec-for-pgy)|针对蒲公英路由器lua加密代码的解密工具和逆向分析|6|2024-09-03|2024-09-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -40,4 +48,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

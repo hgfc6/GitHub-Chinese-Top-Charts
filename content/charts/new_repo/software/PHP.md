@@ -1,42 +1,34 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2460|2023-11-17|2023-05-22|
-|2|[qiayue/php-openai-gpt-stream-chat-api-webui](https://github.com/qiayue/php-openai-gpt-stream-chat-api-webui)|不使用任何框架，php + html + css + js 原生实现 openai gpt chat 接口对接，实现流式数据传输和接收，附带简洁网页demo。|359|2023-06-14|2023-03-21|
-|3|[bosnzt/wordscheck](https://github.com/bosnzt/wordscheck)|敏感词检测，违禁词过滤，敏感词过滤，敏感词库，一键启动，本地运行，私有化部署，1分钟接入完成，开箱即用，支持docker，支持在线api|329|2023-10-31|2023-01-23|
-|4|[kaindev8/starMQ](https://github.com/kaindev8/starMQ)|开源的个人收款免签约解决方案 （码支付），拒绝高风险的扫码登录方式，采用APP监听系统收款通知方案，更安全可靠，使用易支付接口，对接更便捷！|312|2023-07-03|2023-02-02|
-|5|[qincrm/crm](https://github.com/qincrm/crm)|司跃CRM 基于laravel  & arco.design & vue 开发，支持字段定制和二次开发         联系方式：17611303211（微信） http://47.94.200.53/   账号: 17611111111  密码: crm123456|184|2023-10-18|2023-02-16|
-|6|[putyy/chatgpt](https://github.com/putyy/chatgpt)|uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！|172|2023-06-25|2023-06-20|
-|7|[tznb1/TwoNav](https://github.com/tznb1/TwoNav)|TwoNav 第二代云导航 云书签管理系统|172|2023-11-13|2023-04-06|
-|8|[guanguans/ai-commit](https://github.com/guanguans/ai-commit)|Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。|172|2023-11-20|2023-01-30|
-|9|[Slowlyo/owl-admin](https://github.com/Slowlyo/owl-admin)|🎈 Owl Admin : 基于 laravel 和 amis 开发的后台框架, 友好的组件使用体验, 可轻松实现复杂页面, 内置代码生成器, 让开发者快速搭建后台管理系统|135|2023-11-25|2022-12-20|
-|10|[StarCrossPortal/swallow](https://github.com/StarCrossPortal/swallow)|代码审计自动化系统,底层架构为蜻蜓编排系统,墨菲SCA,fortify,SemGrep,hema|131|2023-07-25|2023-03-23|
-|11|[netcccyun/pan](https://github.com/netcccyun/pan)|彩虹外链网盘|128|2023-08-25|2023-02-26|
-|12|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的面板|118|2023-11-28|2023-11-14|
-|13|[BugFor-Pings/PHPwebshell](https://github.com/BugFor-Pings/PHPwebshell)|源码丢这了，自己做免杀 ------  一些自己无聊写的免杀php木马，404页面伪装大马-Apache+Nginx版本，phpinfo伪装马，404页面代码执行一句话，phpinfo代码执行一句话|102|2023-11-21|2023-04-10|
-|14|[zmh-program/code-statistic](https://github.com/zmh-program/code-statistic)|⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成 ...|78|2023-06-21|2023-02-10|
-|15|[outtimes/dujiaoka](https://github.com/outtimes/dujiaoka)|🦄（修改版）独角数卡-优雅开源的自动售货系统｜开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|72|2023-06-11|2023-03-25|
-|16|[coinexchanged/Blockchain-php](https://github.com/coinexchanged/Blockchain-php)|数字货币交易所源码，php crypto exchange; coin exchange，php交易所|64|2023-09-14|2023-09-14|
-|17|[poetbi/boaphp](https://github.com/poetbi/boaphp)|boaPHP是一款免费开源、灵活易用的配置式PHP框架，MVC设计模式，完全面向对象，易学易用、便于快速开发|57|2023-11-25|2023-10-08|
-|18|[netcccyun/wxredirect](https://github.com/netcccyun/wxredirect)|微信公众号多域名回调系统|57|2023-09-12|2023-02-26|
-|19|[likeyun/liKeYun_MqPay](https://github.com/likeyun/liKeYun_MqPay)|个人免签支付就是给个人用的支付接口，一般的支付接口都需要营业执照才能申请，个人很难申请的到，或者是没有资质去申请，要和支付商进行签约的。免签，顾名思义就是不需要签约。那么个人免签支付就有市场了，就是为了解决个人无法轻易申请到支付接口的问题。通过简单的技术开发实现APP监听收款码的免签支付方式使用微信实现支付接口。|57|2023-10-11|2023-02-25|
-|20|[overtrue/php-opencc](https://github.com/overtrue/php-opencc)|中文简繁转换，支持词汇级别的转换、异体字转换和地区习惯用词转换（中国大陆、台湾、香港、日本新字体）。|53|2023-06-13|2023-06-12|
-|21|[ordylan/Answer-Killer](https://github.com/ordylan/Answer-Killer)|AK作业答案互助平台源码.互助学习上AK！橙宝们, 一起来布鲁莱斯城堡玩耍吧!|51|2023-06-29|2023-06-29|
-|22|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|51|2023-11-28|2023-06-08|
-|23|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|49|2023-11-14|2023-07-19|
-|24|[xy3xy3/VoiceChatgpt](https://github.com/xy3xy3/VoiceChatgpt)|使用语音与chatgpt对话，调用tts-1,whisper-1,gpt-3.5-turbo。Converse with ChatGPT using voice, calling upon TTS-1, Whisper-1, and GPT-3.5-turbo..|48|2023-11-24|2023-11-21|
-|25|[imiphp/imi-ai](https://github.com/imiphp/imi-ai)|imi-ai is a ChatGPT open source project based on PHP+Swoole+Vue, which can be deployed simply and quickly.（imi-ai 是一个基于 PHP+Swoole+Vue 的 ChatGPT 开源项目，可以简单快速部署。）|48|2023-11-23|2023-06-02|
-|26|[shijie1991/highker](https://github.com/shijie1991/highker)|基于 laravel 开发的一个 社区/社交 小程序|47|2023-11-27|2023-08-23|
-|27|[yikeio/server](https://github.com/yikeio/server)|https://yike.io 服务端源码，项目基于 Laravel 10 开发。|43|2023-08-09|2023-04-04|
-|28|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|37|2023-10-09|2023-08-26|
-|29|[netcccyun/dirlist](https://github.com/netcccyun/dirlist)|彩虹目录列表PHP站点程序|36|2023-09-28|2023-02-26|
-|30|[chshcms/mccms](https://github.com/chshcms/mccms)|漫城CMS（mccms）是一款采用CI框架开发的漫画、小说内容管理系统|35|2023-09-02|2023-01-14|
-|31|[chenggx/douyin-parse-danmu](https://github.com/chenggx/douyin-parse-danmu)|抖音直播弹幕抓取|31|2023-10-26|2023-09-26|
-|32|[netcccyun/easypanel](https://github.com/netcccyun/easypanel)|Easypanel面板彩虹优化版|31|2023-08-25|2023-02-26|
+|1|[FanchangWang/allinone_format](https://github.com/FanchangWang/allinone_format)|本项目是对 https://hub.docker.com/r/youshandefeiyang/allinone /tv.m3u、/tptv.m3u、/migu.m3u 进行聚合 & 重新分组。|768|2025-02-15|2024-10-18|
+|2|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|658|2025-02-24|2024-04-03|
+|3|[taksssss/EPG-Server](https://github.com/taksssss/EPG-Server)|用 php 实现的 EPG 服务端， Docker🐳 部署，带设置界面、台标管理，支持 DIYP & 百川 、 超级直播 以及 xmltv 格式。|371|2025-02-25|2024-07-10|
+|4|[SwagXz/encrypt-labs](https://github.com/SwagXz/encrypt-labs)|前端加密对抗练习靶场，包含非对称加密、对称加密、加签以及禁止重放的测试场景，比如AES、DES、RSA，用于渗透测试练习|335|2024-11-25|2024-11-12|
+|5|[loxi-opensource/luna-swapping](https://github.com/loxi-opensource/luna-swapping)|Luna AI换脸 / AI写真 / AI证件照 / AI高管照 / AI照相馆 / 妙鸭相机同款|314|2025-01-01|2024-09-24|
+|6|[RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController)|一个Emby管理网站|217|2025-02-22|2024-11-24|
+|7|[Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan)|What AV? 一款轻量级的杀软在线识别的项目，持续更新ing|190|2025-02-18|2024-08-26|
+|8|[JLinMr/PixPro](https://github.com/JLinMr/PixPro)|PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。|154|2025-02-22|2024-07-13|
+|9|[Xinslive/MiniPix](https://github.com/Xinslive/MiniPix)|一款专为个人需求设计的高效图床解决方案，集成了强大的图片压缩功能与优雅的前台后台界面。项目结构精简高效，提供自定义图片压缩率与尺寸设置，有效降低存储与带宽成本。|116|2024-10-11|2024-06-30|
+|10|[ELDment/Meting-MusicApi-Fixed](https://github.com/ELDment/Meting-MusicApi-Fixed)|🍰 强大的音乐API框架，支持网易云音乐、腾讯QQ音乐、酷狗音乐、酷我音乐。   ✨   Wow, such a powerful music API framework. Support Netease Music, Tencent(QQ) Music, Kugou Music, Kuwo Music.|110|2025-01-24|2024-12-18|
+|11|[webman-php/midjourney-proxy](https://github.com/webman-php/midjourney-proxy)|全功能Midjourney Discord代理，支持Midjourney所有功能，稳定，免费|99|2024-09-12|2024-03-12|
+|12|[Ursuya/AICommentFilter](https://github.com/Ursuya/AICommentFilter)|Typecho评论AI智能审核过滤插件AICommentFilter，集成了百度云、腾讯云、阿里云的AI内容安全审核功能，能够有效防止发布敏感、违规或广告等垃圾评论，支持配置例外规则，支持检测昵称。安装简单，兼容性好，适合新手或小白使用。|69|2024-10-23|2024-10-20|
+|13|[ProbiusOfficial/PHPinclude-labs](https://github.com/ProbiusOfficial/PHPinclude-labs)|【Hello-CTF labs】PHP文件包含类靶场，各类协议的讲解以及基于协议的LFI/RFI|69|2025-01-26|2024-07-28|
+|14|[inuEbisu/Replicon](https://github.com/inuEbisu/Replicon)|一款基于 Typecho 默认主题 Replica 开发的博客主题，旨在简约现代的基础上提升阅读体验。|68|2025-02-23|2024-12-27|
+|15|[1nFrastr/likeadmin_laravel](https://github.com/1nFrastr/likeadmin_laravel)|likeadmin_php的Laravel版本|60|2025-01-18|2024-11-02|
+|16|[17px/typecho-theme-shanhai](https://github.com/17px/typecho-theme-shanhai)|一款不怎么花哨的 typecho 主题，带点 “重拾写作的乐趣” 的情怀|56|2025-01-15|2024-06-05|
+|17|[suqicloud/wp-ai-chat](https://github.com/suqicloud/wp-ai-chat)|WordPress ai助手插件 可对接deepseek 豆包 通义千问 openai Kimi 千帆等模型|55|2025-02-25|2025-01-28|
+|18|[Juenfy/cover-wechat-api](https://github.com/Juenfy/cover-wechat-api)|仿微信服务端接口|50|2025-01-16|2024-05-11|
+|19|[xiaroustar/search](https://github.com/xiaroustar/search)|源码资源搜索引擎|49|2025-01-13|2025-01-12|
+|20|[Nei-Xin/random-pic-api](https://github.com/Nei-Xin/random-pic-api)|搭建一个简单的随机图片API，支持Docker部署|46|2025-01-20|2024-05-26|
+|21|[smcloudcat/lottery](https://github.com/smcloudcat/lottery)|一款开源免费的php抽奖系统，可用于年会抽奖，节日抽奖等等，支持自定义奖品概率和数量，页面简介美观，操作容易|42|2024-12-06|2024-11-29|
+|22|[Crogram/SiteHub](https://github.com/Crogram/SiteHub)|程江®网址导航系统|42|2024-09-10|2024-03-25|
+|23|[ZShijun/BeaconNav](https://github.com/ZShijun/BeaconNav)|一款适合做工具箱的typecho导航主题(navigation theme)|40|2025-01-18|2024-04-09|
+|24|[zjkal/linuxdo-card](https://github.com/zjkal/linuxdo-card)|linux.do名片|37|2024-11-17|2024-08-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -45,4 +37,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

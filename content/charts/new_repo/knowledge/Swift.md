@@ -1,13 +1,14 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Swift
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MetaBBLv/SwiftUIModifier](https://github.com/MetaBBLv/SwiftUIModifier)|关于SwiftUI中基础组件的修饰符的学习过程|12|2023-09-07|2023-07-11|
-|2|[ZYHshao/MachineLearnDemo](https://github.com/ZYHshao/MachineLearnDemo)|AI 相关学习Demo|9|2023-07-25|2023-04-13|
-|3|[1220144667/SwiftUI](https://github.com/1220144667/SwiftUI)|SwiftUI学习项目|6|2023-11-16|2023-11-13|
+|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1667|2024-11-25|2024-07-07|
+|2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|917|2025-01-17|2024-06-12|
+|3|[suddenly1990/ArcBlockApp](https://github.com/suddenly1990/ArcBlockApp)|使用MVVM和ClearnArchitecture的一次实践|22|2024-12-18|2024-12-12|
+|4|[liseami/ChunxiangClassCode](https://github.com/liseami/ChunxiangClassCode)|纯想0基础全栈开发课程|7|2024-12-09|2024-11-18|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -16,4 +17,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

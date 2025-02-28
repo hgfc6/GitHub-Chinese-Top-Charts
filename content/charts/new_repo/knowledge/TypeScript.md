@@ -1,25 +1,27 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TypeScript
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。|5396|2023-11-01|2023-02-24|
-|2|[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)|BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili   YouTube   Tweet丨TikTok丨Dropbox丨Google Drive丨Local files   Websites丨Podcasts   Meetings   Lectures, etc. 音视频内容 ...|4469|2023-11-09|2023-02-26|
-|3|[liyupi/sql-mother](https://github.com/liyupi/sql-mother)|免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~|1849|2023-10-31|2023-08-03|
-|4|[vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT)|ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧|757|2023-07-28|2023-07-20|
-|5|[aoao-eth/wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot)|微信群聊总结助手 JS 版|583|2023-09-28|2023-08-23|
-|6|[lio-mengxiang/mx-design](https://github.com/lio-mengxiang/mx-design)|最好的react ui组件库教程代码 (The code for the best react component library series tutorial)|552|2023-11-08|2023-07-21|
-|7|[revezone/revezone](https://github.com/revezone/revezone)|A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tld ...|437|2023-10-13|2023-07-07|
-|8|[yesmore/inke](https://github.com/yesmore/inke)|📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。|435|2023-11-14|2023-09-26|
-|9|[openai-translator/raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator)|基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.|344|2023-09-15|2023-03-11|
-|10|[cunzaizhuyi/awesome-fe-sites](https://github.com/cunzaizhuyi/awesome-fe-sites)|收集前端技术站点、技术周刊、个人/团队博客、开源项目站点、公众号等|292|2023-09-07|2023-01-05|
-|11|[pro-collection/interview-question](https://github.com/pro-collection/interview-question)|目标是：收集全网面试问题， 做最全的题库|237|2023-11-26|2023-03-06|
-|12|[JohannLai/gptcli](https://github.com/JohannLai/gptcli)|🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个  ...|216|2023-07-27|2023-03-11|
-|13|[QuarkGluonPlasma/nestjs-course-code](https://github.com/QuarkGluonPlasma/nestjs-course-code)|《Nest 通关秘籍》案例代码|179|2023-11-20|2023-05-02|
-|14|[sancijun/weread-toolbox](https://github.com/sancijun/weread-toolbox)|微信读书工具箱，支持导出图文 Markdown 笔记，同步 Notion 等。|158|2023-07-03|2023-05-30|
-|15|[vannvan/yuque-tools](https://github.com/vannvan/yuque-tools)|🧰 玩转语雀-朴实无华的语雀工具集合，语雀知识库+团队资源批量导出工具(无需Token)｜浏览器插件助手|153|2023-11-27|2023-04-09|
+|1|[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)|🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x|6256|2024-12-15|2024-02-27|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.|2064|2025-01-06|2024-06-16|
+|3|[latentcat/latentbox](https://github.com/latentcat/latentbox)|A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com|1536|2025-02-17|2024-04-05|
+|4|[gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image)|This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...|1199|2024-12-19|2024-04-22|
+|5|[ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)|一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。|938|2025-02-23|2025-02-15|
+|6|[work7z/MDGJX](https://github.com/work7z/MDGJX)|秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！|826|2025-02-03|2024-05-10|
+|7|[codexu/note-gen](https://github.com/codexu/note-gen)|一款专注于记录和写作的跨端 AI 笔记|788|2025-02-25|2024-08-06|
+|8|[yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)|🤖 Free Search with AI, 💡 Open-Source Perplexity,  🧠 Support DeepSeek R1, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、支持深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持D ...|771|2025-02-19|2024-03-08|
+|9|[Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)|Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。|758|2025-02-24|2024-10-22|
+|10|[byodian/oneimg](https://github.com/byodian/oneimg)|文字转图片应用。适合微信公众号长图推文以及小红书、Instagram 等图片社交媒体贴文制作|686|2025-02-22|2024-08-18|
+|11|[plait-board/drawnix](https://github.com/plait-board/drawnix)|开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.|487|2025-02-12|2024-06-04|
+|12|[AIDotNet/fast-wiki](https://github.com/AIDotNet/fast-wiki)|基于.NET8+React+LobeUI实现的企业级智能客服知识库|434|2025-01-27|2024-02-27|
+|13|[frostming/fxzhihu](https://github.com/frostming/fxzhihu)|为知乎生成可分享的卡片及 Instant View|390|2025-02-14|2024-09-25|
+|14|[ChainBuff/solana-web3js](https://github.com/ChainBuff/solana-web3js)|可快速上手的 Solana Web3.js 教程|314|2025-01-25|2024-10-19|
+|15|[openapi-ui/openapi-ts-request](https://github.com/openapi-ui/openapi-ts-request)|Swagger2/OpenAPI3/Apifox to TS/JS, request client, mock service, enum, react-query, type field label, JSON Schemas;  根据 Swagger2/OpenAPI3/Apifox 生成 TypeScript/JavaScript, 客户端请求函数(支持任意客户端), 模拟请求响应服务, 枚 ...|274|2025-02-25|2024-07-01|
+|16|[cbingb666/115master](https://github.com/cbingb666/115master)|115Master 是一个 115 网盘的 Tampermonkey 脚本，旨在提升 115网盘 的浏览体验。|272|2025-02-24|2025-01-24|
+|17|[Fankouzu/solana-basic-ui](https://github.com/Fankouzu/solana-basic-ui)|Solana中文大全-由崔棉大师@MasterCui和捕鲸船社区小伙伴共建的Solana学习社区|252|2024-12-11|2024-05-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -28,4 +30,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

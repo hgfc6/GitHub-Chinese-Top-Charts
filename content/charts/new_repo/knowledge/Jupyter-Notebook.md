@@ -1,37 +1,38 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版|7208|2023-11-22|2023-04-28|
-|2|[williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)|[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation|2680|2023-11-10|2023-05-08|
-|3|[liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)|本项目旨在分享大模型相关技术原理以及实战经验。|2010|2023-11-26|2023-05-23|
-|4|[EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)|Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.|1124|2023-11-26|2023-03-08|
-|5|[unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions)|《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……|869|2023-09-01|2023-04-01|
-|6|[zyds/transformers-code](https://github.com/zyds/transformers-code)|手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube|538|2023-11-18|2023-05-10|
-|7|[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)|本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/|411|2023-11-27|2023-10-29|
-|8|[yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN)|🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）|236|2023-10-25|2023-03-28|
-|9|[KMnO4-zx/huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat)|Chat-甄嬛是利用《甄嬛传》剧本中所有关于甄嬛的台词和语句，基于ChatGLM2进行LoRA微调得到的模仿甄嬛语气的聊天语言模型。|185|2023-11-18|2023-07-10|
-|10|[datawhalechina/d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual)|《动手学深度学习》习题解答，在线阅读地址如下：|130|2023-11-22|2023-03-22|
-|11|[WTFAcademy/WTF-EVM-Opcodes](https://github.com/WTFAcademy/WTF-EVM-Opcodes)|Minimal tutorials for EVM Opcodes, building minimal evm in python from scratch. 以太坊的Opcodes（操作码）极简教程，使用python从零搭建EVM。|115|2023-11-13|2023-07-24|
-|12|[WangRongsheng/Use-LLMs-in-Colab](https://github.com/WangRongsheng/Use-LLMs-in-Colab)|🤖 集合众多大模型在Colab上的使用   LLMs is all you need.|97|2023-11-06|2023-04-08|
-|13|[shellc/investing-for-coders](https://github.com/shellc/investing-for-coders)|这是一本写给程序员的投资入门书籍，借助代码和数据来帮助程序员了解投资的基本概念和技巧，以便更好地管理自己的财务和投资组合。|92|2023-07-03|2023-06-27|
-|14|[yunwei37/openai-cookbook-zh-cn](https://github.com/yunwei37/openai-cookbook-zh-cn)|使用 OpenAI API 的例子和中文指南（自动持续更新 OpenAI 官方文档）|81|2023-06-12|2023-03-28|
-|15|[ConnectAI-E/Prompt-Engineering-Tutior](https://github.com/ConnectAI-E/Prompt-Engineering-Tutior)|🎡 Pompt 提示词工程师入门指南 ~视频字幕+代码资料 [( Python、Golang、NodeJs ) x ( 中文、英文 )]|68|2023-06-13|2023-04-30|
-|16|[XingYu-Zhong/LangChainStudy](https://github.com/XingYu-Zhong/LangChainStudy)|这个项目是一个Jupyter notebook的集合，专门用于学习和探索LangChain框架。|63|2023-10-04|2023-08-05|
-|17|[ConnectAI-E/LangChain-Tutior](https://github.com/ConnectAI-E/LangChain-Tutior)|⛓ LangChain 入门指南，配套吴恩达老师deeplearning.ai课程  😎复现语言：Python、NodeJs、Golang|58|2023-06-17|2023-06-12|
-|18|[Hoper-J/HUNG-YI_LEE_Machine-Learning_Homework](https://github.com/Hoper-J/HUNG-YI_LEE_Machine-Learning_Homework)|李宏毅 (HUNG-YI LEE）机器学习作业思路代码分享|40|2023-11-19|2023-03-13|
-|19|[zziyifan/Medical-AI-learning-1](https://github.com/zziyifan/Medical-AI-learning-1)|医学AI-学习笔记 (Medical AI - Learning Notes)|39|2023-08-21|2023-01-07|
-|20|[Ifan24/GPT_subtitles](https://github.com/Ifan24/GPT_subtitles)|Download YouTube video (or supply your own) and generate dual languange subtitles with OpenAI Whisper and translation API (GPT)                                下载 YouTube 视频（或提供您自己的视频）并使用 Whisper 和翻译AP ...|38|2023-11-14|2023-03-16|
-|21|[qq31682216/chatgpt_all](https://github.com/qq31682216/chatgpt_all)|学习开源chatGPT类模型的指南，汇总各种训练数据获取、模型微调、模型服务的方法，以及记录自己操作总遇到的各种常见坑，欢迎收藏、转发，希望能帮你省一些时间|35|2023-10-05|2023-04-12|
-|22|[buluslee/DT-AI](https://github.com/buluslee/DT-AI)|这是DT-AI的学习路线开源版本，欢迎大家享用！--有问题的话可以扫码添加助教的微信或者请提交issue|26|2023-11-17|2023-08-17|
-|23|[ArronAI007/Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)|AGI资料汇总学习（主要包括LLM和AIGC），持续更新......|23|2023-11-13|2023-08-22|
-|24|[aihes/LangChain-Tutorials-and-Examples](https://github.com/aihes/LangChain-Tutorials-and-Examples)|LangChain结合了大型语言模型、知识库和计算逻辑，可以用于快速开发强大的AI应用。这个仓库包含了我对LangChain的学习和实践经验，包括教程和代码案例。让我们一起探索LangChain的可能性，共同推动人工智能领域的进步！|23|2023-09-21|2023-07-24|
-|25|[lingwsh/ben_tech_python](https://github.com/lingwsh/ben_tech_python)|小白学Python课程资料|23|2023-10-25|2023-02-07|
-|26|[HITSZ-OpenAuto/PHYS1002A](https://github.com/HITSZ-OpenAuto/PHYS1002A)|HITSZ 大学物理实验IA 实验报告、数据处理及绘图程序等资料|22|2023-11-20|2023-10-02|
-|27|[RiverTwilight/Awesome-Machine-Learning-Playground](https://github.com/RiverTwilight/Awesome-Machine-Learning-Playground)|🌟 Dive into the world of machine learning with three no-framework, beginner-friendly models.    基于项目的机器学习入门理论详解。|20|2023-10-27|2023-04-06|
+|1|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|10 Lessons to Get Started Building AI Agents|3312|2025-02-24|2024-11-28|
+|2|[microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)|This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language  ...|2745|2025-02-25|2024-05-07|
+|3|[luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody)|每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈|1285|2025-02-22|2024-08-05|
+|4|[google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook)|A collection of guides and examples for the Gemma open models from Google.|1046|2025-02-25|2024-05-27|
+|5|[wyf3/llm_related](https://github.com/wyf3/llm_related)|记录大模型相关的一些知识和方法|879|2025-02-21|2024-08-04|
+|6|[bbruceyuan/Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)|中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型|539|2025-02-04|2024-10-11|
+|7|[therealoliver/Deepdive-llama3-from-scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch)|Achieve the llama3 inference step-by-step, grasp the core concepts, master the process derivation, implement the code.|450|2025-02-24|2025-02-19|
+|8|[aceliuchanghong/FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)|大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"|422|2024-10-07|2024-03-13|
+|9|[WengLean/hands-on-research-tutorial](https://github.com/WengLean/hands-on-research-tutorial)|《动手做科研》面向科研初学者，一步一步地展示如何入门人工智能科研|305|2024-11-09|2024-05-07|
+|10|[MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN)|LLMs-from-scratch项目中文翻译|293|2025-02-08|2025-01-20|
+|11|[huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents)|异步图书 《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。|288|2024-10-10|2024-05-10|
+|12|[Mxoder/LLM-from-scratch](https://github.com/Mxoder/LLM-from-scratch)|一些 LLM 方面的从零复现笔记|166|2024-09-20|2024-04-29|
+|13|[bbruceyuan/AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code)|LLM大模型（重点）以及搜广推等 AI 算法中手写的面试题，（非 LeetCode），比如 Self-Attention, AUC等，一般比 LeetCode 更考察一个人的综合能力，又更贴近业务和基础知识一点|150|2024-12-29|2024-10-13|
+|14|[lgy112112/Efficient-KAN-in-Chinese](https://github.com/lgy112112/Efficient-KAN-in-Chinese)|给中文KAN学习者和开发者准备的各种KAN的详细的中文注释+使用例子|149|2024-11-27|2024-05-26|
+|15|[HEUOpenResource/heu-icicles](https://github.com/HEUOpenResource/heu-icicles)|哈尔滨工程大学课程攻略共享计划|133|2024-09-02|2024-04-13|
+|16|[Nipi64310/RAG-Book](https://github.com/Nipi64310/RAG-Book)|本项目为书籍《大模型RAG实战》的代码以及资料汇总。|121|2024-11-18|2024-05-06|
+|17|[golfxiao/ScratchLLMStepByStep](https://github.com/golfxiao/ScratchLLMStepByStep)|一个手把手教你从零开始编写GPT并训练大语言模型的教程|49|2025-01-20|2024-11-27|
+|18|[xccds/Python_AI_Game](https://github.com/xccds/Python_AI_Game)|《Python AI游戏编程入门》配套代码库|41|2024-12-14|2024-09-03|
+|19|[Blissful-Jasper/jianpu_record](https://github.com/Blissful-Jasper/jianpu_record)|用来存放公众号的一些源代码|39|2025-02-21|2024-08-23|
+|20|[DiqiangL/bat_code](https://github.com/DiqiangL/bat_code)|字节笔试、腾讯笔试、阿里笔试、美团笔试、拼多多笔试、蚂蚁金服笔试、百度笔试、网易笔试、华为笔试、荣耀笔试、oppo笔试、小米笔试、小红书笔试、bilibili笔试、米哈游笔试、携程笔试、快手笔试、大疆笔试、滴滴笔试、得物笔试、科大讯飞笔试、shein笔试、招商银行笔试、深信服笔试、用友笔试、顺丰笔试、微众银行笔试、奇安信笔试、联想笔试、58同城笔试、图森未来笔试、富途笔试、去哪儿笔试、蔚来笔试、茄 ...|37|2024-09-06|2024-03-20|
+|21|[tj-messi/cv-computer-visual-tj](https://github.com/tj-messi/cv-computer-visual-tj)|同济大学计算机视觉实验室学习|35|2024-10-25|2024-08-03|
+|22|[KuRRe8/eeemsc-coursework](https://github.com/KuRRe8/eeemsc-coursework)|NTU EEE master 项目笔记作业习题答案分享|34|2025-01-20|2025-01-04|
+|23|[GISer2000/daily_learning](https://github.com/GISer2000/daily_learning)|分享代码写作日常|33|2025-02-04|2024-09-21|
+|24|[2001guanhao/backtest_frame_single_factor](https://github.com/2001guanhao/backtest_frame_single_factor)|量化投资回测框架，包含回测框架、投资组合优化器和单因子测试三个模块。通过该框架，用户仅需提供因子数据，即可完成完整的回测流程，并对策略进行深入分析。框架支持并行计算，能够在大数据量的情况下快速运行。框架粗糙，还有太多可改进之处，非常欢迎大家一起来体验使用，参与改进，量化学习不应该闭门造车、讳莫如深，愿和CS、AI领域一样有开源的精神。|27|2024-11-14|2024-11-08|
+|25|[realyinchen/RAG](https://github.com/realyinchen/RAG)|RAG 系列教程源码仓库|27|2025-02-17|2024-10-21|
+|26|[Discrete-Mathematics/ai-self-learning](https://github.com/Discrete-Mathematics/ai-self-learning)|中国矿业大学（北京）智远AI社培训资料|27|2025-02-23|2024-10-16|
+|27|[xiaozhi-agi/qwen_1_8chat_finetune](https://github.com/xiaozhi-agi/qwen_1_8chat_finetune)|基于lora微调Qwen1.8chat的实战教程|25|2024-10-09|2024-03-16|
+|28|[LeoMooreCST/CQUCS-Study](https://github.com/LeoMooreCST/CQUCS-Study)|CQU重庆大学计算机学院课程学习资料21级起(大二至大三)|24|2024-10-25|2024-08-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -40,4 +41,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

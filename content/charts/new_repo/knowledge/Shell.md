@@ -1,16 +1,17 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Shell
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|194|2023-10-07|2023-04-05|
-|2|[qiwsir/Math4ML_book](https://github.com/qiwsir/Math4ML_book)|《机器学习数学基础》有关资料|57|2023-07-07|2022-11-30|
-|3|[spiritLHLS/ecsspeed](https://github.com/spiritLHLS/ecsspeed)|自动更新测试服务器节点列表的网络基准测试脚本(Network benchmarking script that automatically updates the list of the measurement server nodes)|49|2023-10-22|2023-03-28|
-|4|[kejilion/sh](https://github.com/kejilion/sh)|分享定制化的shell脚本！|48|2023-11-22|2023-05-08|
-|5|[Misaka-blog/acme-script](https://github.com/Misaka-blog/acme-script)|acme.sh 证书一键申请脚本|38|2023-09-08|2023-01-13|
-|6|[flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install)|Install Hysteria2  一键脚本 安装指南|33|2023-09-13|2023-09-13|
+|1|[EHEWON/ezwork-ai-doc-translation](https://github.com/EHEWON/ezwork-ai-doc-translation)|EZ-Work AI文档翻译，人人可用的开源AI文档翻译助手，可以快速低成本调用OpenAI等大语言模型api，帮助您实现txt/markdown/word/csv/excel/pdf/ppt的文档翻译。|196|2025-02-25|2024-02-27|
+|2|[Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules)|HyperADRules，一个集合众家之长的、强力去广告的规则|188|2025-02-25|2024-03-10|
+|3|[ForceInjection/AI-fundermentals](https://github.com/ForceInjection/AI-fundermentals)|AI 基础知识 - GPU 架构、CUDA 编程以及大模型基础知识|67|2025-01-31|2024-09-23|
+|4|[slobys/SSL-Renewal](https://github.com/slobys/SSL-Renewal)|本脚本主要用于SSL证书一键申请|66|2025-02-24|2024-07-25|
+|5|[frontend-winter/chatgpt-share-server](https://github.com/frontend-winter/chatgpt-share-server)|chatgpt-share-server 在线预览地址：https://demo.ainx.cc|63|2024-12-06|2024-03-31|
+|6|[KHTdhl/AIO](https://github.com/KHTdhl/AIO)|捋一捋AIO的教程|42|2025-01-19|2024-07-10|
+|7|[W1ndys/Blog](https://github.com/W1ndys/Blog)|Hexo个人博客|42|2025-01-27|2024-03-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -19,4 +20,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

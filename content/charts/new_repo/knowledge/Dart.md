@@ -1,13 +1,12 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Dart
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xiaoyaocz/flutter_cnblogs](https://github.com/xiaoyaocz/flutter_cnblogs)|博客园Flutter客户端|92|2023-09-18|2022-12-12|
-|2|[gvenusleo/lex-app](https://github.com/gvenusleo/lex-app)|划词翻译软件，使用 Flutter 开发，支持多个翻译模型|8|2023-11-27|2023-10-14|
-|3|[helloDolin/dolin_demo_flutter](https://github.com/helloDolin/dolin_demo_flutter)|flutter 学习、总结、提高|8|2023-11-27|2023-02-05|
+|1|[coder-pig/cp_study_flutter_demo](https://github.com/coder-pig/cp_study_flutter_demo)|《掘金专栏-跟🤡杰哥一起学Flutter》的配套代码|6|2025-01-20|2024-10-31|
+|2|[zjy199103/xiaomiShop](https://github.com/zjy199103/xiaomiShop)|flutter 仿小米商城学习项目|5|2024-12-26|2024-12-10|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -16,4 +15,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

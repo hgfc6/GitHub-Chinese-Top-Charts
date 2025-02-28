@@ -1,21 +1,24 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > MATLAB
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|18|2023-10-26|2023-04-22|
-|2|[Sakura-shem/JLU-OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto)|吉林大学通信自动化 生存资料|11|2023-09-27|2023-02-26|
-|3|[weiyawen2015/topology_optimize_data](https://github.com/weiyawen2015/topology_optimize_data)|拓扑优化整理资料|10|2023-07-15|2023-07-15|
-|4|[casparji1018921/-Structured-Light-3D-Reconstruction-](https://github.com/casparji1018921/-Structured-Light-3D-Reconstruction-)|这个代码库存放了个人学习结构光三维重建的学习内容和代码，旨在分享和交流，帮助其他对该主题感兴趣的人。如有问题或建议，欢迎联系我！（This repository contains personal learning materials and code related to structured light 3D reconstruction, intended for sharing and c ...|6|2023-10-10|2023-04-12|
-|5|[liaojingrui01/Quality-Driven-Beamforming-Design-for-IRS-Aided-Video-Broadcasting](https://github.com/liaojingrui01/Quality-Driven-Beamforming-Design-for-IRS-Aided-Video-Broadcasting)|第三篇论文|5|2023-06-19|2023-06-19|
-|6|[badxinxin/pulse-modified-moudle](https://github.com/badxinxin/pulse-modified-moudle)|智能弹药课程设计作业|5|2023-06-20|2023-06-15|
-|7|[ManshengChen/Code-for-TLIMSC-master](https://github.com/ManshengChen/Code-for-TLIMSC-master)|张量学习诱导的多视图谱聚类, 计算机学报2023.|4|2023-09-10|2023-09-10|
-|8|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|网络首发论文“增强型白骨顶鸡优化算法及其应用”的代码，您可以通过知网找到原文|4|2023-09-09|2023-08-10|
-|9|[zhao-zhibo/INS](https://github.com/zhao-zhibo/INS)|牛小骥的惯导机械编排算法，以严恭敏的PSINS为基础，坐标系为东北天，武汉大学的机械编排课程作业|4|2023-11-06|2022-12-27|
-|10|[A-Normal-User/REKCARC-EC-UHT](https://github.com/A-Normal-User/REKCARC-EC-UHT)|一些资料的汇总|3|2023-06-04|2023-06-01|
-|11|[Elapsedf/Matlab-Project](https://github.com/Elapsedf/Matlab-Project)|用matlab编写的相关算法合集|3|2023-10-19|2023-02-25|
+|1|[Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning](https://github.com/Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning)|本项目为归档项目包，不再更新维护，该项目可作为机器人相关专业的本科生和研究生进行学习和参考的资料。 项目首先对PUMA560机械臂的基本结构和参数进行了介绍，对其运动学特性进行了分析并给出了正逆运动学的完整算法。其次，建立了PUMA560的三维模型，制作了机器人的URDF网格可视化文件，并在Simulink中开发了机械臂的可视化仿真框架。最后，分别基于关节空间和笛卡尔空间对机械臂进行了轨迹规划并在 ...|25|2024-12-17|2024-03-13|
+|2|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|17|2025-01-07|2024-06-23|
+|3|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|17|2024-12-22|2024-04-02|
+|4|[yan-fanyu/CUMCM-Paper-And-SourceCode](https://github.com/yan-fanyu/CUMCM-Paper-And-SourceCode)|CUMCM 2010年-2023年全国大学生数学建模竞赛论文和源代码（Paper and source code for the 2010-2023 National College Student Mathematical Modeling Competition）|14|2024-09-09|2024-07-20|
+|5|[LuoQingju/DCOPF](https://github.com/LuoQingju/DCOPF)|DC Optimal Power Flow (OPF) via gurobi and yalmip, respectively. An example for learning gurobi and yalmip. 分别通过gurobi和yalmip实现直流最优潮流。学习gurobi和yalmip的小例子|11|2024-11-06|2024-03-22|
+|6|[LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB](https://github.com/LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB)|该项目需将多个eis数据（包含频率、实部、虚部）汇总到一个excel表格中（每个sheet一份数据），可将多个eis数据批量转化为DRT图谱。|9|2024-09-19|2024-09-06|
+|7|[LuoPoJunZi/Learn](https://github.com/LuoPoJunZi/Learn)|不断学习，一起进步|8|2024-12-22|2024-08-23|
+|8|[Qin-mian/HUST_AIA_course_learn](https://github.com/Qin-mian/HUST_AIA_course_learn)|记录我自己的复习笔记，希望有助于后人（）|4|2025-01-08|2024-11-02|
+|9|[sylvanding/bit-numerical-analysis-hw](https://github.com/sylvanding/bit-numerical-analysis-hw)|⭐️ 北京理工大学数值分析《数值计算方法》丁丽娟-数值实验作业（MATLAB）和课后作业|4|2024-12-04|2024-09-18|
+|10|[WZRforcontrol/YSU_JY_B_ks](https://github.com/WZRforcontrol/YSU_JY_B_ks)|YSU机械原理B课程设计(方案二)|4|2024-09-05|2024-06-22|
+|11|[JimmyChenkk/Southeast-University-School-of-Automation-and-Control-Science-course-resource](https://github.com/JimmyChenkk/Southeast-University-School-of-Automation-and-Control-Science-course-resource)|东南大学自动化学院课程资料共享仓库，涉及实验报告、项目代码、课件、课本答案、参考书等学习资料，详见README.md|3|2025-02-25|2025-02-22|
+|12|[OptimusHimself/MCM](https://github.com/OptimusHimself/MCM)|swj, fxy, zwy MCM group only. 内部资料分享|3|2025-01-27|2024-12-26|
+|13|[JimmyChenkk/Reproduction-of-the-paper-on-fault-detection-using-Attention-GRU-in-MATLAB.](https://github.com/JimmyChenkk/Reproduction-of-the-paper-on-fault-detection-using-Attention-GRU-in-MATLAB.)|This is a Reproduction of the paper on fault detection using attention GRU in MATLAB. 对于关于用attention GRU实现故障检测的论文的matlab复现|3|2024-09-23|2024-09-23|
+|14|[zl0125/SAR-](https://github.com/zl0125/SAR-)|学习与课程实践使用|3|2025-01-07|2024-09-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -24,4 +27,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

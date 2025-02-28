@@ -1,210 +1,210 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > C
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|13192|101|2023-11-28|
-|2|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4052|16|2023-11-09|
-|3|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|10517|13|2023-06-03|
-|4|[kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)|A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.|17641|12|2023-07-21|
-|5|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's LEDE source|27611|12|2023-11-29|
-|6|[gojue/ecapture](https://github.com/gojue/ecapture)|Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.|7510|12|2023-11-26|
-|7|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie Plus & Classic|11018|8|2023-11-29|
-|8|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|4231|6|2023-11-10|
-|9|[ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower)|Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!|4145|6|2023-11-12|
-|10|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|5629|5|2023-10-29|
-|11|[lvgl/lvgl](https://github.com/lvgl/lvgl)|Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.|13737|5|2023-11-29|
-|12|[istoreos/istoreos](https://github.com/istoreos/istoreos)|提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）|3039|5|2023-11-29|
-|13|[baidu/dperf](https://github.com/baidu/dperf)|dperf is a 100Gbps network load tester.|3892|5|2023-11-23|
-|14|[peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI)|我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。|5445|5|2023-09-10|
-|15|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|5490|5|2023-11-20|
-|16|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|13072|4|2023-11-29|
-|17|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|397|4|2023-08-26|
-|18|[flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)|A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb|5318|4|2023-11-29|
-|19|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。|7209|4|2023-11-29|
-|20|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|11580|4|2023-11-28|
-|21|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|9844|4|2023-11-27|
-|22|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|13926|4|2023-07-12|
-|23|[huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated)|带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。|9732|3|2023-08-26|
-|24|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.|5981|3|2023-11-20|
-|25|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|12374|3|2023-11-29|
-|26|[ttttupup/wxhelper](https://github.com/ttttupup/wxhelper)|Hook  WeChat  / 微信逆向|919|3|2023-11-14|
-|27|[helloexp/0day](https://github.com/helloexp/0day)|各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新|1780|3|2023-09-12|
-|28|[cloudwu/skynet](https://github.com/cloudwu/skynet)|A lightweight online game framework|12339|3|2023-11-17|
-|29|[EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)|Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net|10618|3|2023-07-27|
-|30|[Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan)|Logan is a lightweight case logging system based on mobile platform.|5428|3|2023-11-15|
-|31|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|8798|3|2023-08-31|
-|32|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|A cloud-native database based on PostgreSQL developed by Alibaba Cloud.|2700|3|2023-11-24|
-|33|[HVML/PurC](https://github.com/HVML/PurC)|The prime HVML interpreter for C Language.|1056|2|2023-11-01|
-|34|[ptitSeb/box86](https://github.com/ptitSeb/box86)|Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices|2864|2|2023-11-29|
-|35|[aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook)|PC wechat robot interface [wechat Hook] / PC微信3.9.5.81/3.9.2.23接口 微信Hook 微信机器人 微信Hook源码 PC微信协议算法 |908|2|2023-11-27|
-|36|[bytedance/bhook](https://github.com/bytedance/bhook)|:fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.|1792|2|2023-10-12|
-|37|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|577|2|2023-10-16|
-|38|[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)|FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We ...|8745|2|2023-11-29|
-|39|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|414|2|2023-11-25|
-|40|[immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)|An opensource OpenWrt variant for mainland China users.|3311|2|2023-11-29|
-|41|[bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)|:fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.|1266|2|2023-10-11|
-|42|[zetaloop/ExplorerPatcher](https://github.com/zetaloop/ExplorerPatcher)|ExplorerPatcher Chinese Localization - 在 Windows 11 上恢复高效的工作环境|1364|2|2023-11-16|
-|43|[binbyu/Reader](https://github.com/binbyu/Reader)|A win32 txt file reader|3010|2|2023-09-25|
-|44|[yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS)|《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程|5428|2|2023-06-19|
-|45|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|2295|2|2023-11-29|
-|46|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|93|2|2023-11-28|
-|47|[RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)|A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.|4860|2|2023-11-29|
-|48|[openctp/openctp](https://github.com/openctp/openctp)|CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。|1587|2|2023-10-12|
-|49|[openresty/openresty](https://github.com/openresty/openresty)|High Performance Web Platform Based on Nginx and LuaJIT|11770|2|2023-11-27|
-|50|[xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)|CVE-2023-0386在ubuntu22.04上的提权|369|2|2023-06-13|
-|51|[alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things)|面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings|4480|2|2023-07-04|
-|52|[alibaba/xquic](https://github.com/alibaba/xquic)|XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.|1546|2|2023-11-29|
-|53|[huaigu4ng/SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp)|Syscall免杀|449|2|2023-08-06|
-|54|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|193|2|2023-10-05|
-|55|[NaruseMioShirakana/MoeVoiceStudio](https://github.com/NaruseMioShirakana/MoeVoiceStudio)|一个使用C++编写的音频处理软件|793|2|2023-11-28|
-|56|[yitter/IdGenerator](https://github.com/yitter/IdGenerator)|💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ...|1742|2|2023-09-20|
-|57|[ptitSeb/box64](https://github.com/ptitSeb/box64)|Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices|2577|2|2023-11-29|
-|58|[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the Power of Lua into NGINX HTTP servers|10907|2|2023-11-28|
-|59|[canonical/dqlite](https://github.com/canonical/dqlite)|Embeddable, replicated and fault tolerant SQL engine.|3582|2|2023-11-29|
-|60|[RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)|Iceman Fork - Proxmark3|3077|2|2023-11-28|
-|61|[Meituan-Dianping/SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor)|输入SQL，输出索引优化建议|5413|2|2023-10-08|
-|62|[plantegg/programmer_case](https://github.com/plantegg/programmer_case)|程序员案例集锦|751|2|2023-06-06|
-|63|[yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial)|写给应用开发的 Android Framework 教程|403|2|2023-08-26|
-|64|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|7407|2|2023-11-29|
-|65|[elllusion/pinduoduo_backdoor_code](https://github.com/elllusion/pinduoduo_backdoor_code)|拼多多事件的脱壳后的部分代码|331|1|2023-10-18|
-|66|[lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)|Write a simple interpreter of C. Inspired by c4 and largely based on it.|3596|1|2023-09-21|
-|67|[hepingood/w25qxx](https://github.com/hepingood/w25qxx)|W25QXX(W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256) full function driver library for general MCU and Linux.|527|1|2023-10-01|
-|68|[jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)|🔥🔥🔥Flexible and useful UVC camera engine on Android platform, supporting multi-road cameras!|1986|1|2023-10-27|
-|69|[cuber/ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module)|Nginx Module for Google Mirror|3336|1|2023-09-26|
-|70|[gnbdev/opengnb](https://github.com/gnbdev/opengnb)|GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。|909|1|2023-11-01|
-|71|[fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)|2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动|223|1|2023-11-29|
-|72|[wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl)|The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!|2051|1|2023-11-28|
-|73|[zhaojh329/rtty](https://github.com/zhaojh329/rtty)|🐛 Access your terminal from anywhere via the web.|3429|1|2023-09-13|
-|74|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|275|1|2023-11-21|
-|75|[avem-labs/Avem](https://github.com/avem-labs/Avem)|🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]|1561|1|2023-10-03|
-|76|[dgiese/dustcloud](https://github.com/dgiese/dustcloud)|Xiaomi Smart Home Device Reverse Engineering and Hacking|2173|1|2023-11-28|
-|77|[armink/CmBacktrace](https://github.com/armink/CmBacktrace)|Advanced fault backtrace library for ARM Cortex-M series MCU   ARM Cortex-M 系列 MCU 错误追踪库|1446|1|2023-10-28|
-|78|[aitos-io/BoAT-X-Framework](https://github.com/aitos-io/BoAT-X-Framework)|BoAT-X Blockchain Application Framework for IoT|921|1|2023-10-01|
-|79|[uYanki/board-stm32f103rc-berial](https://github.com/uYanki/board-stm32f103rc-berial)|-|321|1|2023-11-27|
-|80|[ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf)|Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块|1385|1|2023-10-15|
-|81|[lpereira/lwan](https://github.com/lpereira/lwan)|Experimental, scalable, high performance HTTP server|5833|1|2023-11-29|
-|82|[hepingood/mpu9250](https://github.com/hepingood/mpu9250)|MPU9250 full function driver library for general MCU and Linux.|338|1|2023-10-01|
-|83|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|188|1|2023-07-13|
-|84|[center-for-threat-informed-defense/adversary_emulation_library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)|An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs. |1369|1|2023-10-25|
-|85|[tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android)|An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR. |566|1|2023-10-22|
-|86|[armink/EasyFlash](https://github.com/armink/EasyFlash)|Lightweight IoT device information storage solution: KV/IAP/LOG.   轻量级物联网设备信息存储方案：参数存储、在线升级及日志存储 ，全新一代版本请移步至 https://github.com/armink/FlashDB|1820|1|2023-11-28|
-|87|[sdlpal/sdlpal](https://github.com/sdlpal/sdlpal)|SDL-based reimplementation of the classic Chinese-language RPG known as PAL.|1644|1|2023-07-24|
-|88|[skylersaleh/SkyEmu](https://github.com/skylersaleh/SkyEmu)|Game Boy Advance, Game Boy, Game Boy Color, and Nintendo DS Emulator|625|1|2023-11-29|
-|89|[clashcross/ClashCross](https://github.com/clashcross/ClashCross)|ClashCross is a cross-platform proxy debugging application built on the Clash core, supporting Android, Windows, macOS, and Linux.ClashCross是基于Clash核心构建的跨平台代理调试应用，支持android、windows、macos、linux|188|1|2023-08-04|
-|90|[hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u)|Padavan|3210|1|2023-08-02|
-|91|[acl-dev/acl](https://github.com/acl-dev/acl)|A powerful server and network library, including coroutine, redis client, http, websocket, mqtt with C/C++ for multi-platform including Linux, Android, iOS, MacOS, Windows, etc..|2684|1|2023-11-29|
-|92|[SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX)|SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor |1979|1|2023-09-18|
-|93|[andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)|sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal|3888|1|2023-11-07|
-|94|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(a cross-platform embedded GUI)|2873|1|2023-11-29|
-|95|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the android classes.dex file|611|1|2023-11-22|
-|96|[vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)|Official repository of VMware open-vm-tools project|2080|1|2023-11-21|
-|97|[bb-qq/r8152](https://github.com/bb-qq/r8152)|Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters|1556|1|2023-11-03|
-|98|[seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon)|The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more|2235|1|2023-11-24|
-|99|[zrythm/zrythm](https://github.com/zrythm/zrythm)|a highly automated and intuitive digital audio workstation - official mirror|1721|1|2023-11-04|
-|100|[langhuihui/jessibuca](https://github.com/langhuihui/jessibuca)|Jessibuca是一款开源的纯H5直播流播放器|1681|1|2023-11-29|
-|101|[TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box)|A toolbox for deep learning model deployment using C++ YoloX   YoloV7   YoloV8   Gan   OCR   MobileVit   Scrfd   MobileSAM|322|1|2023-10-23|
-|102|[XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf)|🍂 Multipurpose homebrew tool for Nintendo Switch|2477|1|2023-11-05|
-|103|[CN-annotation-team/redis7.0-chinese-annotated](https://github.com/CN-annotation-team/redis7.0-chinese-annotated)|Redis 7.0.5 版本——中文注释，持续更新！欢迎参与本项目！🍭🍭🍭|593|1|2023-11-16|
-|104|[alibaba/kubeskoop](https://github.com/alibaba/kubeskoop)|-|367|1|2023-11-23|
-|105|[RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap)|Maintained continuation of Stefan Sundin's AltDrag|1421|1|2023-11-21|
-|106|[YeeZTech/YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing)|Fidelius - YeeZ Privacy Computing 基于可信执行环境的熠智隐私计算中间件|1459|1|2023-10-27|
-|107|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|5087|1|2023-11-28|
-|108|[yangminz/bcst_csapp](https://github.com/yangminz/bcst_csapp)|A C language repo to implement CSAPP|859|1|2023-06-08|
-|109|[espressif/esp-iot-solution](https://github.com/espressif/esp-iot-solution)|Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.|1625|1|2023-11-29|
-|110|[SmallPond/X-Knob](https://github.com/SmallPond/X-Knob)|X-Knob - A smart knob based on LVGL UI library, supports Smart Home(MQTT) and Surface Dial (BT) // LVGL UI 框架下的力反馈智能旋钮  (smartknob + X-TRACK)  |418|1|2023-11-11|
-|111|[cleanflight/cleanflight](https://github.com/cleanflight/cleanflight)|Clean-code version of the baseflight flight controller firmware|2531|1|2023-10-20|
-|112|[appspa/app-space](https://github.com/appspa/app-space)|应用内网发布分发测试部署管理平台版本管理类似蒲公英蒲公英 类似fir.im fir App publish IOS超级签名免签 开源  https://app-space.up.railway.app  APP增量热更新  支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库 安卓苹果发布发版p ...|1067|1|2023-08-10|
-|113|[Mixiaoxiao/Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266)|Native Apple HomeKit accessory implementation for the ESP8266 Arduino core.|1374|1|2023-10-23|
-|114|[liaozhelin/yds-charger](https://github.com/liaozhelin/yds-charger)|一个精致的多功能四路166W桌面充电器|523|1|2023-09-03|
-|115|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|1|2023-11-29|
-|116|[bsauce/kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory)|Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. |984|1|2023-06-08|
-|117|[solosky/pixl.js](https://github.com/solosky/pixl.js)|An emulator for Amiibo!|389|1|2023-11-28|
-|118|[froghui/yolanda](https://github.com/froghui/yolanda)|极客时间<网络编程实战>代码|918|1|2023-08-21|
-|119|[liangkangnan/tinyriscv](https://github.com/liangkangnan/tinyriscv)|A very simple and easy to understand RISC-V core.|877|1|2023-11-09|
-|120|[hepingood/mpu6050](https://github.com/hepingood/mpu6050)|MPU6050 full function driver library for general MCU and Linux.|326|1|2023-10-01|
-|121|[SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)|基于eBPF的堆栈追踪工具|542|1|2023-11-20|
-|122|[ClimbSnail/HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO)|HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等|867|1|2023-09-07|
-|123|[sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri)|Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.|6079|1|2023-11-28|
-|124|[spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)|Make you and your friends play games like in a LAN.|1720|1|2023-11-14|
-|125|[cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB)|CherryUSB is a tiny and portable USB Stack (device & host) for embedded system with USB IP|886|1|2023-11-28|
-|126|[armink/FlashDB](https://github.com/armink/FlashDB)|An ultra-lightweight database that supports key-value and time series data    一款支持 KV 数据和时序数据的超轻量级数据库|1453|1|2023-11-19|
-|127|[luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell)|An android Dex protects shell implementation|442|1|2023-11-19|
-|128|[kerwincui/FastBee](https://github.com/kerwincui/FastBee)|FastBee开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。|1153|1|2023-10-28|
-|129|[ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool)|Generic command-line automation tool (no X!)|1091|1|2023-11-10|
-|130|[armink/EasyLogger](https://github.com/armink/EasyLogger)|An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.   一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|3260|1|2023-11-19|
-|131|[liudf0716/xfrpc](https://github.com/liudf0716/xfrpc)|The xfrpc project is a lightweight implementation of the FRP client written in C language for OpenWRT and IoT systems. It is designed to provide an efficient solution for resource-constrained devices  ...|650|1|2023-11-25|
-|132|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。|612|1|2023-11-28|
-|133|[Threekiii/Awesome-Exploit](https://github.com/Threekiii/Awesome-Exploit)|一个漏洞利用工具仓库|309|1|2023-07-05|
-|134|[aeverj/NimShellCodeLoader](https://github.com/aeverj/NimShellCodeLoader)|使用nim编写的shellcode加载器|563|1|2023-08-26|
-|135|[gozfree/gear-lib](https://github.com/gozfree/gear-lib)|Gear-Lib, C library for IOT Embedded Multimedia and Network|2765|1|2023-10-29|
-|136|[Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)|铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library|864|1|2023-11-29|
-|137|[Barenboim/json-parser](https://github.com/Barenboim/json-parser)|JSON parser in standard C|582|1|2023-11-27|
-|138|[winshining/nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)|A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache, VHost (one IP for multi domain names) and JSON style statistics are sup ...|2584|1|2023-09-29|
-|139|[waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper)|-|1125|1|2023-11-28|
-|140|[joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)|DOSBox-X fork of the DOSBox project|2266|1|2023-11-29|
-|141|[guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)|支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱|4372|1|2023-10-27|
-|142|[guanshuicheng/invoice](https://github.com/guanshuicheng/invoice)|增值税发票OCR识别，使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等|1481|1|2023-06-16|
-|143|[sm64pc/sm64ex](https://github.com/sm64pc/sm64ex)|Fork of https://github.com/sm64-port/sm64-port with additional features.|1442|1|2023-11-14|
-|144|[Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)|Using Zygisk to dump il2cpp data at runtime|1746|1|2023-11-12|
-|145|[Hansimov/csapp](https://github.com/Hansimov/csapp)|个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/|1108|1|2023-07-01|
-|146|[openvenues/libpostal](https://github.com/openvenues/libpostal)|A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.|3847|1|2023-10-07|
-|147|[espressif/esp-who](https://github.com/espressif/esp-who)|Face detection and recognition framework|1535|1|2023-11-27|
-|148|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|981|1|2023-09-19|
-|149|[metartc/metaRTC](https://github.com/metartc/metaRTC)|A cross-platform webRTC SDK|730|1|2023-11-27|
-|150|[Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel)|Simple kernel for learning operating systems. 用于学习操作系统的简单内核|2829|1|2023-09-12|
-|151|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|913|1|2023-11-29|
-|152|[lc-soft/LCUI](https://github.com/lc-soft/LCUI)|A small C library for building user interfaces with C, XML and CSS.|4037|1|2023-10-27|
-|153|[bytedance/tailor](https://github.com/bytedance/tailor)|-|685|1|2023-07-13|
-|154|[hmgle/graftcp](https://github.com/hmgle/graftcp)|A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.|1732|1|2023-10-12|
-|155|[destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter)|OAF is a parental control plug-in based on OpenWrt, which supports app filtering for games, videos, chats, downloads, such as Tiktok, Youtube, Telegram,etc.|1621|1|2023-11-01|
-|156|[swow/swow](https://github.com/swow/swow)|Coroutine-based cross-platform concurrent I/O engine.|1078|1|2023-11-22|
-|157|[openwch/ch32v003](https://github.com/openwch/ch32v003)|CH32V003 is an ultra-cheap RISC-V MCU with 2KB SRAM, 16KB flash, and up to 18 GPIOs that sells for under $0.10|259|1|2023-10-30|
-|158|[WKJay/DLT645](https://github.com/WKJay/DLT645)|一个待完善的，针对于嵌入式平台的 DL/T 645采集 软件包。支持1997与2007|66|0|2023-08-14|
-|159|[khadas/fenix](https://github.com/khadas/fenix)|One-stop script set to build Ubuntu/Debian images|188|0|2023-11-06|
-|160|[Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning)|天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。|536|0|2023-06-24|
-|161|[g0dA/linuxStack](https://github.com/g0dA/linuxStack)|Linux技术栈|515|0|2023-10-30|
-|162|[theanarkh/read-libtask-code](https://github.com/theanarkh/read-libtask-code)|libtask源码分析，libtask是一个协程库，由google的Russ Cox大佬写的|65|0|2023-06-22|
-|163|[Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)|Arduino source codes and toolchain for WiFi_Kit_series made by HelTecAutomation.|672|0|2023-11-13|
-|164|[openLuat/LuatOS](https://github.com/openLuat/LuatOS)|LuatOS -- Powerful embedded Lua Engine for IoT devices, with many components and low memory requirements (16K RAM, 128K Flash)|389|0|2023-11-29|
-|165|[wwptrdo/Laser_Writing_Machine](https://github.com/wwptrdo/Laser_Writing_Machine)|激光雕刻写字机器人、laser、sculpture、writing、C#、STC12c5a60s2、G-Code|46|0|2023-06-27|
-|166|[chexiongsheng/build_xlua_with_libs](https://github.com/chexiongsheng/build_xlua_with_libs)|为xLua集成几个常用库，方便使用|554|0|2023-08-31|
-|167|[rock-app/fabu.love](https://github.com/rock-app/fabu.love)|应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/|992|0|2023-10-11|
-|168|[Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac](https://github.com/Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac)|在 Apple Silicon Mac 上入门汇编语言|179|0|2023-11-18|
-|169|[postgrespro/vops](https://github.com/postgrespro/vops)|-|160|0|2023-11-20|
-|170|[openresty/redis2-nginx-module](https://github.com/openresty/redis2-nginx-module)|Nginx upstream module for the Redis 2.0 protocol|891|0|2023-11-23|
-|171|[Clear492g/ServoMotorDriver-STM32](https://github.com/Clear492g/ServoMotorDriver-STM32)|伺服电机驱动和控制，含编码器和PID调速等|97|0|2023-08-17|
-|172|[RT-Thread/W601_IoT_Board](https://github.com/RT-Thread/W601_IoT_Board)|IoT Board SDK with WinnerMicro W601|52|0|2023-07-22|
-|173|[RT-Thread/RT-AK](https://github.com/RT-Thread/RT-AK)|RT-Thread AI Kit|70|0|2023-10-31|
-|174|[shidahuilang/openwrt-package](https://github.com/shidahuilang/openwrt-package)|openwrt插件库-18.06-21.02-22.03插件|158|0|2023-11-28|
-|175|[hepingood/nrf24l01](https://github.com/hepingood/nrf24l01)|NRF24L01 full function driver library for general MCU and Linux.|338|0|2023-10-01|
-|176|[AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey)|Show keys you typed on screen.|182|0|2023-11-10|
-|177|[abcz316/rwProcMem33](https://github.com/abcz316/rwProcMem33)|Linux ARM64内核硬件进程内存读写驱动、硬件断点调试驱动。硬件级读写Linux进程内存、硬件级下断点。|464|0|2023-09-07|
-|178|[espressif/esp-skainet](https://github.com/espressif/esp-skainet)|Espressif intelligent voice assistant|427|0|2023-11-15|
-|179|[YunYang1994/OpenWork](https://github.com/YunYang1994/OpenWork)|有空就写点，没空就空着。|74|0|2023-08-03|
-|180|[QiaoLiuHit/LSOTB-TIR](https://github.com/QiaoLiuHit/LSOTB-TIR)|LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark (ACM MM2020)|98|0|2023-08-30|
-|181|[erduoniba/hdcoverage](https://github.com/erduoniba/hdcoverage)|iOS（swift&oc）自动注入代码覆盖率指令脚本，|60|0|2023-07-25|
-|182|[openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module)|Embed the power of Lua into NGINX TCP/UDP servers|697|0|2023-11-28|
-|183|[GNOME/easytag](https://github.com/GNOME/easytag)|Read-only mirror of https://gitlab.gnome.org/GNOME/easytag|69|0|2023-11-27|
-|184|[WITMOTION/WitStandardProtocol_JY901](https://github.com/WITMOTION/WitStandardProtocol_JY901)|维特协议标准精度示例程序(c#)|44|0|2023-10-04|
-|185|[xboot/xfel](https://github.com/xboot/xfel)|Tiny FEL tools for allwinner SOC, support RISC-V D1 chip|184|0|2023-08-02|
-|186|[openctp/TextTrader](https://github.com/openctp/TextTrader)|命令行交易终端（股票、期货、期权），绝大部分命令与VI编辑器中相同，支持CTP、openctp等通道，支持Windows、Linux、MacOSX等操作系统。|96|0|2023-08-29|
-|187|[kmakise/Oximeter](https://github.com/kmakise/Oximeter)|一个基于STM32的血氧心率图示仪，传感器使用MAX30100和MAX30102 https://www.bilibili.com/video/BV1AJ411Y7yY|152|0|2023-07-06|
-|188|[cqu20160901/yolov8_rknn_Cplusplus](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)|yolov8 瑞芯微 rknn 板端 C++部署。|45|0|2023-10-12|
-|189|[happyfish100/libfastcommon](https://github.com/happyfish100/libfastcommon)|c common functions library extracted from my open source project FastDFS. this library is very simple and stable.  functions including: string, logger, chain, hash, socket, ini file reader, base64 enc ...|877|0|2023-11-24|
-|190|[ClimbSnail/SnailHeater](https://github.com/ClimbSnail/SnailHeater)|多功能焊台（T12/JBC245、烤箱回流焊、加热台、风枪、可调电源、简易双通道示波器、函数发生器、高精度PWM脉冲）|140|0|2023-11-28|
-|191|[zebin-wu/homekit-bridge](https://github.com/zebin-wu/homekit-bridge)|Let any device connect to Apple HomeKit.|85|0|2023-07-18|
-|192|[h4ckm310n/Container-Vulnerability-Exploit](https://github.com/h4ckm310n/Container-Vulnerability-Exploit)|容器安全漏洞的分析与复现|89|0|2023-11-05|
-|193|[armink-rtt-pkgs/EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash)|Lightweight embedded flash memory library. Make flash to be a small KV database.   嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库|114|0|2023-08-10|
-|194|[linkease/istore-packages](https://github.com/linkease/istore-packages)|缓存一些软件包，以避免一些插件的未知的更新改动，带给固件的不稳定性。|52|0|2023-10-08|
-|195|[linuxdeepin/deepin-anything](https://github.com/linuxdeepin/deepin-anything)|-|75|0|2023-11-03|
-|196|[kmakise/AGV_little_C1](https://github.com/kmakise/AGV_little_C1)|激光SLAM自主导航小车 基于ROS melodic  底盘控制器 STM32https://www.bilibili.com/video/BV12J411e7uH|50|0|2023-07-06|
-|197|[LiMinggang/madedit-mod](https://github.com/LiMinggang/madedit-mod)|MadEdit-Mod is a cross platform Text/Hex editor(based on the madedit project @ sourceforge)|113|0|2023-06-29|
-|198|[openresty/srcache-nginx-module](https://github.com/openresty/srcache-nginx-module)|Transparent subrequest-based caching layout for arbitrary nginx locations.|466|0|2023-11-23|
-|199|[tenvick/hugula](https://github.com/tenvick/hugula)|unity3d lua databinding mvvm |271|0|2023-11-22|
-|200|[Dice-Developer-Team/Dice](https://github.com/Dice-Developer-Team/Dice)|QQ Dice Robot For TRPG QQ跑团掷骰机器人|443|0|2023-11-29|
+|1|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|6856|16|2025-02-09|
+|2|[kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)|A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.|25101|13|2025-02-10|
+|3|[hengyoush/kyanos](https://github.com/hengyoush/kyanos)|Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.|3906|13|2025-02-26|
+|4|[gojue/ecapture](https://github.com/gojue/ecapture)|Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.|13930|13|2025-02-26|
+|5|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's LEDE source|30366|11|2025-02-26|
+|6|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc 全平台通用换源工具与框架. Change Source everywhere for every software|4871|9|2025-01-10|
+|7|[peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot)|-|8338|8|2025-02-08|
+|8|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie Plus & Classic|14545|8|2025-02-26|
+|9|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4151|6|2024-11-14|
+|10|[lvgl/lvgl](https://github.com/lvgl/lvgl)|Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. |18400|6|2025-02-26|
+|11|[ish-app/ish](https://github.com/ish-app/ish)|Linux shell for iOS|17649|6|2025-02-22|
+|12|[istoreos/istoreos](https://github.com/istoreos/istoreos)|提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）|5628|5|2025-02-25|
+|13|[vladelaina/Catime](https://github.com/vladelaina/Catime)|A very useful timer (Pomodoro Clock).[一款非常好用的计时器(🍅番茄时钟)]|144|5|2025-02-26|
+|14|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|14566|5|2025-02-26|
+|15|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|4699|4|2025-01-16|
+|16|[ravynsoft/ravynos](https://github.com/ravynsoft/ravynos)|A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.|5749|4|2025-02-17|
+|17|[immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)|An opensource OpenWrt variant for mainland China users.|7357|4|2025-02-26|
+|18|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|15034|4|2025-02-25|
+|19|[baidu/dperf](https://github.com/baidu/dperf)|dperf is a 100Gbps network load tester.|5214|4|2025-02-26|
+|20|[flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)|A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb|6894|4|2025-02-25|
+|21|[nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)|Writing an OS in 1,000 lines.|2238|4|2025-02-23|
+|22|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|10947|4|2025-02-24|
+|23|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|6471|4|2025-01-31|
+|24|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|15798|4|2024-11-30|
+|25|[mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump)|Process-aware, eBPF-based tcpdump|857|3|2025-02-25|
+|26|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.|6997|3|2025-02-26|
+|27|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|12910|3|2024-11-14|
+|28|[Cateners/tiny_computer](https://github.com/Cateners/tiny_computer)|Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.|1675|3|2024-12-23|
+|29|[OpenNJet/OpenNJet](https://github.com/OpenNJet/OpenNJet)|-|1149|3|2025-01-17|
+|30|[zeldaret/oot](https://github.com/zeldaret/oot)|Decompilation of The Legend of Zelda: Ocarina of Time|4987|3|2025-02-26|
+|31|[cloudwu/skynet](https://github.com/cloudwu/skynet)|A lightweight online game framework|13479|3|2025-01-14|
+|32|[ptitSeb/box64](https://github.com/ptitSeb/box64)|Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices|4272|3|2025-02-26|
+|33|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|9526|3|2024-12-11|
+|34|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。|8735|3|2025-02-24|
+|35|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|9032|3|2025-02-26|
+|36|[ptitSeb/box86](https://github.com/ptitSeb/box86)|Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices|3478|2|2025-02-22|
+|37|[heiher/natmap](https://github.com/heiher/natmap)|TCP/UDP port mapping for full cone NAT|1500|2|2025-02-21|
+|38|[fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)|Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving th ...|1299|2|2024-12-03|
+|39|[bytedance/bhook](https://github.com/bytedance/bhook)|:fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.|2173|2|2025-01-06|
+|40|[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)|FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We ...|9112|2|2024-09-24|
+|41|[diylxy/LiThermal](https://github.com/diylxy/LiThermal)|基于海康4117的热成像相机|360|2|2024-12-12|
+|42|[bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)|:fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.|1817|2|2024-12-12|
+|43|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|Wechat Mini Game Unity engine adapter documents.|3127|2|2025-02-20|
+|44|[RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)|A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.|5669|2|2025-02-26|
+|45|[quickjs-zh/QuickJS](https://github.com/quickjs-zh/QuickJS)|QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。|3210|2|2024-10-18|
+|46|[atc1441/ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer)|Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter|3005|2|2025-01-15|
+|47|[openctp/openctp](https://github.com/openctp/openctp)|openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow， ...|2176|2|2025-01-22|
+|48|[bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|7960|2|2024-12-10|
+|49|[openresty/openresty](https://github.com/openresty/openresty)|High Performance Web Platform Based on Nginx and LuaJIT|12856|2|2025-02-07|
+|50|[RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap)|Maintained continuation of Stefan Sundin's AltDrag|2833|2|2025-01-01|
+|51|[lyg09270/CyberryPotter_ElectromagicWand_Basic_Project](https://github.com/lyg09270/CyberryPotter_ElectromagicWand_Basic_Project)|Cyberry Potter electromagic wand.的基础工程，可以使用不同的（法术）动作点亮LED，也可以根据自己的需求将LED修改为其他功能。|358|2|2024-09-13|
+|52|[No-Chicken/OV-Watch](https://github.com/No-Chicken/OV-Watch)|A powerful Smart Watch based on STM32, FreeRTOS, LVGL.|1337|2|2025-01-07|
+|53|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|751|2|2025-01-05|
+|54|[johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux)|Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.|1861|2|2025-02-20|
+|55|[kekeimiku/LuckySpeeder](https://github.com/kekeimiku/LuckySpeeder)|幸运变速器|159|2|2025-02-07|
+|56|[yitter/IdGenerator](https://github.com/yitter/IdGenerator)|💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ...|2747|2|2025-01-19|
+|57|[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the Power of Lua into NGINX HTTP servers|11424|2|2025-02-15|
+|58|[Kevincoooool/xiaozhi_c3_hardware](https://github.com/Kevincoooool/xiaozhi_c3_hardware)|ESP32C3 AI对话小音箱 你好小智|130|2|2024-12-11|
+|59|[hanwckf/immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x)|An Immortalwrt variant for mediatek mt798x routers.|1336|2|2024-12-03|
+|60|[RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)|Iceman Fork - Proxmark3|4297|2|2025-02-24|
+|61|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|A cloud-native database based on PostgreSQL developed by Alibaba Cloud.|2940|2|2025-02-26|
+|62|[RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread)|RT-Thread is an open source IoT Real-Time Operating System (RTOS).|10835|2|2025-02-26|
+|63|[HVML/PurC](https://github.com/HVML/PurC)|The prime HVML interpreter for C Language.|1053|1|2024-11-20|
+|64|[RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT)|RIOT -  The friendly OS for IoT|5451|1|2025-02-26|
+|65|[aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook)|PC wechat robot interface [wechat Hook] / PC微信3.9.10.16/3.9.2.23接口 微信Hook 微信机器人 微信Hook源码 PC微信协议算法 |1490|1|2025-02-12|
+|66|[jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)|🔥🔥🔥Flexible and useful UVC camera engine on Android platform, supporting multi-road cameras!|2429|1|2024-09-02|
+|67|[gnbdev/opengnb](https://github.com/gnbdev/opengnb)|GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。|1096|1|2025-02-24|
+|68|[wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl)|The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!|2424|1|2025-02-26|
+|69|[pikasTech/PikaPython](https://github.com/pikasTech/PikaPython)|An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje ...|1543|1|2025-02-16|
+|70|[zhaojh329/rtty](https://github.com/zhaojh329/rtty)|🐛 Access your terminal from anywhere via the web.|3749|1|2024-12-14|
+|71|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|958|1|2025-01-22|
+|72|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|473|1|2025-02-26|
+|73|[web3ToolBoxDev/toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient)|一步一步编写web3工具——Step-by-Step Development of Web3 Tools|233|1|2024-09-26|
+|74|[airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo)|-|1289|1|2025-02-11|
+|75|[ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf)|Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块|1536|1|2025-01-25|
+|76|[lpereira/lwan](https://github.com/lpereira/lwan)|Experimental, scalable, high performance HTTP server|5950|1|2025-02-25|
+|77|[Li-Dongze/stm32_paw3395_mouse](https://github.com/Li-Dongze/stm32_paw3395_mouse)|本项目是一款基于stm32f103c8t6单片机制作的有线鼠标，使用的光电传感器为原相paw3395，使用HID协议与电脑通讯，尼龙外壳使用立创三维猴3D打印。|122|1|2024-11-15|
+|78|[howmp/wget](https://github.com/howmp/wget)|可能是windows最小的wget (862字节)|64|1|2024-12-13|
+|79|[sipeed/TinyMaix](https://github.com/sipeed/TinyMaix)|TinyMaix is a tiny inference library for microcontrollers (TinyML).|939|1|2025-02-05|
+|80|[sdlpal/sdlpal](https://github.com/sdlpal/sdlpal)|SDL-based reimplementation of the classic Chinese-language RPG known as PAL.|1784|1|2025-02-13|
+|81|[zero-rp/ops](https://github.com/zero-rp/ops)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, ...|212|1|2025-02-22|
+|82|[skylersaleh/SkyEmu](https://github.com/skylersaleh/SkyEmu)|Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator|883|1|2025-02-23|
+|83|[acl-dev/acl](https://github.com/acl-dev/acl)|C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..|2927|1|2025-02-10|
+|84|[andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)|sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal|4953|1|2025-02-12|
+|85|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(a cross-platform embedded GUI)|3164|1|2025-02-26|
+|86|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the android classes.dex file|868|1|2025-01-10|
+|87|[vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)|Official repository of VMware open-vm-tools project|2334|1|2025-02-25|
+|88|[skywind3000/mini3d](https://github.com/skywind3000/mini3d)|3D Software Renderer in 700 Lines !!|2249|1|2024-09-23|
+|89|[bb-qq/r8152](https://github.com/bb-qq/r8152)|Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters|2341|1|2024-12-07|
+|90|[seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon)|The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more|2524|1|2024-10-30|
+|91|[kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)|[Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.|2796|1|2025-01-22|
+|92|[langhuihui/jessibuca](https://github.com/langhuihui/jessibuca)|Jessibuca是一款开源的纯H5直播流播放器|2347|1|2025-02-26|
+|93|[TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box)|A toolbox for deep learning model deployment using C++ YoloX   YoloV7   YoloV8   Gan   OCR   MobileVit   Scrfd   MobileSAM   StableDiffusion|536|1|2025-02-06|
+|94|[alibaba/xquic](https://github.com/alibaba/xquic)|XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.|1744|1|2025-02-18|
+|95|[CN-annotation-team/redis7.0-chinese-annotated](https://github.com/CN-annotation-team/redis7.0-chinese-annotated)|Redis 7.0.5 版本——中文注释，持续更新！欢迎参与本项目！🍭🍭🍭|1018|1|2024-09-03|
+|96|[YeeZTech/YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing)|Fidelius - YeeZ Privacy Computing 基于可信执行环境的熠智隐私计算中间件|1055|1|2024-12-27|
+|97|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|5230|1|2025-02-11|
+|98|[espressif/esp-iot-solution](https://github.com/espressif/esp-iot-solution)|Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.|2109|1|2025-02-26|
+|99|[Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui)|一个使用C++编写的极速ncm转换GUI工具|561|1|2025-02-25|
+|100|[liaozhelin/yds-charger](https://github.com/liaozhelin/yds-charger)|一个精致的多功能四路166W桌面充电器|601|1|2024-11-27|
+|101|[milkv-duo/duo-buildroot-sdk](https://github.com/milkv-duo/duo-buildroot-sdk)|Milk-V Duo Official buildroot SDK|433|1|2024-11-22|
+|102|[solosky/pixl.js](https://github.com/solosky/pixl.js)|An emulator for Amiibo!|688|1|2025-02-25|
+|103|[espressif/esp-drone](https://github.com/espressif/esp-drone)|Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.|940|1|2024-10-25|
+|104|[SJTU-IPADS/OS-Course-Lab](https://github.com/SJTU-IPADS/OS-Course-Lab)|本仓库包含上海交通大学IPADS实验室设计的操作系统课程系列实验。|337|1|2025-02-26|
+|105|[session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy)|An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.|4594|1|2024-10-31|
+|106|[Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st)|免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat |310|1|2024-12-23|
+|107|[NaruseMioShirakana/DragonianVoice](https://github.com/NaruseMioShirakana/DragonianVoice)|多个SVC/TTS的C++推理库|1047|1|2024-10-19|
+|108|[SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)|基于eBPF的堆栈追踪工具|1004|1|2024-10-16|
+|109|[jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)|一个自定义注入so的脚手架|124|1|2024-11-20|
+|110|[ClimbSnail/HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO)|HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等|1155|1|2024-10-07|
+|111|[sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri)|Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.|6180|1|2025-02-25|
+|112|[cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB)|CherryUSB is a tiny and beautiful, portable and high performace USB host and device stack for embedded system with USB IP|1416|1|2025-02-26|
+|113|[Xinyuan-LilyGO/TTGO-T-Display](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)|-|1079|1|2025-02-20|
+|114|[armink/FlashDB](https://github.com/armink/FlashDB)|An ultra-lightweight database that supports key-value and time series data    一款支持 KV 数据和时序数据的超轻量级数据库|2016|1|2024-12-30|
+|115|[Explorerlowi/ESP32_AI_LLM](https://github.com/Explorerlowi/ESP32_AI_LLM)|本项目使用esp32、esp32s3接入Chatgpt、Claude、讯飞星火、豆包等15款大模型，实现语音对话聊天，支持语音唤醒、连续对话、音乐播放等功能，同时外接了一块显示屏实时显示对话的内容。|343|1|2024-12-08|
+|116|[armink/EasyLogger](https://github.com/armink/EasyLogger)|An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.   一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|3908|1|2024-12-26|
+|117|[liudf0716/xfrpc](https://github.com/liudf0716/xfrpc)|The xfrpc project is a lightweight implementation of the FRP client written in C language for OpenWRT and IoT systems. It is designed to provide an efficient solution for resource-constrained devices  ...|737|1|2024-12-16|
+|118|[2023violet/FalconFoc](https://github.com/2023violet/FalconFoc)|【开源】基于 STM32G4 自制FOC驱动板|60|1|2025-02-23|
+|119|[winTEuser/Genshin_StarRail_fps_unlocker](https://github.com/winTEuser/Genshin_StarRail_fps_unlocker)|Genshin Impact & HKSR Fps Unlock 原神崩铁帧率解锁|209|1|2025-02-26|
+|120|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。|1078|1|2025-01-17|
+|121|[ybdt/evasion-hub](https://github.com/ybdt/evasion-hub)|免杀对抗|819|1|2025-02-24|
+|122|[Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)|铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library|1196|1|2025-02-26|
+|123|[pingostack/pingos](https://github.com/pingostack/pingos)|Based on the NGINX/RTMP/HTTP-FLV/HTTP-TS/HLS/HLS+/DASH/H.264/H.265/AAC/MP3/Live/Record/VOD/Push/Pull/Multiple Processes/Dynamic Configuration/Configuration Variables/Console Interface/Notify|1001|1|2024-12-11|
+|124|[Barenboim/json-parser](https://github.com/Barenboim/json-parser)|JSON parser in standard C|659|1|2025-02-13|
+|125|[winshining/nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)|A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache, VHosts (one IP for multi domain names) and JSON style statistics are su ...|2815|1|2025-02-26|
+|126|[waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper)|-|1399|1|2024-11-25|
+|127|[joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)|DOSBox-X fork of the DOSBox project|2941|1|2025-02-24|
+|128|[XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch)|Moonlight port for Nintendo Switch|1084|1|2025-01-07|
+|129|[InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator)|System Region and Language Simulator.|860|1|2025-02-23|
+|130|[guanshuicheng/invoice](https://github.com/guanshuicheng/invoice)|Collaboration with wangxupeng(https://github.com/wangxupeng)|1862|1|2024-09-08|
+|131|[sm64pc/sm64ex](https://github.com/sm64pc/sm64ex)|Fork of https://github.com/sm64-port/sm64-port with additional features.|1636|1|2024-12-17|
+|132|[Hansimov/csapp](https://github.com/Hansimov/csapp)|个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/|1646|1|2025-02-04|
+|133|[CowNowK/AimStar](https://github.com/CowNowK/AimStar)|Free and open-source external cheat for CS2, written in C++, working on Windows|489|1|2024-10-24|
+|134|[canonical/dqlite](https://github.com/canonical/dqlite)|Embeddable, replicated and fault-tolerant SQL engine.|3966|1|2025-02-25|
+|135|[openvenues/libpostal](https://github.com/openvenues/libpostal)|A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.|4176|1|2025-02-10|
+|136|[tboox/tbox](https://github.com/tboox/tbox)|🎁 A glib-like multi-platform c library|4953|1|2025-01-22|
+|137|[espressif/esp-who](https://github.com/espressif/esp-who)|Face detection and recognition framework|1775|1|2025-01-14|
+|138|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|1110|1|2025-02-07|
+|139|[RemusDBD/ctftools-all-in-one](https://github.com/RemusDBD/ctftools-all-in-one)|市场上虽然存在大量的网络安全工具和软件，但它们大多针对某一特定领域或功能，缺乏一个统一的、集成的、易于使用的综合工具平台。这导致参赛者在CTF竞赛中需要频繁切换不同的工具，不仅降低了工作效率，还增加了操作失误的风险。由gitee转发 ↓|242|1|2024-11-06|
+|140|[ZhangKeLiang0627/EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS)|基于ESP32S3的GPS定位器|170|1|2024-11-03|
+|141|[metartc/metaRTC](https://github.com/metartc/metaRTC)|A cross-platform webRTC SDK|954|1|2024-12-26|
+|142|[Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel)|Simple kernel for learning operating systems. 用于学习操作系统的简单内核|3081|1|2025-01-02|
+|143|[skuep/AIOC](https://github.com/skuep/AIOC)|Ham Radio All-in-one-Cable|1064|1|2025-01-19|
+|144|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|231|1|2025-01-24|
+|145|[lc-soft/LCUI](https://github.com/lc-soft/LCUI)|C library for building user interfaces|4189|1|2025-01-26|
+|146|[hmgle/graftcp](https://github.com/hmgle/graftcp)|A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.|2211|1|2024-12-19|
+|147|[destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter)|OAF is a parental control plug-in based on OpenWrt, which supports app filtering for games, videos, chats, downloads, such as Tiktok, Youtube, Telegram,etc.|1933|1|2025-02-23|
+|148|[pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)|🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.|1094|1|2025-02-26|
+|149|[matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine)|PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C|2729|1|2025-02-20|
+|150|[swow/swow](https://github.com/swow/swow)|Coroutine-based cross-platform concurrent I/O engine.|1232|1|2024-12-07|
+|151|[openLuat/LuatOS](https://github.com/openLuat/LuatOS)|LuatOS -- Powerful embedded Lua Engine for IoT devices, with many components and low memory requirements (16K RAM, 128K Flash)|485|0|2025-02-26|
+|152|[libdriver/w25qxx](https://github.com/libdriver/w25qxx)|W25QXX(W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02) full function driver library for general MCU and Linux.|550|0|2025-01-06|
+|153|[rock-app/fabu.love](https://github.com/rock-app/fabu.love)|应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/|1020|0|2025-01-22|
+|154|[postgrespro/vops](https://github.com/postgrespro/vops)|-|163|0|2025-02-10|
+|155|[shidahuilang/openwrt-package](https://github.com/shidahuilang/openwrt-package)|openwrt插件库-18.06-21.02-22.03插件|315|0|2025-02-25|
+|156|[libdriver/nrf24l01](https://github.com/libdriver/nrf24l01)|NRF24L01 full function driver library for general MCU and Linux.|283|0|2025-01-05|
+|157|[AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey)|Show keys you typed on screen.|385|0|2025-01-12|
+|158|[abcz316/rwProcMem33](https://github.com/abcz316/rwProcMem33)|Linux ARM64内核硬件进程内存读写驱动、硬件断点调试驱动。硬件级读写Linux进程内存、硬件级下断点。|694|0|2025-01-28|
+|159|[espressif/esp-skainet](https://github.com/espressif/esp-skainet)|Espressif intelligent voice assistant|642|0|2025-02-17|
+|160|[openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module)|Embed the power of Lua into NGINX TCP/UDP servers|735|0|2025-02-20|
+|161|[WITMOTION/WitStandardProtocol_JY901](https://github.com/WITMOTION/WitStandardProtocol_JY901)|维特协议标准精度示例程序(c#)|92|0|2024-08-29|
+|162|[xboot/xfel](https://github.com/xboot/xfel)|Tiny FEL tools for allwinner SOC, support RISC-V D1 chip|256|0|2025-01-18|
+|163|[SenySunny/modbus_rt](https://github.com/SenySunny/modbus_rt)|一款纯C实现的跨平台modbus协议通信库|106|0|2024-09-25|
+|164|[goatshriek/stumpless](https://github.com/goatshriek/stumpless)|a C logging library built for performance and features|464|0|2025-02-17|
+|165|[xboot/libonnx](https://github.com/xboot/libonnx)|A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.|601|0|2024-11-20|
+|166|[happyfish100/libfastcommon](https://github.com/happyfish100/libfastcommon)|c common functions library extracted from my open source project FastDFS. this library is very simple and stable.  functions including: string, logger, chain, hash, socket, ini file reader, base64 enc ...|911|0|2025-02-19|
+|167|[ClimbSnail/SnailHeater](https://github.com/ClimbSnail/SnailHeater)|多功能焊台（T12/JBC245、烤箱回流焊、加热台、风枪、可调电源、简易双通道示波器、函数发生器、高精度PWM脉冲）|229|0|2024-11-21|
+|168|[zebin-wu/homekit-bridge](https://github.com/zebin-wu/homekit-bridge)|Let any device connect to Apple HomeKit.|88|0|2025-02-08|
+|169|[yaocccc/dwm](https://github.com/yaocccc/dwm)|-|278|0|2025-02-05|
+|170|[linkease/istore-packages](https://github.com/linkease/istore-packages)|缓存一些软件包，以避免一些插件的未知的更新改动，带给固件的不稳定性。|71|0|2024-09-26|
+|171|[linuxdeepin/deepin-anything](https://github.com/linuxdeepin/deepin-anything)|-|76|0|2025-01-20|
+|172|[shengqing1/openmv-stm32](https://github.com/shengqing1/openmv-stm32)|基于openmv+stm32的二维云台追踪系统|66|0|2024-12-25|
+|173|[antiwar3/py](https://github.com/antiwar3/py)|飘云ark（pyark） |450|0|2025-01-10|
+|174|[tenvick/hugula](https://github.com/tenvick/hugula)|unity3d lua databinding mvvm |277|0|2024-12-18|
+|175|[pymumu/tinylog](https://github.com/pymumu/tinylog)|A lightweight C, C++ logging library developed for Linux, It is designed with high performance, asynchronized, thread-safe and process-safe;   tinylog是一个专为UNIX设计的轻量级的C/C++日志模块，其提供了高性能，异步，线程安全，进程安全的日志功 ...|222|0|2024-12-17|
+|176|[JMBQ/Honkai_Impact_3rd_menu_mod](https://github.com/JMBQ/Honkai_Impact_3rd_menu_mod)|适用于 崩坏3rd 的菜单模块|126|0|2025-01-28|
+|177|[Leopard-C/iclient](https://github.com/Leopard-C/iclient)|C++封装libcurl, 实现的http客户端, 支持http(s)请求, 支持下载文件（断点续传和分片下载）|59|0|2024-09-29|
+|178|[Xinyuan-LilyGO/LilyGo-EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47)|-|448|0|2025-02-10|
+|179|[WeActStudio/MiniSTM32H7xx](https://github.com/WeActStudio/MiniSTM32H7xx)|STM32H750VBT6/STM32H743VIT6 Core Board With 0.96'' TFT,TF Card,8MB QSPI FLASH,8MB SPI FLASH,DVP Port|335|0|2025-02-01|
+|180|[limpkin/mooltipass](https://github.com/limpkin/mooltipass)|Github repository dedicated to the mooltipass project|521|0|2024-10-04|
+|181|[Tencent/loli_profiler](https://github.com/Tencent/loli_profiler)|Memory instrumentation tool for android app&game developers.|628|0|2025-02-13|
+|182|[keli/ctp-python](https://github.com/keli/ctp-python)|Python版CTP期货接口，支持Linux/Mac/Windows|99|0|2025-01-18|
+|183|[zint/zint](https://github.com/zint/zint)|A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneCode, EAN-128, UPC/EAN, ITF, QR Code, Code 16k, PDF417, MicroPDF417, LOGMARS, Maxicode, GS1 DataBar,  ...|556|0|2025-02-25|
+|184|[libdriver/mpu9250](https://github.com/libdriver/mpu9250)|MPU9250 full function driver library for general MCU and Linux.|293|0|2025-01-05|
+|185|[SJTU-AuTop/RT1064-Code](https://github.com/SJTU-AuTop/RT1064-Code)|RT1064主控代码|217|0|2024-10-15|
+|186|[openwch/ch32v307](https://github.com/openwch/ch32v307)|Including the SDK、HDK、Datasheet of RISC-V MCU CH32V307 and other relevant development materials|411|0|2024-11-21|
+|187|[7aGiven/PhigrosLibrary](https://github.com/7aGiven/PhigrosLibrary)|Phigros云存档解析库|98|0|2025-02-17|
+|188|[lichuang/Lua-5.1.4-codedump](https://github.com/lichuang/Lua-5.1.4-codedump)|Lua 5.1.4版本代码注释|383|0|2025-02-09|
+|189|[Zxilly/UA2F](https://github.com/Zxilly/UA2F)|Change User-Agent to F-string on OpenWRT router to prevent being detected.|441|0|2024-12-19|
+|190|[DS-Homebrew/nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap)|Boot an nds file|1218|0|2025-02-26|
+|191|[libdriver/ws2812b](https://github.com/libdriver/ws2812b)|WS2812B full function driver library for general MCU and Linux.|166|0|2025-01-04|
+|192|[Seeed-Studio/Wio_Link](https://github.com/Seeed-Studio/Wio_Link)|Wio_Link 8266|182|0|2025-01-07|
+|193|[bouffalolab/bl_iot_sdk](https://github.com/bouffalolab/bl_iot_sdk)|BL602/BL702 SDK. Any technical topic, please access the following link.|272|0|2024-12-16|
+|194|[aqi00/android3](https://github.com/aqi00/android3)|《Android Studio开发实战：从零基础到App上线(第3版)》配套源码|95|0|2024-10-31|
+|195|[zlgopen/awtk-linux-fb](https://github.com/zlgopen/awtk-linux-fb)|awtk port for linux framebuffer|114|0|2025-02-07|
+|196|[l0086020/FPM383C](https://github.com/l0086020/FPM383C)|FPM383C指纹模块|65|0|2024-09-24|
+|197|[pangdahua/php7-wxwork-finance-sdk](https://github.com/pangdahua/php7-wxwork-finance-sdk)|PHP企业微信会话存档扩展|183|0|2024-12-03|
+|198|[281677160/openwrt-package](https://github.com/281677160/openwrt-package)|281677160的openwrt专用插件包|144|0|2025-02-25|
+|199|[hongmingjian/epos](https://github.com/hongmingjian/epos)|《操作系统原理》实验操作系统|62|0|2024-11-20|
+|200|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|332|0|2025-02-10|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -213,4 +213,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

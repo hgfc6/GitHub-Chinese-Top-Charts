@@ -1,18 +1,17 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Kotlin
-<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|327|2023-11-23|2023-02-12|
-|2|[Arcns/fast-transition](https://github.com/Arcns/fast-transition)|一个能够快速实现Android TextView、圆角、切换图片等共享元素转场效果的工具库，同时支持修复Android Q三个及以上页面共享元素动画丢失的BUG，支持自定义复杂的共享元素动画，支持仿小红书、Lemon8的拖拽返回+共享元素转场效果。|196|2023-09-19|2023-01-09|
-|3|[blackfrogxxoo/ScheduleView](https://github.com/blackfrogxxoo/ScheduleView)|高仿飞书日历（Android）|100|2023-10-30|2023-02-13|
-|4|[JIULANG9/WordsFairyNote](https://github.com/JIULANG9/WordsFairyNote)|词仙笔记源码|44|2023-07-07|2023-05-23|
-|5|[FantasticPornTaiQiang/PTQFlipper](https://github.com/FantasticPornTaiQiang/PTQFlipper)|Jetpack Compose 仿真书籍翻页组件 3D Page Flip for Android Jetpack Compose - Page Curl|35|2023-09-01|2023-03-11|
-|6|[1250422131/FoodChoice](https://github.com/1250422131/FoodChoice)|食选，解决生活中每天吃饭，吃什么，做什么，怎么做的问题，此项目也是我对JetpackCompose的MVI架构学习的一次实践。|28|2023-10-08|2023-07-14|
-|7|[WaitFme/BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou)|借鉴学习BiliYou，哔哩等优秀作品。个人学习Compose UI的练习作品|13|2023-07-17|2023-07-17|
-|8|[Coder-HuangBH/MyCustomView](https://github.com/Coder-HuangBH/MyCustomView)|自己做的自定义View集合|9|2023-11-05|2023-07-27|
+|1|[Xigong93/XiaoZhuan](https://github.com/Xigong93/XiaoZhuan)|《小篆传包》一键上传Apk到多个应用市场，开源，免费|115|2024-12-17|2024-06-04|
+|2|[Loren-Moon/RedBookComposeDemo](https://github.com/Loren-Moon/RedBookComposeDemo)|仿照iOS版小红书写的简单demo|112|2024-09-24|2024-08-25|
+|3|[wgllss/WXNetArchitecture](https://github.com/wgllss/WXNetArchitecture)|花式封装:Kotlin+协程+Flow+Retrofit+OkHttp+Repository,倾囊相授,彻底减少模版代码进阶之路，封装一套快速可以切换成不同网络请求框架的代码示例|53|2024-12-25|2024-09-24|
+|4|[wgllss/WX-Compose-Plugin](https://github.com/wgllss/WX-Compose-Plugin)|一个Demo 带你入门 Compose 用最简单的带你入门插件化 jar|17|2024-10-23|2024-10-14|
+|5|[rengwuxian/CourseCoroutines](https://github.com/rengwuxian/CourseCoroutines)|《Kotlin 协程完全教程》的配套源码：rengwuxian.com/kc|16|2024-09-02|2024-06-27|
+|6|[EternalmBlue/YunBanKe-AutoSign](https://github.com/EternalmBlue/YunBanKe-AutoSign)|蓝墨云云班课自动签到程序，可签所有课程，轮询签到|12|2024-11-28|2024-05-11|
+|7|[Cdm2883/OreCompose](https://github.com/Cdm2883/OreCompose)|Compose Multiplatform 类《我的世界》基岩版新 UI 风格组件库|11|2025-02-22|2024-05-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -21,4 +20,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

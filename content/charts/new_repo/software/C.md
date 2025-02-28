@@ -1,40 +1,34 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|13192|2023-11-28|2023-07-23|
-|2|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4052|2023-11-09|2023-03-23|
-|3|[ttttupup/wxhelper](https://github.com/ttttupup/wxhelper)|Hook  WeChat  / 微信逆向|919|2023-11-14|2022-12-21|
-|4|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|577|2023-10-16|2023-04-02|
-|5|[huaigu4ng/SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp)|Syscall免杀|449|2023-08-06|2023-03-22|
-|6|[SmallPond/X-Knob](https://github.com/SmallPond/X-Knob)|X-Knob - A smart knob based on LVGL UI library, supports Smart Home(MQTT) and Surface Dial (BT) // LVGL UI 框架下的力反馈智能旋钮  (smartknob + X-TRACK)  |418|2023-11-11|2022-12-28|
-|7|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|414|2023-11-25|2023-04-22|
-|8|[yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial)|写给应用开发的 Android Framework 教程|403|2023-08-26|2023-04-09|
-|9|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|397|2023-08-26|2023-08-22|
-|10|[xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)|CVE-2023-0386在ubuntu22.04上的提权|369|2023-06-13|2023-05-05|
-|11|[alibaba/kubeskoop](https://github.com/alibaba/kubeskoop)|-|367|2023-11-23|2023-01-16|
-|12|[elllusion/pinduoduo_backdoor_code](https://github.com/elllusion/pinduoduo_backdoor_code)|拼多多事件的脱壳后的部分代码|331|2023-10-18|2023-03-12|
-|13|[TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box)|A toolbox for deep learning model deployment using C++ YoloX   YoloV7   YoloV8   Gan   OCR   MobileVit   Scrfd   MobileSAM|322|2023-10-23|2023-03-16|
-|14|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|275|2023-11-21|2023-05-27|
-|15|[fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)|2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动|223|2023-11-29|2023-02-14|
-|16|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2023-11-29|2023-07-04|
-|17|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|193|2023-10-05|2023-09-03|
-|18|[clashcross/ClashCross](https://github.com/clashcross/ClashCross)|ClashCross is a cross-platform proxy debugging application built on the Clash core, supporting Android, Windows, macOS, and Linux.ClashCross是基于Clash核心构建的跨平台代理调试应用，支持android、windows、macos、linux|188|2023-08-04|2023-07-26|
-|19|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|188|2023-07-13|2023-05-05|
-|20|[frog-game/lua-5.4.4-comments](https://github.com/frog-game/lua-5.4.4-comments)|lua-5.4.4-每行都加注释版本|146|2023-06-28|2022-12-26|
-|21|[Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui)|一个使用C++编写的转换ncm文件的GUI工具|108|2023-11-27|2023-01-21|
-|22|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|93|2023-11-28|2023-10-02|
-|23|[h4ckm310n/Container-Vulnerability-Exploit](https://github.com/h4ckm310n/Container-Vulnerability-Exploit)|容器安全漏洞的分析与复现|89|2023-11-05|2023-02-14|
-|24|[rogxo/kernel_hack](https://github.com/rogxo/kernel_hack)|安卓内存读写驱动 linux kernel (Android) memory tool|81|2023-09-24|2023-01-19|
-|25|[onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient)|A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）|66|2023-10-08|2023-05-14|
-|26|[dream2333/PyFastMurmurHash3](https://github.com/dream2333/PyFastMurmurHash3)|A Python extension module of MurmurHash3 developed using a mix of C language and Cython.    最快的MurmurHash3算法，C+Cython混合实现，用于文本指纹计算及布隆过滤器去重|50|2023-06-27|2023-06-25|
-|27|[cqu20160901/yolov8_rknn_Cplusplus](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)|yolov8 瑞芯微 rknn 板端 C++部署。|45|2023-10-12|2023-06-09|
-|28|[openfros/fros](https://github.com/openfros/fros)|打造一款企业级路由器系统|45|2023-06-02|2023-05-29|
-|29|[WITMOTION/WitStandardProtocol_JY901](https://github.com/WITMOTION/WitStandardProtocol_JY901)|维特协议标准精度示例程序(c#)|44|2023-10-04|2023-03-31|
-|30|[paper-tei/smart_car](https://github.com/paper-tei/smart_car)|西南交通大学独轮组代码|40|2023-09-15|2023-07-25|
+|1|[hengyoush/kyanos](https://github.com/hengyoush/kyanos)|Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.|3903|2025-02-25|2024-04-30|
+|2|[OpenNJet/OpenNJet](https://github.com/OpenNJet/OpenNJet)|-|1149|2025-01-17|2024-04-02|
+|3|[mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump)|Process-aware, eBPF-based tcpdump|857|2025-02-25|2024-04-05|
+|4|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|751|2025-01-05|2024-03-25|
+|5|[diylxy/LiThermal](https://github.com/diylxy/LiThermal)|基于海康4117的热成像相机|360|2024-12-12|2024-10-01|
+|6|[lyg09270/CyberryPotter_ElectromagicWand_Basic_Project](https://github.com/lyg09270/CyberryPotter_ElectromagicWand_Basic_Project)|Cyberry Potter electromagic wand.的基础工程，可以使用不同的（法术）动作点亮LED，也可以根据自己的需求将LED修改为其他功能。|358|2024-09-13|2024-07-23|
+|7|[Explorerlowi/ESP32_AI_LLM](https://github.com/Explorerlowi/ESP32_AI_LLM)|本项目使用esp32、esp32s3接入Chatgpt、Claude、讯飞星火、豆包等15款大模型，实现语音对话聊天，支持语音唤醒、连续对话、音乐播放等功能，同时外接了一块显示屏实时显示对话的内容。|342|2024-12-08|2024-07-01|
+|8|[Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st)|免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat |310|2024-12-23|2024-06-21|
+|9|[RemusDBD/ctftools-all-in-one](https://github.com/RemusDBD/ctftools-all-in-one)|市场上虽然存在大量的网络安全工具和软件，但它们大多针对某一特定领域或功能，缺乏一个统一的、集成的、易于使用的综合工具平台。这导致参赛者在CTF竞赛中需要频繁切换不同的工具，不仅降低了工作效率，还增加了操作失误的风险。由gitee转发 ↓|240|2024-11-06|2024-07-07|
+|10|[web3ToolBoxDev/toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient)|一步一步编写web3工具——Step-by-Step Development of Web3 Tools|232|2024-09-26|2024-02-27|
+|11|[zero-rp/ops](https://github.com/zero-rp/ops)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, ...|211|2025-02-22|2024-04-06|
+|12|[ZhangKeLiang0627/EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS)|基于ESP32S3的GPS定位器|170|2024-11-03|2024-06-14|
+|13|[kekeimiku/LuckySpeeder](https://github.com/kekeimiku/LuckySpeeder)|幸运变速器|158|2025-02-07|2024-12-07|
+|14|[vladelaina/Catime](https://github.com/vladelaina/Catime)|A very useful timer (Pomodoro Clock).[一款非常好用的计时器(🍅番茄时钟)]|134|2025-02-25|2025-01-28|
+|15|[Kevincoooool/xiaozhi_c3_hardware](https://github.com/Kevincoooool/xiaozhi_c3_hardware)|ESP32C3 AI对话小音箱 你好小智|126|2024-12-11|2024-12-11|
+|16|[jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)|一个自定义注入so的脚手架|124|2024-11-20|2024-10-05|
+|17|[Li-Dongze/stm32_paw3395_mouse](https://github.com/Li-Dongze/stm32_paw3395_mouse)|本项目是一款基于stm32f103c8t6单片机制作的有线鼠标，使用的光电传感器为原相paw3395，使用HID协议与电脑通讯，尼龙外壳使用立创三维猴3D打印。|122|2024-11-15|2024-09-06|
+|18|[Alexhuge1/Alexbot](https://github.com/Alexhuge1/Alexbot)|一个全开源低成本的双足机器人（2万元（$3000））A Fully Opensourced Humanoid Robot with only $3000|120|2025-02-24|2024-04-16|
+|19|[baigae/HeavenlyBypassAV](https://github.com/baigae/HeavenlyBypassAV)|HeavenlyBypassAV免杀工具|115|2025-02-11|2024-06-03|
+|20|[paokuwansui/Antivirus_killer](https://github.com/paokuwansui/Antivirus_killer)|免杀主流防病毒软件|84|2024-10-17|2024-08-30|
+|21|[lmliheng/FastWebServer](https://github.com/lmliheng/FastWebServer)|😎Focus on forwarding static resource web servers|81|2024-11-23|2024-05-20|
+|22|[howmp/wget](https://github.com/howmp/wget)|可能是windows最小的wget (862字节)|64|2024-12-13|2024-12-13|
+|23|[hfdem/android_gki_kernel_5.15_common](https://github.com/hfdem/android_gki_kernel_5.15_common)|android13-5.15 通用内核，已测试于 Xiaomi 13 Ultra 最新系统|64|2025-01-16|2024-09-11|
+|24|[2023violet/FalconFoc](https://github.com/2023violet/FalconFoc)|【开源】基于 STM32G4 自制FOC驱动板|59|2025-02-23|2025-01-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -43,4 +37,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

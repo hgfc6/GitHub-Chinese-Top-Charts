@@ -1,47 +1,31 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[QiuChenlyOpenSource/macOS-InjectPluginCode](https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode)|libInlineInjectPlugin.dylib 开源项目 基于rd_route的Hook技术以及OC运行时Hook技术|87|2023-06-09|2023-06-05|
-|2|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|40|2023-10-26|2023-10-13|
-|3|[Xezun/XZMocoa](https://github.com/Xezun/XZMocoa)|iOS MVVM 基础框架|33|2023-08-30|2023-08-06|
-|4|[eventtracing/EventTracing-iOS](https://github.com/eventtracing/EventTracing-iOS)|曙光 iOS SDK，隶属于 https://github.com/eventtracing/dawn 项目|22|2023-08-09|2023-02-13|
-|5|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|21|2023-09-21|2023-03-16|
-|6|[andy0andy/ios_crackme](https://github.com/andy0andy/ios_crackme)|ios逆向测试app, 持续开发|18|2023-06-06|2023-05-03|
-|7|[TangSengDaoDao/TangSengDaoDaoiOS](https://github.com/TangSengDaoDao/TangSengDaoDaoiOS)|唐僧叨叨即时通讯(im) iOS 端|15|2023-10-31|2023-07-06|
-|8|[muyang520/IOS_code](https://github.com/muyang520/IOS_code)|iOS逆向代码|13|2023-10-13|2023-05-04|
-|9|[DKJone/DKVideoPlayer](https://github.com/DKJone/DKVideoPlayer)|一款直播或视频类APP插件|12|2023-06-02|2023-06-01|
-|10|[Dubbing-Voice-Engine/DubbingShengwangDemo](https://github.com/Dubbing-Voice-Engine/DubbingShengwangDemo)|声网云市场插件-大饼变声SDK|10|2023-07-10|2023-04-24|
-|11|[CodeBlueFriend/MMChooseAddressView](https://github.com/CodeBlueFriend/MMChooseAddressView)|仿淘宝2023省市县街道地址选择器|6|2023-08-14|2023-08-11|
-|12|[SungKai/MVP_ZhihuDaily](https://github.com/SungKai/MVP_ZhihuDaily)|MVP 模式实现知乎日报部分功能|4|2023-07-28|2023-03-30|
-|13|[eventtracing/EventTracing-iOS-LogViewer](https://github.com/eventtracing/EventTracing-iOS-LogViewer)|曙光 iOS-SDK 开发工具，隶属于 https://github.com/eventtracing/dawn 项目|4|2023-06-16|2023-02-13|
-|14|[niyongsheng/PassKitExample](https://github.com/niyongsheng/PassKitExample)|iOS NFC读卡/写卡、虚拟卡片钱包；|3|2023-08-09|2023-08-09|
-|15|[pianxian/Crashguard](https://github.com/pianxian/Crashguard)|iOS OC 崩溃防护库|3|2023-07-21|2023-07-21|
-|16|[zhengmiaokai/MKWebResources](https://github.com/zhengmiaokai/MKWebResources)|通过 "WKURLSchemeHandler + AjaxHook"，实现WKWebview的资源拦截，解决了Ajax/Fetch请求的Cookie与HTTPBody信息同步问题，为H5秒开项目提供基础支持。|3|2023-07-11|2023-07-06|
-|17|[maxueshan/HotFix-OC](https://github.com/maxueshan/HotFix-OC)|Objective-C 热修复|3|2023-07-05|2023-07-05|
-|18|[bashen1/react-native-mjverification](https://github.com/bashen1/react-native-mjverification)|极光认证，基于jverification-react-native|3|2023-08-17|2023-03-13|
-|19|[lifejwang11/register_schemes](https://github.com/lifejwang11/register_schemes)|uniapp的打开文件到第三方app|3|2023-07-25|2023-02-28|
-|20|[MyNameZhangXinMiao/TagView](https://github.com/MyNameZhangXinMiao/TagView)|仿京东、淘宝展开/收起标签,支持自定义且自动适应宽高. 高度自定义.标签试图|2|2023-11-08|2023-11-08|
-|21|[OuterCloud/TestAppForIOS](https://github.com/OuterCloud/TestAppForIOS)|该项目用来展示用例信息收集库的使用方法|2|2023-10-31|2023-10-30|
-|22|[zhongaiyemaozi/ReadCardInformation](https://github.com/zhongaiyemaozi/ReadCardInformation)|通过OpenCV读取身份证/社保卡信息|2|2023-11-10|2023-10-20|
-|23|[dgyiheda/YUniMPSDK](https://github.com/dgyiheda/YUniMPSDK)|uniapp小程序SDK|2|2023-11-28|2023-09-14|
-|24|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|2|2023-11-22|2023-09-12|
-|25|[sweetKnight/SWRequest](https://github.com/sweetKnight/SWRequest)|一个离散型的网络库|2|2023-09-11|2023-09-11|
-|26|[nongshifu/PUBG-Hack-Table](https://github.com/nongshifu/PUBG-Hack-Table)|和平新表格菜单|2|2023-07-20|2023-07-20|
-|27|[ibiza19/NeteaseCloudMusic](https://github.com/ibiza19/NeteaseCloudMusic)|音乐播放器(网易云音乐)🎹 iOS Objective-C版|2|2023-11-13|2023-07-20|
-|28|[2017398956/react-native-textinput-maxlength-fixed](https://github.com/2017398956/react-native-textinput-maxlength-fixed)|修复 TextInput 设置 maxLength 后，拼音输入超出限制的问题|2|2023-07-12|2023-07-12|
-|29|[wwwwdkdk/Sparrow](https://github.com/wwwwdkdk/Sparrow)|这是一个使用Objective-C 和 Swift编写的iOS 即时通讯APP(聊天APP前端)|2|2023-07-21|2023-06-23|
-|30|[a51095/ScanHelper](https://github.com/a51095/ScanHelper)|二维码、条形码、等多种条码扫描组件，一行代码即可初始化使用。|2|2023-11-09|2023-05-06|
-|31|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2023-11-28|2023-04-30|
-|32|[zhengmiaokai/MKWebFileDownloader](https://github.com/zhengmiaokai/MKWebFileDownloader)|基于NSOperationQueue与NSURLSessionDataTask实现的文件下载器（支持设置队列并发数量、任务优先级、断点续传）。|2|2023-08-04|2023-04-19|
-|33|[yujiuqie/AFJ-Mobile](https://github.com/yujiuqie/AFJ-Mobile)|一个 iOS 示例 Demo，展示 iOS 开发中可能用到的一些技术，包括 ReactNative、Flutter、小程序、H5 混合开发示例。|2|2023-07-19|2023-03-16|
-|34|[GuanceCloud/datakit-uniapp-native-plugin](https://github.com/GuanceCloud/datakit-uniapp-native-plugin)|观测云 Uniapp Native Plugin（Android，iOS）|2|2023-11-23|2023-02-17|
-|35|[eventtracing/EventTracing-iOS-Debug](https://github.com/eventtracing/EventTracing-iOS-Debug)|曙光iOS-SDK For Debug, 隶属于 https://github.com/eventtracing/dawn 项目|2|2023-06-16|2023-02-13|
-|36|[MF-dosear/FlutterGamesKit](https://github.com/MF-dosear/FlutterGamesKit)|Flutter 游戏 SDK iOS、Android双端|2|2023-11-29|2023-02-09|
-|37|[gstory0404/quakerbirdad](https://github.com/gstory0404/quakerbirdad)|Flutter信天翁广告插件|2|2023-11-06|2023-02-06|
+|1|[DargonLee/LookinRootless](https://github.com/DargonLee/LookinRootless)|基于 Dopamine 无根越狱实现的插件，该插件可以调试 iOS 的 UI 界面|99|2024-09-27|2024-09-25|
+|2|[hitnology/snoopy](https://github.com/hitnology/snoopy)|macOS 版本史努比屏幕保护|98|2025-01-20|2025-01-17|
+|3|[huami1314/DYYY](https://github.com/huami1314/DYYY)|用于调整抖音的UI的Tweak|49|2024-10-24|2024-10-06|
+|4|[long-zuyang/Lenovo-R9000P2021H-Hackintosh](https://github.com/long-zuyang/Lenovo-R9000P2021H-Hackintosh)|拯救者 R9000P 2021H 黑苹果 EFI|13|2024-11-29|2024-04-03|
+|5|[paradiseduo/DylibInject](https://github.com/paradiseduo/DylibInject)|通过tweak注入动态库|9|2025-01-15|2025-01-14|
+|6|[Allen0828/Aether](https://github.com/Allen0828/Aether)|Metal 展示全景地图、3D模型、简单游戏等|7|2025-02-25|2024-03-25|
+|7|[JayChou202302/BRCBoxInputView](https://github.com/JayChou202302/BRCBoxInputView)|BRCBoxInputView is a customizable input view that supports various text input customizations and conforms to the UITextInput protocol. 一个基于 UITextInput 协议的验证码输入组件，功能强大，支持高度自定义 ，v1.2.0 支持 SwiftUI|6|2024-12-09|2024-07-05|
+|8|[yuchern/PicInPicDemo](https://github.com/yuchern/PicInPicDemo)|画中画demo|5|2024-12-24|2024-10-09|
+|9|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|4|2024-12-17|2024-06-27|
+|10|[KennyHito/StudyiOS](https://github.com/KennyHito/StudyiOS)|iOS编写的Demo【ReactiveObjC、切换App Logo、多线程、Runtime、CollectionView自定义标签、关于我们、TableView展开收起、截图分享功能、弹球碰撞功能、设置九宫格密码、日期选择器、HTML5交互、仿京东地址选择器、AVPlayer播放视频、AVPlayer播放音频、电商类软件加购动画效果、苹果系统自带分享功能、判断手机是否越狱、倒计时功能、星级评分功 ...|4|2025-01-23|2024-05-21|
+|11|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|3|2025-01-22|2024-05-11|
+|12|[Apibug/WeChatPluginHook](https://github.com/Apibug/WeChatPluginHook)|修改知名微信插件的版权|2|2025-02-04|2025-02-04|
+|13|[libtinker/TKStackCard](https://github.com/libtinker/TKStackCard)|叠层卡片视图|2|2025-01-23|2025-01-22|
+|14|[nongshifu/SCLAlertView-develop](https://github.com/nongshifu/SCLAlertView-develop)|增加了过直播属性 修改按钮列表为滚动视图 自适应横竖屏高度|2|2025-01-13|2025-01-13|
+|15|[vcredit-zhangyu/ios_pgPhone](https://github.com/vcredit-zhangyu/ios_pgPhone)|苹果端APP项目|2|2025-02-06|2024-12-25|
+|16|[nongshifu/SVProgressHUD](https://github.com/nongshifu/SVProgressHUD)|图标改为本地资源 支持动态库导入|2|2024-10-29|2024-10-29|
+|17|[StarHosea/rn-getui](https://github.com/StarHosea/rn-getui)|个推 ReacNative 库，支持 Android，IOS，Web，支持 Expo|2|2024-09-28|2024-09-28|
+|18|[vampire-locker/iOS-Tools-OC](https://github.com/vampire-locker/iOS-Tools-OC)|iOS 常用的工具类|2|2024-09-05|2024-08-20|
+|19|[dmdsp/DomobAdSDK](https://github.com/dmdsp/DomobAdSDK)|多盟广告SDK|2|2025-02-08|2024-07-09|
+|20|[HelloGitHub123/DXPADLib](https://github.com/HelloGitHub123/DXPADLib)|DXP 广告SDK|2|2024-11-28|2024-06-24|
+|21|[AeolusZane/rn-swift-demo](https://github.com/AeolusZane/rn-swift-demo)|RN-Swift混合开发，覆盖大部分开发需求。包含RN使用Swift组件，RN和Swift组件相互通信，RN更新Swift组件状态、Swift更新RN组件状态|2|2025-02-10|2024-03-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -50,4 +34,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

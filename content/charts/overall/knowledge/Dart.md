@@ -1,29 +1,27 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[wendux/flutter_in_action_source_code](https://github.com/wendux/flutter_in_action_source_code)|《Flutter实战》随书源码|789|2023-06-10|
-|2|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|763|2023-11-28|
-|3|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter版微信登录/分享/支付 SDK|654|2023-06-06|
-|4|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|621|2023-10-05|
-|5|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|262|2023-11-29|
-|6|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|229|2023-09-12|
-|7|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|175|2023-11-29|
-|8|[xiaoyaocz/flutter_cnblogs](https://github.com/xiaoyaocz/flutter_cnblogs)|博客园Flutter客户端|93|2023-09-18|
-|9|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|92|2023-11-09|
-|10|[xiaojia21190/ZY_Player_flutter](https://github.com/xiaojia21190/ZY_Player_flutter)|影视 漫画 小说 听书 |58|2023-11-20|
-|11|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|49|2023-07-11|
-|12|[lixp185/bookfx](https://github.com/lixp185/bookfx)|模拟书籍翻页效果|47|2023-11-03|
-|13|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|28|2023-06-18|
-|14|[shang1219178163/flutter_templet_project](https://github.com/shang1219178163/flutter_templet_project)| 个人模板项目, 包含组件使用示例、自定义组件封装、代码优化封装技巧。。。|25|2023-11-25|
-|15|[yixiaolunhui/flutter_xy](https://github.com/yixiaolunhui/flutter_xy)|Android小样公众号对应Flutter的demo集合|17|2023-10-23|
-|16|[JerryAlexLiang/flutter_wan_android_getx](https://github.com/JerryAlexLiang/flutter_wan_android_getx)|WanAndroid Flutter版 基于GetX ，欢迎互相交流学习， Gitee：https://gitee.com/JerryAlexLiang/flutter_wan_android_getx.git|11|2023-08-25|
-|17|[gvenusleo/lex-app](https://github.com/gvenusleo/lex-app)|划词翻译软件，使用 Flutter 开发，支持多个翻译模型|8|2023-11-27|
-|18|[helloDolin/dolin_demo_flutter](https://github.com/helloDolin/dolin_demo_flutter)|flutter 学习、总结、提高|8|2023-11-28|
-|19|[Petterpx/FlutterQuickExample](https://github.com/Petterpx/FlutterQuickExample)|Flutter入门示例，对照着Flutter实战书籍写的一个demo。|5|2023-09-11|
+|1|[arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|1129|2024-10-26|
+|2|[nightmare-space/fast_share](https://github.com/nightmare-space/fast_share)|Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|937|2025-01-22|
+|3|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|829|2025-02-26|
+|4|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|749|2024-11-21|
+|5|[bingoogolapple/bga_issue_blog](https://github.com/bingoogolapple/bga_issue_blog)|Flutter 或 Vue 全家桶（Vue + VueRouter + Vuex + Axios）抓取 GitHub 上的 Issues，结合 GitHub Pages 搭建个人博客站点，支持 GitHub 登录和评论|271|2024-12-10|
+|6|[shaoting0730/Flutter_learn_demo](https://github.com/shaoting0730/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|256|2025-02-25|
+|7|[vito-go/mywords](https://github.com/vito-go/mywords)|通过在线浏览或手动输入网址，自动提取网页中的单词及其上下文。软件会对单词进行去重、统计，并筛选出陌生的单词。作为一款开源字典工具，它将成为您英语学习的得力助手。|255|2025-02-20|
+|8|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|247|2024-12-11|
+|9|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|134|2024-11-10|
+|10|[xiaojia21190/ZY_Player_flutter](https://github.com/xiaojia21190/ZY_Player_flutter)|影视 漫画 小说 听书 |125|2025-02-25|
+|11|[shang1219178163/flutter_templet_project](https://github.com/shang1219178163/flutter_templet_project)| 个人模板项目, 包含组件使用示例、自定义组件封装、代码优化封装技巧。。。|83|2025-02-25|
+|12|[yixiaolunhui/flutter_xy](https://github.com/yixiaolunhui/flutter_xy)|Android小样公众号对应Flutter的demo集合|72|2024-10-11|
+|13|[helloDolin/dolin_demo_flutter](https://github.com/helloDolin/dolin_demo_flutter)|flutter 学习、总结、提高|13|2025-02-07|
+|14|[YangSuGuo/flutter_news](https://github.com/YangSuGuo/flutter_news)|仿照知乎日报的flutter项目|9|2024-11-10|
+|15|[coder-pig/cp_study_flutter_demo](https://github.com/coder-pig/cp_study_flutter_demo)|《掘金专栏-跟🤡杰哥一起学Flutter》的配套代码|6|2025-01-20|
+|16|[zjy199103/xiaomiShop](https://github.com/zjy199103/xiaomiShop)|flutter 仿小米商城学习项目|5|2024-12-26|
+|17|[hetu-script/heavenly-tribulation](https://github.com/hetu-script/heavenly-tribulation)|Heavenly Tribulation: A RPG game mixed with cardgame-autobattler/Tycoon elements. Game logic is written in Hetu Script. 《天道奇劫》：混合了仙侠RPG+卡牌自动对战+门派经营玩法的游戏。|5|2025-02-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -32,4 +30,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

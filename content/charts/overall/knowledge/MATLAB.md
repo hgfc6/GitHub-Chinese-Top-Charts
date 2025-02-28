@@ -1,29 +1,33 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > MATLAB
-<sub>数据更新: 2023-11-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1029|2023-10-06|
-|2|[denkywu/SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)|合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme ...|544|2023-11-19|
-|3|[qxr777/NumericalAnalysis](https://github.com/qxr777/NumericalAnalysis)|计算机数值分析课程|81|2023-11-20|
-|4|[NMID-CQUPT/CLF-CQPUT](https://github.com/NMID-CQUPT/CLF-CQPUT)|🛰重庆邮电大学课程攻略 Learning files for courses and training in  Chongqing University of Posts and Telecommunications|81|2023-06-18|
-|5|[xiesp/IntroductionToLinearAlgebra-Chinese-note](https://github.com/xiesp/IntroductionToLinearAlgebra-Chinese-note)|MIT  Gilbert Strang教授的线性导数导论笔记，包含全中文书本内容和视频笔记|51|2023-10-02|
-|6|[Changjing-Liu/Data_Fusion_Course](https://github.com/Changjing-Liu/Data_Fusion_Course)|The solution of the data fusion  course of SJTU. MTALAB code for KF/UKF/EKF/PF/FKF/DKF. 数据融合技术，卡尔曼滤波KF/无迹卡尔曼滤波UKF/拓展卡尔曼滤波EKF等的MATLAB实现|30|2023-07-09|
-|7|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|19|2023-10-26|
-|8|[ZhuliuAiagle/MyCourse](https://github.com/ZhuliuAiagle/MyCourse)|本科阶段一些课程资料整理|13|2023-07-22|
-|9|[iChunyu/LearnCtrlSys](https://github.com/iChunyu/LearnCtrlSys)|控制理论学习记录|12|2023-10-09|
-|10|[Sakura-shem/JLU-OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto)|吉林大学通信自动化 生存资料|11|2023-09-27|
-|11|[weiyawen2015/topology_optimize_data](https://github.com/weiyawen2015/topology_optimize_data)|拓扑优化整理资料|10|2023-07-15|
-|12|[casparji1018921/-Structured-Light-3D-Reconstruction-](https://github.com/casparji1018921/-Structured-Light-3D-Reconstruction-)|这个代码库存放了个人学习结构光三维重建的学习内容和代码，旨在分享和交流，帮助其他对该主题感兴趣的人。如有问题或建议，欢迎联系我！（This repository contains personal learning materials and code related to structured light 3D reconstruction, intended for sharing and c ...|7|2023-10-10|
-|13|[liaojingrui01/Quality-Driven-Beamforming-Design-for-IRS-Aided-Video-Broadcasting](https://github.com/liaojingrui01/Quality-Driven-Beamforming-Design-for-IRS-Aided-Video-Broadcasting)|第三篇论文|5|2023-06-19|
-|14|[badxinxin/pulse-modified-moudle](https://github.com/badxinxin/pulse-modified-moudle)|智能弹药课程设计作业|5|2023-06-20|
-|15|[ManshengChen/Code-for-TLIMSC-master](https://github.com/ManshengChen/Code-for-TLIMSC-master)|张量学习诱导的多视图谱聚类, 计算机学报2023.|4|2023-09-10|
-|16|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|网络首发论文“增强型白骨顶鸡优化算法及其应用”的代码，您可以通过知网找到原文|4|2023-09-09|
-|17|[zhao-zhibo/INS](https://github.com/zhao-zhibo/INS)|牛小骥的惯导机械编排算法，以严恭敏的PSINS为基础，坐标系为东北天，武汉大学的机械编排课程作业|4|2023-11-06|
-|18|[A-Normal-User/REKCARC-EC-UHT](https://github.com/A-Normal-User/REKCARC-EC-UHT)|一些资料的汇总|3|2023-06-04|
-|19|[Elapsedf/Matlab-Project](https://github.com/Elapsedf/Matlab-Project)|用matlab编写的相关算法合集|3|2023-10-19|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|5348|2025-02-11|
+|2|[zhihongz/awesome-low-light-image-enhancement](https://github.com/zhihongz/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1543|2025-02-17|
+|3|[Ultrasty/Digital-Image-Processing](https://github.com/Ultrasty/Digital-Image-Processing)|冈萨雷斯《数字图像处理》第三版-课后习题答案；《数字图像处理（matlab版）》-源代码及图片 DIP|228|2024-10-21|
+|4|[ivaquero/book-control](https://github.com/ivaquero/book-control)|简明控制理论教程，基于 DR_CAN 哔站系列课程|103|2025-02-16|
+|5|[Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning](https://github.com/Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning)|本项目为归档项目包，不再更新维护，该项目可作为机器人相关专业的本科生和研究生进行学习和参考的资料。 项目首先对PUMA560机械臂的基本结构和参数进行了介绍，对其运动学特性进行了分析并给出了正逆运动学的完整算法。其次，建立了PUMA560的三维模型，制作了机器人的URDF网格可视化文件，并在Simulink中开发了机械臂的可视化仿真框架。最后，分别基于关节空间和笛卡尔空间对机械臂进行了轨迹规划并在 ...|25|2024-12-17|
+|6|[infinity-07/Numerical-analysis-code](https://github.com/infinity-07/Numerical-analysis-code)|使用MATLAB实现数值分析课程的算法|19|2024-10-31|
+|7|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|17|2025-01-07|
+|8|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|17|2024-12-22|
+|9|[yan-fanyu/CUMCM-Paper-And-SourceCode](https://github.com/yan-fanyu/CUMCM-Paper-And-SourceCode)|CUMCM 2010年-2023年全国大学生数学建模竞赛论文和源代码（Paper and source code for the 2010-2023 National College Student Mathematical Modeling Competition）|14|2024-09-09|
+|10|[chenguangwei/tech-knowledge](https://github.com/chenguangwei/tech-knowledge)|整理自己的一些 github stars项目和学习记录|13|2024-10-11|
+|11|[LuoQingju/DCOPF](https://github.com/LuoQingju/DCOPF)|DC Optimal Power Flow (OPF) via gurobi and yalmip, respectively. An example for learning gurobi and yalmip. 分别通过gurobi和yalmip实现直流最优潮流。学习gurobi和yalmip的小例子|11|2024-11-06|
+|12|[LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB](https://github.com/LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB)|该项目需将多个eis数据（包含频率、实部、虚部）汇总到一个excel表格中（每个sheet一份数据），可将多个eis数据批量转化为DRT图谱。|9|2024-09-19|
+|13|[LuoPoJunZi/Learn](https://github.com/LuoPoJunZi/Learn)|不断学习，一起进步|8|2024-12-22|
+|14|[vectorZeng/CUG_Automation](https://github.com/vectorZeng/CUG_Automation)|中国地质大学 （武汉） 自动化专业 课程资料共享|6|2024-09-12|
+|15|[RomanVecter/electrolytic-hydrogen-task](https://github.com/RomanVecter/electrolytic-hydrogen-task)|基于MATLAB语言开发复刻一篇电解氢论文|5|2024-11-25|
+|16|[Qin-mian/HUST_AIA_course_learn](https://github.com/Qin-mian/HUST_AIA_course_learn)|记录我自己的复习笔记，希望有助于后人（）|4|2025-01-08|
+|17|[sylvanding/bit-numerical-analysis-hw](https://github.com/sylvanding/bit-numerical-analysis-hw)|⭐️ 北京理工大学数值分析《数值计算方法》丁丽娟-数值实验作业（MATLAB）和课后作业|4|2024-12-04|
+|18|[WZRforcontrol/YSU_JY_B_ks](https://github.com/WZRforcontrol/YSU_JY_B_ks)|YSU机械原理B课程设计(方案二)|4|2024-09-05|
+|19|[Ahalikai/MOEA](https://github.com/Ahalikai/MOEA)|Live and learn. Understanding and Matlab reproduction of some classical algorithms (such as MOEA, Surrogate Model, Reinforcement Learning etc.). 对一些经典算法的理解和Matlab代码复现（如：多目标优化、代理模型、强化学习等）。|4|2024-09-11|
+|20|[JimmyChenkk/Southeast-University-School-of-Automation-and-Control-Science-course-resource](https://github.com/JimmyChenkk/Southeast-University-School-of-Automation-and-Control-Science-course-resource)|东南大学自动化学院课程资料共享仓库，涉及实验报告、项目代码、课件、课本答案、参考书等学习资料，详见README.md|3|2025-02-26|
+|21|[OptimusHimself/MCM](https://github.com/OptimusHimself/MCM)|swj, fxy, zwy MCM group only. 内部资料分享|3|2025-01-27|
+|22|[JimmyChenkk/Reproduction-of-the-paper-on-fault-detection-using-Attention-GRU-in-MATLAB.](https://github.com/JimmyChenkk/Reproduction-of-the-paper-on-fault-detection-using-Attention-GRU-in-MATLAB.)|This is a Reproduction of the paper on fault detection using attention GRU in MATLAB. 对于关于用attention GRU实现故障检测的论文的matlab复现|3|2024-09-23|
+|23|[zl0125/SAR-](https://github.com/zl0125/SAR-)|学习与课程实践使用|3|2025-01-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -32,4 +36,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
